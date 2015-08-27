@@ -1,0 +1,15 @@
+2014-12-01 13:33:52 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.10:8008
+2014-12-01 13:33:58 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor1568160
+2014-12-01 13:33:58 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-12-01 13:33:59 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-12-01 13:33:59 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-12-01 14:00:54 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.10:8006
+2014-12-01 14:00:58 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor2260181
+2014-12-01 14:00:58 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-12-01 14:00:58 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-12-01 14:00:58 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-12-01 14:01:40 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.51:8020
+2014-12-01 14:01:44 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor2260264
+2014-12-01 14:01:44 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-12-01 14:01:45 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-12-01 14:01:45 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602

@@ -1,0 +1,35 @@
+2014-10-31 14:03:43 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.19:8025
+2014-10-31 14:03:49 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-31 14:03:49 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-10-31 14:03:49 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-31 14:03:49 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-10-31 14:07:52 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8021
+2014-10-31 14:07:57 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-31 14:07:57 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-10-31 14:07:57 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-31 14:07:57 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-10-31 14:08:26 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.20:8003
+2014-10-31 14:08:30 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-31 14:08:30 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-10-31 14:08:30 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-31 14:08:30 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-10-31 14:10:55 INFO ContentMinaHandler:104 - 接收到礼物消息	tabbycat 赠送给主播100个鱼丸
+2014-10-31 14:17:37 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.19:8026
+2014-10-31 14:17:42 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-31 14:17:42 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-10-31 14:17:42 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-31 14:17:42 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-10-31 14:17:47 INFO ContentMinaHandler:104 - 接收到礼物消息	tabbycat 赠送给主播100个鱼丸
+2014-10-31 14:19:32 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8022
+2014-10-31 14:19:37 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-31 14:19:37 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-10-31 14:19:37 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-31 14:19:37 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-10-31 14:19:59 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8018
+2014-10-31 14:20:03 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-31 14:20:03 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-10-31 14:20:03 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-31 14:20:04 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-10-31 14:20:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]一~二~三~四~ 胃必治~ 提摩BOT帅气登场~
+2014-10-31 14:20:11 INFO ContentMinaHandler:104 - 接收到礼物消息	tabbycat 赠送给主播100个鱼丸
+2014-10-31 14:20:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 tabbycat 送的 100 个丸子!

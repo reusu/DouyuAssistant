@@ -1,0 +1,80 @@
+2015-06-01 09:27:43 INFO LoginMinaThread:48 - 随机选择登陆服务器 182.18.47.10:8002
+2015-06-01 09:27:48 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor7183187
+2015-06-01 09:27:48 INFO LoginMinaHandler:110 - 登陆的房间编号为: 138182 床
+2015-06-01 09:27:48 INFO LoginMinaHandler:113 - 加入的讨论群组为: 37 组
+2015-06-01 09:27:49 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2015-06-01 09:28:10 INFO ContentMinaThread:84 - 弹幕服务器连接失败!
+2015-06-01 09:29:12 INFO LoginMinaThread:48 - 随机选择登陆服务器 182.18.47.17:8047
+2015-06-01 09:29:17 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor7191907
+2015-06-01 09:29:17 INFO LoginMinaHandler:110 - 登陆的房间编号为: 138182 床
+2015-06-01 09:29:17 INFO LoginMinaHandler:113 - 加入的讨论群组为: 37 组
+2015-06-01 09:29:17 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2015-06-01 09:29:38 ERROR ContentMinaThread:84 - 弹幕服务器连接失败!
+org.apache.mina.core.RuntimeIoException: Failed to get the session.
+	at org.apache.mina.core.future.DefaultConnectFuture.getSession(DefaultConnectFuture.java:58)
+	at name.yumao.douyu.mina.ContentMinaThread.run(ContentMinaThread.java:62)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.mina.transport.socket.nio.NioSocketConnector.finishConnect(NioSocketConnector.java:221)
+	at org.apache.mina.transport.socket.nio.NioSocketConnector.finishConnect(NioSocketConnector.java:46)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector.processConnections(AbstractPollingIoConnector.java:442)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector.access$700(AbstractPollingIoConnector.java:64)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector$Connector.run(AbstractPollingIoConnector.java:510)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	... 1 more
+2015-06-01 09:30:33 INFO LoginMinaThread:48 - 随机选择登陆服务器 182.18.47.22:8022
+2015-06-01 09:30:56 INFO LoginMinaThread:48 - 随机选择登陆服务器 182.18.47.18:8059
+2015-06-01 09:31:01 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor7201704
+2015-06-01 09:31:01 INFO LoginMinaHandler:110 - 登陆的房间编号为: 138182 床
+2015-06-01 09:31:01 INFO LoginMinaHandler:113 - 加入的讨论群组为: 32 组
+2015-06-01 09:31:01 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2015-06-01 09:31:19 INFO ContentMinaHandler:163 - 失去与弹幕服务器的连接
+2015-06-01 09:31:19 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-06-01 09:32:09 INFO LoginMinaThread:48 - 随机选择登陆服务器 182.18.47.23:8024
+2015-06-01 09:32:13 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor7209137
+2015-06-01 09:32:13 INFO LoginMinaHandler:110 - 登陆的房间编号为: 138182 床
+2015-06-01 09:32:13 INFO LoginMinaHandler:113 - 加入的讨论群组为: 37 组
+2015-06-01 09:32:13 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2015-06-01 09:32:35 ERROR ContentMinaThread:84 - 弹幕服务器连接失败!
+org.apache.mina.core.RuntimeIoException: Failed to get the session.
+	at org.apache.mina.core.future.DefaultConnectFuture.getSession(DefaultConnectFuture.java:58)
+	at name.yumao.douyu.mina.ContentMinaThread.run(ContentMinaThread.java:62)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.mina.transport.socket.nio.NioSocketConnector.finishConnect(NioSocketConnector.java:221)
+	at org.apache.mina.transport.socket.nio.NioSocketConnector.finishConnect(NioSocketConnector.java:46)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector.processConnections(AbstractPollingIoConnector.java:442)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector.access$700(AbstractPollingIoConnector.java:64)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector$Connector.run(AbstractPollingIoConnector.java:510)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	... 1 more
+2015-06-01 09:37:26 INFO LoginMinaThread:48 - 随机选择登陆服务器 182.18.47.23:8036
+2015-06-01 09:37:30 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1215517
+2015-06-01 09:37:30 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-06-01 09:37:30 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-06-01 09:37:30 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2015-06-01 09:37:52 ERROR ContentMinaThread:84 - 弹幕服务器连接失败!
+org.apache.mina.core.RuntimeIoException: Failed to get the session.
+	at org.apache.mina.core.future.DefaultConnectFuture.getSession(DefaultConnectFuture.java:58)
+	at name.yumao.douyu.mina.ContentMinaThread.run(ContentMinaThread.java:62)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.apache.mina.transport.socket.nio.NioSocketConnector.finishConnect(NioSocketConnector.java:221)
+	at org.apache.mina.transport.socket.nio.NioSocketConnector.finishConnect(NioSocketConnector.java:46)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector.processConnections(AbstractPollingIoConnector.java:442)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector.access$700(AbstractPollingIoConnector.java:64)
+	at org.apache.mina.core.polling.AbstractPollingIoConnector$Connector.run(AbstractPollingIoConnector.java:510)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	... 1 more

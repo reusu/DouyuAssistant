@@ -1,0 +1,27 @@
+2014-09-24 07:25:48 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.20:8002
+2014-09-24 07:26:00 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8008
+2014-09-24 07:26:16 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8021
+2014-09-24 07:27:22 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8021
+2014-09-24 07:28:52 INFO LoginMinaThread:45 - 随机选择登陆服务器 210.73.208.150:8035
+2014-09-24 07:29:19 INFO LoginMinaThread:45 - 随机选择登陆服务器 210.73.208.150:8033
+2014-09-24 07:29:20 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-24 07:29:20 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-24 07:29:20 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-24 07:29:20 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-24 08:20:44 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8017
+2014-09-24 08:20:45 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-24 08:20:45 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-24 08:20:45 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-24 08:20:45 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-24 08:20:51 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Auto] 启动鱼丸答谢功能
+2014-09-24 10:45:46 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.20:8001
+2014-09-24 10:45:47 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-24 10:45:47 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-24 10:45:47 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-24 10:45:47 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-24 10:45:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Auto] 启动鱼丸答谢功能
+2014-09-24 10:46:25 INFO LoginMinaThread:45 - 随机选择登陆服务器 210.73.208.150:8011
+2014-09-24 10:46:25 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-24 10:46:25 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-24 10:46:25 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-24 10:46:26 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601

@@ -1,0 +1,520 @@
+2015-05-11 08:31:04 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8028
+2015-05-11 08:31:05 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:31:05 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:31:05 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:31:13 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8026
+2015-05-11 08:31:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:31:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:31:14 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:31:21 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8026
+2015-05-11 08:31:22 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:31:22 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:31:22 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:31:40 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8028
+2015-05-11 08:31:45 INFO LoginMinaHandler:107 - 获取的登录用户名为: Teemo
+2015-05-11 08:31:45 INFO LoginMinaHandler:110 - 登陆的房间编号为: 64609 床
+2015-05-11 08:31:45 INFO LoginMinaHandler:113 - 加入的讨论群组为: 8 组
+2015-05-11 08:31:45 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2015-05-11 08:31:47 INFO ContentMinaHandler:90 - 接收到弹幕消息	johnson456 : 下暴雨
+2015-05-11 08:31:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]一~二~三~四~ 胃必治~ 提摩BOT帅气登场~
+2015-05-11 08:31:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	小花不沾草 : luo出个大根 看他骨法还敢虚无
+2015-05-11 08:31:49 INFO ContentMinaHandler:90 - 接收到弹幕消息	再见_皮卡丘 : 这把秘密爹要翻
+2015-05-11 08:32:50 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8019
+2015-05-11 08:33:07 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8007
+2015-05-11 08:33:07 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:33:07 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:33:07 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:33:44 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8054
+2015-05-11 08:33:49 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor2303366
+2015-05-11 08:33:49 INFO LoginMinaHandler:110 - 登陆的房间编号为: 64609 床
+2015-05-11 08:33:49 INFO LoginMinaHandler:113 - 加入的讨论群组为: 4 组
+2015-05-11 08:33:49 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2015-05-11 08:33:58 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8034
+2015-05-11 08:33:59 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:33:59 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:33:59 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:00 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:00 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:00 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:00 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:01 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8049
+2015-05-11 08:34:01 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:01 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:01 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:02 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8011
+2015-05-11 08:34:03 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:03 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:03 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:03 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8047
+2015-05-11 08:34:03 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:03 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:03 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:04 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8034
+2015-05-11 08:34:04 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:04 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:04 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:05 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8018
+2015-05-11 08:34:05 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:05 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:05 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:06 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8034
+2015-05-11 08:34:06 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:06 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:06 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:07 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8054
+2015-05-11 08:34:07 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:07 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:07 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:08 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8011
+2015-05-11 08:34:08 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:08 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:08 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:09 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:09 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:09 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:09 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:10 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:10 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:10 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:10 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:11 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:12 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:12 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:12 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:12 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:13 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:13 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:13 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:13 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:13 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:13 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:13 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:14 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:14 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:14 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8048
+2015-05-11 08:34:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:14 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:14 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:15 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:15 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:15 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:15 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8033
+2015-05-11 08:34:15 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:15 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:15 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:15 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:16 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:16 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:16 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:17 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8033
+2015-05-11 08:34:17 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:17 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:17 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:17 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:17 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:17 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:17 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:18 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:18 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:18 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:18 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:18 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8050
+2015-05-11 08:34:19 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:19 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:19 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:19 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8054
+2015-05-11 08:34:19 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:19 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:19 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:19 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:20 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:20 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:20 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:20 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:20 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:20 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:20 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:20 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8014
+2015-05-11 08:34:21 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:21 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:21 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:21 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8048
+2015-05-11 08:34:21 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:21 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:21 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:22 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:22 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:22 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:22 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:22 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8036
+2015-05-11 08:34:22 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:22 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:22 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:23 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:23 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:23 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:23 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:23 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8035
+2015-05-11 08:34:24 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:24 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:24 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:24 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8050
+2015-05-11 08:34:24 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:24 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:24 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:25 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8054
+2015-05-11 08:34:25 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:25 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:25 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:25 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8050
+2015-05-11 08:34:25 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:25 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:25 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:32 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:32 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:32 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:32 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:33 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8050
+2015-05-11 08:34:33 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:33 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:33 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:34 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8035
+2015-05-11 08:34:34 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:34 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:34 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:35 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8033
+2015-05-11 08:34:35 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:35 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:35 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:36 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8006
+2015-05-11 08:34:36 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:36 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:36 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:36 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 08:34:36 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:36 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:36 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:41 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8035
+2015-05-11 08:34:41 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:41 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:41 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:45 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8014
+2015-05-11 08:34:45 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:45 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:45 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:49 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8048
+2015-05-11 08:34:49 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:34:49 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:34:49 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:34:52 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8035
+2015-05-11 08:34:57 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor2304195
+2015-05-11 08:34:57 INFO LoginMinaHandler:110 - 登陆的房间编号为: 64609 床
+2015-05-11 08:34:57 INFO LoginMinaHandler:113 - 加入的讨论群组为: 4 组
+2015-05-11 08:34:57 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2015-05-11 08:34:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	157098557 : [emot:rage]
+2015-05-11 08:35:05 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8045
+2015-05-11 08:35:06 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:06 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:06 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:10 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8045
+2015-05-11 08:35:10 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:10 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:10 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:11 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8045
+2015-05-11 08:35:12 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:12 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:12 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:12 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8045
+2015-05-11 08:35:12 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:13 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:13 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:13 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8001
+2015-05-11 08:35:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:14 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:14 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8013
+2015-05-11 08:35:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:14 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:14 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:15 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8009
+2015-05-11 08:35:15 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:15 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:15 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:16 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8029
+2015-05-11 08:35:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:16 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:16 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8023
+2015-05-11 08:35:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:16 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:17 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8001
+2015-05-11 08:35:17 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:17 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:17 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:17 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8016
+2015-05-11 08:35:18 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:18 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:18 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:18 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8001
+2015-05-11 08:35:18 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:18 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:18 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:18 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8045
+2015-05-11 08:35:19 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:19 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:19 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:19 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8001
+2015-05-11 08:35:19 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:19 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:19 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:20 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8027
+2015-05-11 08:35:20 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:20 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:20 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:20 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8053
+2015-05-11 08:35:21 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:21 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:21 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:21 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8016
+2015-05-11 08:35:21 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:21 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:21 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:24 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8001
+2015-05-11 08:35:25 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:25 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:25 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:28 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8023
+2015-05-11 08:35:29 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:29 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:29 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:36 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8055
+2015-05-11 08:35:40 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor2304708
+2015-05-11 08:35:40 INFO LoginMinaHandler:110 - 登陆的房间编号为: 64609 床
+2015-05-11 08:35:40 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 08:35:41 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2015-05-11 08:35:46 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8016
+2015-05-11 08:35:46 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:46 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:46 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:50 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8013
+2015-05-11 08:35:50 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:50 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:50 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:54 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8027
+2015-05-11 08:35:54 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:54 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:54 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:35:57 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8045
+2015-05-11 08:35:58 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:35:58 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:35:58 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:01 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8001
+2015-05-11 08:36:01 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:01 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:01 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:02 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8023
+2015-05-11 08:36:02 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:02 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:02 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:03 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8013
+2015-05-11 08:36:03 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:03 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:03 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:03 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8001
+2015-05-11 08:36:03 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:03 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:03 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:04 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8055
+2015-05-11 08:36:04 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:04 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:04 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:05 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8013
+2015-05-11 08:36:05 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:05 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:05 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:05 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8045
+2015-05-11 08:36:05 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:05 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:05 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:09 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8001
+2015-05-11 08:36:09 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:09 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:09 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:12 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8027
+2015-05-11 08:36:13 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:13 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:13 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:36:16 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8025
+2015-05-11 08:36:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:36:16 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:36:16 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:41:30 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8016
+2015-05-11 08:41:31 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:41:31 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:41:31 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:41:32 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8002
+2015-05-11 08:41:33 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-11 08:41:33 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-11 08:41:33 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-11 08:41:33 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8020
+2015-05-11 08:41:38 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor2309837
+2015-05-11 08:41:38 INFO LoginMinaHandler:110 - 登陆的房间编号为: 64609 床
+2015-05-11 08:41:38 INFO LoginMinaHandler:113 - 加入的讨论群组为: 11 组
+2015-05-11 08:41:38 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2015-05-11 08:41:40 INFO ContentMinaHandler:90 - 接收到弹幕消息	acbada : 2008 刷起来
+2015-05-11 08:41:40 INFO ContentMinaHandler:90 - 接收到弹幕消息	没魔 : 八师傅狠狠奶对面一口
+2015-05-11 08:41:40 INFO ContentMinaHandler:90 - 接收到弹幕消息	奣兲旻 : 秘密队像我们3千的天梯 都以为自己是大神
+2015-05-11 08:41:42 INFO ContentMinaHandler:90 - 接收到弹幕消息	252302357 : 八师傅 你怎么比昨天帅了啊
+2015-05-11 08:41:43 INFO ContentMinaHandler:90 - 接收到弹幕消息	一只曹表哥 : 八嘎组合该唱歌啦
+2015-05-11 08:41:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	xintailei001 : 8师傅我奈你啊！！！
+2015-05-11 08:41:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	wyflin : VG没来？？？
+2015-05-11 08:41:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	cyerd : ..吃了文化亏
+2015-05-11 08:41:46 INFO ContentMinaHandler:90 - 接收到弹幕消息	328350678 : 秘密第一局赢不是侥幸，只是IG状态转得好
+2015-05-11 08:41:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	平淡最真124 : 西罗强行教小zai玩蜘蛛啊
+2015-05-11 08:41:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	活捉波多野结衣 : 8师傅，你小金本没1000级能看？
+2015-05-11 08:41:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	DK_lann : Vg被3比0
+2015-05-11 08:41:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	太帅来了 : TI最恐怖的对手是EG
+2015-05-11 08:41:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	zdx366428055 : 8师傅不吹比我不看这个直播了！
+2015-05-11 08:41:51 INFO ContentMinaHandler:90 - 接收到弹幕消息	香烟配红酒 : 八狮虎把ID 改成F91 就有91成胜了
+2015-05-11 08:41:52 INFO ContentMinaHandler:90 - 接收到弹幕消息	哀的哀伤 : ti前和ob一起十连败 稳如poi好吗2
+2015-05-11 08:41:53 INFO ContentMinaHandler:90 - 接收到弹幕消息	a493868657 : 护龙一时苦，比赛猛如虎，护龙BUFF太逆
+2015-05-11 08:41:53 INFO ContentMinaHandler:90 - 接收到弹幕消息	1x5x6zhd : 8
+2015-05-11 08:41:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	qlz2013 : 做寳搞
+2015-05-11 08:41:55 INFO ContentMinaHandler:90 - 接收到弹幕消息	笨贼一箩筐 : 这是在哪里打的
+2015-05-11 08:46:06 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8050
+2015-05-11 08:46:11 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor4164203
+2015-05-11 08:46:11 INFO LoginMinaHandler:110 - 登陆的房间编号为: 70994 床
+2015-05-11 08:46:11 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 08:46:12 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2015-05-11 08:46:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	进口马桶 : 撸啊撸不是被韩国掉大了么
+2015-05-11 08:46:47 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8028
+2015-05-11 08:46:52 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor4164303
+2015-05-11 08:46:52 INFO LoginMinaHandler:110 - 登陆的房间编号为: 70994 床
+2015-05-11 08:46:52 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 08:46:52 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2015-05-11 08:46:52 INFO ContentMinaHandler:78 - DanmuServer:type@=loginres/userid@=0/roomgroup@=738197536/pg@=0/sessionid@=33/username@=/nickname@=/is_signined@=1073736256/signin_count@=32511/s@=R?~/live_stat@=-1509998928/npv@=32511/
+2015-05-11 08:46:53 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=13/uc@=32511/
+2015-05-11 08:46:57 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=9705650/gid@=0/rid@=70994/content@=我这儿十连座在看木头直播，真的/snick@=神抽狗深宫豹/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d471854c9090000000000/sui@=id@A=9705650@Sname@A=qq_4NNQLf6l@Snick@A=神抽狗深宫豹@Srg@A=1@Spg@A=1@Srt@A=1423709565@Sbg@A=0@Sweight@A=0@Sstrength@A=3500@Scps_id@A=0@Sps@A=1@Sver@A=201504017@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:46:57 INFO ContentMinaHandler:90 - 接收到弹幕消息	神抽狗深宫豹 : 我这儿十连座在看木头直播，真的
+2015-05-11 08:47:38 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=58/uc@=32511/
+2015-05-11 08:47:41 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=1549678/gid@=0/rid@=70994/content@=我在看dota2红牛杯/snick@=进口马桶/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d47185cc9090000000000/sui@=id@A=1549678@Sname@A=auto_rEwu7sBy8N@Snick@A=进口马桶@Srg@A=1@Spg@A=1@Srt@A=1406650678@Sbg@A=0@Sweight@A=0@Sstrength@A=54500@Scps_id@A=0@Sps@A=1@Sver@A=20150403@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:47:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	进口马桶 : 我在看dota2红牛杯
+2015-05-11 08:47:41 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=653002/gid@=0/rid@=70994/content@=点进来看到木头还没远古蛇我就放心了/snick@=looskii/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d47185dc9090000000000/sui@=id@A=653002@Sname@A=auto_3XteCoBFiR@Snick@A=looskii@Srg@A=1@Spg@A=1@Srt@A=1399904735@Sbg@A=0@Sweight@A=0@Sstrength@A=11200@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:47:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	looskii : 点进来看到木头还没远古蛇我就放心了
+2015-05-11 08:48:23 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=3/uc@=32511/
+2015-05-11 08:48:43 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8030
+2015-05-11 08:48:48 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor4164541
+2015-05-11 08:48:48 INFO LoginMinaHandler:110 - 登陆的房间编号为: 70994 床
+2015-05-11 08:48:48 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 08:48:48 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2015-05-11 08:48:48 INFO ContentMinaHandler:78 - DanmuServer:type@=loginres/userid@=0/roomgroup@=671088672/pg@=0/sessionid@=33/username@=/nickname@=/is_signined@=1059179072/signin_count@=32626/s@=I(r/live_stat@=673121632/npv@=32626/
+2015-05-11 08:48:49 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=29/uc@=32626/
+2015-05-11 08:49:34 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=5326480/gid@=0/rid@=70994/content@=为什么要刷A4，A1不好么？/snick@=岳麓神主/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d47186cc9090000000000/sui@=id@A=5326480@Sname@A=qq_LTGV7qHQ@Snick@A=岳麓神主@Srg@A=1@Spg@A=1@Srt@A=1419051263@Sbg@A=0@Sweight@A=0@Sstrength@A=8200@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:49:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	岳麓神主 : 为什么要刷A4，A1不好么？
+2015-05-11 08:49:34 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=74/uc@=32626/
+2015-05-11 08:49:52 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=986868/gid@=0/rid@=70994/content@=木头出蛇杖了吗/snick@=我快变成网购魔了/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d47186fc9090000000000/sui@=id@A=986868@Sname@A=qq_aV1b5dcZ@Snick@A=我快变成网购魔了@Srg@A=1@Spg@A=1@Srt@A=1402980644@Sbg@A=0@Sweight@A=0@Sstrength@A=0@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:49:52 INFO ContentMinaHandler:90 - 接收到弹幕消息	我快变成网购魔了 : 木头出蛇杖了吗
+2015-05-11 08:50:06 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=986868/gid@=0/rid@=70994/content@=有远古了吗 木头/snick@=我快变成网购魔了/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d471870c9090000000000/sui@=id@A=986868@Sname@A=qq_aV1b5dcZ@Snick@A=我快变成网购魔了@Srg@A=1@Spg@A=1@Srt@A=1402980644@Sbg@A=0@Sweight@A=0@Sstrength@A=0@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:50:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	我快变成网购魔了 : 有远古了吗 木头
+2015-05-11 08:50:17 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=1608416/gid@=0/rid@=70994/content@=木头 加了你的高层组队群 麻烦通过下/snick@=louko/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d471874c9090000000000/sui@=id@A=1608416@Sname@A=qq_1uLEE3gb@Snick@A=louko@Srg@A=1@Spg@A=1@Srt@A=1406868920@Sbg@A=0@Sweight@A=0@Sstrength@A=0@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:50:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	louko : 木头 加了你的高层组队群 麻烦通过下
+2015-05-11 08:50:18 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=986868/gid@=0/rid@=70994/content@=额 放心了。。/snick@=我快变成网购魔了/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d471875c9090000000000/sui@=id@A=986868@Sname@A=qq_aV1b5dcZ@Snick@A=我快变成网购魔了@Srg@A=1@Spg@A=1@Srt@A=1402980644@Sbg@A=0@Sweight@A=0@Sstrength@A=0@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:50:18 INFO ContentMinaHandler:90 - 接收到弹幕消息	我快变成网购魔了 : 额 放心了。。
+2015-05-11 08:50:19 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=19/uc@=32626/
+2015-05-11 08:50:21 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=986868/gid@=0/rid@=70994/content@=成日常了/snick@=我快变成网购魔了/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d471876c9090000000000/sui@=id@A=986868@Sname@A=qq_aV1b5dcZ@Snick@A=我快变成网购魔了@Srg@A=1@Spg@A=1@Srt@A=1402980644@Sbg@A=0@Sweight@A=0@Sstrength@A=0@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:50:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	我快变成网购魔了 : 成日常了
+2015-05-11 08:50:23 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=13389815/gid@=0/rid@=70994/content@=右下角 看字/snick@=chiwanhewan/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d471877c9090000000000/sui@=id@A=13389815@Sname@A=auto_33z5zIegBt@Snick@A=chiwanhewan@Srg@A=1@Spg@A=1@Srt@A=1428288612@Sbg@A=0@Sweight@A=0@Sstrength@A=0@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:50:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	chiwanhewan : 右下角 看字
+2015-05-11 08:50:39 INFO ContentMinaHandler:78 - DanmuServer:type@=chatmessage/rescode@=0/sender@=9895870/gid@=0/rid@=70994/content@=我的蛇杖不是远古的/snick@=1844114565/cd@=1/maxl@=50/chatmsgid@=cb0e41c3b10d471879c9090000000000/sui@=id@A=9895870@Sname@A=auto_td6fvGQjdl@Snick@A=1844114565@Srg@A=1@Spg@A=1@Srt@A=1423813422@Sbg@A=0@Sweight@A=0@Sstrength@A=8420@Scps_id@A=0@Sps@A=1@Sver@A=201504017@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:50:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	1844114565 : 我的蛇杖不是远古的
+2015-05-11 08:50:57 INFO ContentMinaHandler:78 - DanmuServer:type@=bc_buy_deserve/lev@=1/rid@=70994/gid@=0/cnt@=1/sui@=id@A=22121@Sname@A=auto_2n2PSn1qcD@Snick@A=Teemo@Srg@A=1@Spg@A=1@Srt@A=1361841313@Sbg@A=0@Sweight@A=188910@Sstrength@A=44000@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=0@S/
+2015-05-11 08:51:04 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=64/uc@=32626/
+2015-05-11 09:00:09 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8051
+2015-05-11 09:00:14 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor5238767
+2015-05-11 09:00:14 INFO LoginMinaHandler:110 - 登陆的房间编号为: 928 床
+2015-05-11 09:00:14 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 09:00:14 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2015-05-11 09:00:14 INFO ContentMinaHandler:78 - DanmuServer:type@=loginres/userid@=0/roomgroup@=268435488/pg@=0/sessionid@=33/username@=/nickname@=/is_signined@=642665024/signin_count@=32670/s@=
+?/live_stat@=-1878842544/npv@=32669/
+2015-05-11 09:00:15 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=15/uc@=32669/
+2015-05-11 09:01:00 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=60/uc@=32669/
+2015-05-11 09:01:23 INFO ContentMinaHandler:78 - DanmuServer:type@=bc_buy_deserve/lev@=2/rid@=928/gid@=0/cnt@=1/sui@=id@A=22121@Sname@A=auto_2n2PSn1qcD@Snick@A=Teemo@Srg@A=4@Spg@A=1@Srt@A=1361841313@Sbg@A=0@Sweight@A=188910@Sstrength@A=44000@Scps_id@A=0@Sps@A=1@Sver@A=20150506@Sm_deserve_lev@A=0@Scq_cnt@A=0@Sbest_dlev@A=1@S/
+2015-05-11 09:01:23 INFO ContentMinaHandler:123 - 接收到酬勤消息	null 赠送给主播1个高级酬勤
+2015-05-11 09:01:23 INFO ContentMinaHandler:78 - DanmuServer:type@=ranklist/rid@=928/gid@=0/list@=uid@AA=22121@ASnickname@AA=Teemo@ASstrength@AA=44000@ASgold@AA=3000@AS@S/
+2015-05-11 09:01:45 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=5/uc@=32669/
+2015-05-11 09:02:30 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=50/uc@=32669/
+2015-05-11 09:03:15 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=95/uc@=32669/
+2015-05-11 09:04:01 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=40/uc@=32669/
+2015-05-11 09:04:45 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=85/uc@=32669/
+2015-05-11 09:05:30 INFO ContentMinaHandler:78 - DanmuServer:type@=keeplive/tick@=30/uc@=32669/
+2015-05-11 09:08:49 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8009
+2015-05-11 09:08:55 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor2236504
+2015-05-11 09:08:55 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 09:08:55 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 09:08:55 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2015-05-11 09:18:18 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8025
+2015-05-11 09:18:23 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor2237626
+2015-05-11 09:18:23 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 09:18:23 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 09:18:23 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2015-05-11 16:27:57 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 16:28:02 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1818333
+2015-05-11 16:28:02 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 16:28:02 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:28:02 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2015-05-11 16:34:22 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8046
+2015-05-11 16:34:42 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8055
+2015-05-11 16:35:22 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8046
+2015-05-11 16:35:38 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8011
+2015-05-11 16:35:43 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1963400
+2015-05-11 16:35:43 INFO LoginMinaHandler:110 - 登陆的房间编号为: 928 床
+2015-05-11 16:35:43 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:35:43 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2015-05-11 16:35:51 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8003
+2015-05-11 16:36:21 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8017
+2015-05-11 16:37:21 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8024
+2015-05-11 16:37:26 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1821208
+2015-05-11 16:37:26 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 16:37:26 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:37:26 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2015-05-11 16:38:30 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8032
+2015-05-11 16:38:34 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1821848
+2015-05-11 16:38:34 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 16:38:34 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:38:34 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2015-05-11 16:39:53 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8052
+2015-05-11 16:39:57 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1822113
+2015-05-11 16:39:57 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 16:39:57 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:39:57 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2015-05-11 16:40:34 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8045
+2015-05-11 16:40:38 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1822224
+2015-05-11 16:40:38 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 16:40:38 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:40:38 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2015-05-11 16:40:47 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8019
+2015-05-11 16:40:51 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1822262
+2015-05-11 16:40:52 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 16:40:52 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:40:52 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2015-05-11 16:40:59 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.10:8004
+2015-05-11 16:41:04 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1822299
+2015-05-11 16:41:04 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 16:41:05 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:41:05 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2015-05-11 16:41:25 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8030
+2015-05-11 16:41:30 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor1822348
+2015-05-11 16:41:30 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-05-11 16:41:30 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-05-11 16:41:30 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2015-05-11 16:42:26 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8022
+2015-05-11 16:42:45 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.22:8016
+2015-05-11 16:42:57 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8054

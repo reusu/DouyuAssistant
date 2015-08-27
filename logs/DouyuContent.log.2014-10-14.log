@@ -1,0 +1,642 @@
+2014-10-14 14:54:49 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.19:8028
+2014-10-14 14:54:53 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor8394551
+2014-10-14 14:54:53 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-10-14 14:54:53 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-14 14:54:53 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-10-14 14:55:14 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8021
+2014-10-14 14:55:18 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor13799525
+2014-10-14 14:55:18 INFO LoginMinaHandler:101 - 登陆的病床编号为: 928 床
+2014-10-14 14:55:18 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-14 14:55:18 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-10-14 14:56:47 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8020
+2014-10-14 14:56:51 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor13800182
+2014-10-14 14:56:51 INFO LoginMinaHandler:101 - 登陆的病床编号为: 928 床
+2014-10-14 14:56:51 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-14 14:56:51 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-10-14 14:57:02 INFO ContentMinaHandler:87 - 接收到弹幕消息	霈剑 : 骨架不能敲吗？
+2014-10-14 14:57:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	梦魇Sword : 早上好DD
+2014-10-14 14:57:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	辣条炒肉土司 : 当当当当当当。下雨了，当当当当当当。下雨了，当当当当当当。下雨了，
+2014-10-14 14:57:32 INFO ContentMinaHandler:87 - 接收到弹幕消息	蜀黍带你去看鲸鱼 : 没有骨片这个东西呢还
+2014-10-14 14:57:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	冷月小伍 : 晚上好  DD
+2014-10-14 14:57:44 INFO ContentMinaHandler:87 - 接收到弹幕消息	失落丶嗔 : 再死一个对称
+2014-10-14 14:57:53 INFO ContentMinaHandler:87 - 接收到弹幕消息	lyqno1 : 卖衣服了
+2014-10-14 14:57:57 INFO ContentMinaHandler:87 - 接收到弹幕消息	思慕s : 不要的东西别摆了，直接烧了。。
+2014-10-14 14:57:59 INFO ContentMinaHandler:87 - 接收到弹幕消息	晨晨晨丶 : 猪王是装备武器商
+2014-10-14 14:58:00 INFO ContentMinaHandler:87 - 接收到弹幕消息	银剑剑 : 要不左边在死一个对称下就行了
+2014-10-14 14:58:22 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8007
+2014-10-14 14:58:26 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor10646467
+2014-10-14 14:58:26 INFO LoginMinaHandler:101 - 登陆的病床编号为: 58428 床
+2014-10-14 14:58:26 INFO LoginMinaHandler:104 - 加入的讨论群组为: 27 组
+2014-10-14 14:58:26 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-10-14 14:58:28 INFO ContentMinaHandler:87 - 接收到弹幕消息	qq_9i8uTF : 是不是要去看满嘴文言文的主播？
+2014-10-14 14:58:29 INFO ContentMinaHandler:87 - 接收到弹幕消息	神经达 : NEWBEE   打GG了
+2014-10-14 14:58:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	盗伐手 : 歇后语了
+2014-10-14 14:58:32 INFO ContentMinaHandler:87 - 接收到弹幕消息	真心不想起名字 : 只能预报以下干爹马上一波团要输了
+2014-10-14 14:58:32 INFO ContentMinaHandler:87 - 接收到弹幕消息	旺仔safa : .
+2014-10-14 14:58:33 INFO ContentMinaHandler:87 - 接收到弹幕消息	a9875123 : 待09节奏的你全家爆炸了
+2014-10-14 14:58:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	FishMan : 57T!!!!
+2014-10-14 14:58:35 INFO ContentMinaHandler:87 - 接收到弹幕消息	诺灬倾城 : 龙神，这不是成语好么，这是单词！！！！
+2014-10-14 14:58:37 INFO ContentMinaHandler:87 - 接收到弹幕消息	lxy5hana : 刚来，什么比赛？
+2014-10-14 14:58:38 INFO ContentMinaHandler:101 - 接收到礼物消息	Murciélago4 赠送给主播100个鱼丸
+2014-10-14 14:58:39 INFO ContentMinaHandler:87 - 接收到弹幕消息	我爱切瓜 : 花花躲起来好久了 不敢出门
+2014-10-14 14:58:40 INFO ContentMinaHandler:101 - 接收到礼物消息	中二瑜 赠送给主播100个鱼丸
+2014-10-14 14:58:41 INFO ContentMinaHandler:87 - 接收到弹幕消息	15080797003 : 祖传代码来一发~
+2014-10-14 14:58:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	小美首席备胎 : 给龙神起外号的 泥垢了
+2014-10-14 14:58:43 INFO ContentMinaHandler:87 - 接收到弹幕消息	库叶涅佐夫 : 毋Yao可救
+2014-10-14 14:58:45 INFO ContentMinaHandler:87 - 接收到弹幕消息	RIGOSS : 天辉断眼了
+2014-10-14 14:58:47 INFO ContentMinaHandler:101 - 接收到礼物消息	小蛐 赠送给主播100个鱼丸
+2014-10-14 14:58:47 INFO ContentMinaHandler:101 - 接收到礼物消息	小蛐 赠送给主播100个鱼丸
+2014-10-14 14:58:48 INFO ContentMinaHandler:101 - 接收到礼物消息	小蛐 赠送给主播100个鱼丸
+2014-10-14 14:58:48 INFO ContentMinaHandler:101 - 接收到礼物消息	小蛐 赠送给主播100个鱼丸
+2014-10-14 14:58:48 INFO ContentMinaHandler:101 - 接收到礼物消息	小蛐 赠送给主播100个鱼丸
+2014-10-14 14:58:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	爱个死咖喱棒 : 重复了
+2014-10-14 14:58:50 INFO ContentMinaHandler:87 - 接收到弹幕消息	k19640731 : 成语龙山洞龙
+2014-10-14 14:58:51 INFO ContentMinaHandler:87 - 接收到弹幕消息	s148111749 : 疯脸A刃甲 分身躲梅肯 跳刀挡神箭
+2014-10-14 14:58:52 INFO ContentMinaHandler:87 - 接收到弹幕消息	yaomengmeng : ?cdn=lx
+2014-10-14 14:58:54 INFO ContentMinaHandler:87 - 接收到弹幕消息	胸口飘扬的红领巾 : 机智的king
+2014-10-14 14:58:54 INFO ContentMinaHandler:101 - 接收到礼物消息	Ceak223 赠送给主播100个鱼丸
+2014-10-14 14:58:55 INFO ContentMinaHandler:87 - 接收到弹幕消息	Vurtne : yao了我的ming鸭
+2014-10-14 14:58:55 INFO ContentMinaHandler:87 - 接收到弹幕消息	上头de阳粑粑 : 要ming
+2014-10-14 14:58:56 INFO ContentMinaHandler:87 - 接收到弹幕消息	yeshenyue123 : YAO了我 的命啊
+2014-10-14 14:58:57 INFO ContentMinaHandler:87 - 接收到弹幕消息	泰利克洛斯 : 其实刚才是幽鬼传下来了，YAO回头是躲幽
+2014-10-14 14:59:01 INFO ContentMinaHandler:87 - 接收到弹幕消息	StaRisE_ナナ : 卜要黑屁屎，绿他就好了
+2014-10-14 14:59:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	Adams9451 : 无YAO可救  哈哈
+2014-10-14 14:59:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	蓝色书签 : 吹风破薄葬，绿帐避大根
+2014-10-14 14:59:05 INFO ContentMinaHandler:101 - 接收到礼物消息	冷冷吧10级 赠送给主播100个鱼丸
+2014-10-14 14:59:06 INFO ContentMinaHandler:87 - 接收到弹幕消息	injure : 被先手打怕了
+2014-10-14 14:59:06 INFO ContentMinaHandler:101 - 接收到礼物消息	冷冷吧10级 赠送给主播100个鱼丸
+2014-10-14 14:59:06 INFO ContentMinaHandler:101 - 接收到礼物消息	冷冷吧10级 赠送给主播100个鱼丸
+2014-10-14 14:59:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	lxy5hana : 刚才，什么比赛？
+2014-10-14 14:59:09 INFO ContentMinaHandler:87 - 接收到弹幕消息	埋在这冬天 : 分身躲梅肯。。
+2014-10-14 14:59:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	菜J怎么这么多 : 错觉是主播里面学历最高的，潮州工程学院！
+2014-10-14 14:59:11 INFO ContentMinaHandler:87 - 接收到弹幕消息	johnson456 : DP不如开打打肉山
+2014-10-14 14:59:13 INFO ContentMinaHandler:87 - 接收到弹幕消息	略过无痕 : 肉山
+2014-10-14 14:59:14 INFO ContentMinaHandler:87 - 接收到弹幕消息	强行演妹子 : 强行成语接龙卷风云雄霸天下酒菜饭骨头汤
+2014-10-14 14:59:15 INFO ContentMinaHandler:87 - 接收到弹幕消息	大喵说多露露露露露露 : 29分钟 骨灰盒..
+2014-10-14 14:59:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	misaka10604 : DP+电魂拆塔好无情啊
+2014-10-14 14:59:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	lxy5hana : 刚来，什么比赛
+2014-10-14 14:59:19 INFO ContentMinaHandler:87 - 接收到弹幕消息	菜J怎么这么多 : 错觉是主播里面学历最高的，潮州工程学院！
+2014-10-14 14:59:19 INFO SQLiteUtils:80 - java.sql.SQLException: org.apache.commons.dbcp.DelegatingStatement with address: "org.sqlite.jdbc4.JDBC4Statement@9f3e95" is closed.
+2014-10-14 14:59:21 INFO ContentMinaHandler:87 - 接收到弹幕消息	李毅大帝的邻居 : YAO了我的明
+2014-10-14 14:59:23 INFO ContentMinaHandler:87 - 接收到弹幕消息	remindnada : sylar还是稳啊
+2014-10-14 14:59:27 INFO ContentMinaHandler:87 - 接收到弹幕消息	longddsgeshab : rinima p hei
+2014-10-14 14:59:29 INFO ContentMinaHandler:101 - 接收到礼物消息	llmine 赠送给主播100个鱼丸
+2014-10-14 14:59:29 INFO ContentMinaHandler:101 - 接收到礼物消息	llmine 赠送给主播100个鱼丸
+2014-10-14 14:59:29 INFO ContentMinaHandler:87 - 接收到弹幕消息	Excalibur123 : 菜鸟憋辉耀。
+大神裸跳刀。
+挂逼　1
+2014-10-14 14:59:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	Adams9451 : 毕竟稳健
+2014-10-14 14:59:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	haihsiko : 这AOE
+2014-10-14 14:59:32 INFO ContentMinaHandler:87 - 接收到弹幕消息	a7519736 : 骂死的Q
+2014-10-14 14:59:33 INFO ContentMinaHandler:87 - 接收到弹幕消息	断了的风筝线 : COMBO荣耀
+2014-10-14 14:59:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	哎呦喂嗨额 : 这COMBO
+2014-10-14 14:59:35 INFO ContentMinaHandler:87 - 接收到弹幕消息	精神病患者C : 伟人驾崩
+2014-10-14 14:59:36 INFO ContentMinaHandler:87 - 接收到弹幕消息	兔子烧香 : bo几？
+2014-10-14 14:59:37 INFO ContentMinaHandler:87 - 接收到弹幕消息	最爱打飞机 : .....哎
+2014-10-14 14:59:38 INFO ContentMinaHandler:87 - 接收到弹幕消息	菜J怎么这么多 : 错觉是主播里面学历最高的，潮州工程学院5
+2014-10-14 14:59:39 INFO ContentMinaHandler:87 - 接收到弹幕消息	香蕉的个吧啦 : 死的不能再死了
+2014-10-14 14:59:40 INFO ContentMinaHandler:101 - 接收到礼物消息	rwerwerewr 赠送给主播100个鱼丸
+2014-10-14 14:59:40 INFO ContentMinaHandler:87 - 接收到弹幕消息	xilixiaowenzi : 电魂刷新现在有用吗
+2014-10-14 14:59:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	神经达 : 1111111111111111
+2014-10-14 14:59:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	515806953 : sylar还是厉害
+2014-10-14 14:59:43 INFO ContentMinaHandler:87 - 接收到弹幕消息	DondoDota2 : 无脑耍技能就是这个意思啊
+2014-10-14 14:59:46 INFO ContentMinaHandler:87 - 接收到弹幕消息	神经达 : 111111111111111
+2014-10-14 14:59:47 INFO ContentMinaHandler:87 - 接收到弹幕消息	神经达 : 1111111111111
+2014-10-14 14:59:48 INFO ContentMinaHandler:87 - 接收到弹幕消息	神经达 : 11111111111111
+2014-10-14 14:59:49 INFO ContentMinaHandler:101 - 接收到礼物消息	自古菜虎幸运E 赠送给主播100个鱼丸
+2014-10-14 14:59:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	库叶涅佐夫 : 毋Yao可救 毋Yao可救 毋Yao可救
+2014-10-14 14:59:50 INFO ContentMinaHandler:101 - 接收到礼物消息	自古菜虎幸运E 赠送给主播100个鱼丸
+2014-10-14 14:59:51 INFO ContentMinaHandler:87 - 接收到弹幕消息	菜J怎么这么多 : 错觉是主播里面学历最高的，潮州工程学院6
+2014-10-14 14:59:51 INFO ContentMinaHandler:101 - 接收到礼物消息	自古菜虎幸运E 赠送给主播100个鱼丸
+2014-10-14 14:59:52 INFO ContentMinaHandler:87 - 接收到弹幕消息	a7519736 : DC老师呢？
+2014-10-14 14:59:54 INFO ContentMinaHandler:87 - 接收到弹幕消息	李毅大帝的邻居 : 刷新可以顶两朵云在头上
+2014-10-14 14:59:56 INFO ContentMinaHandler:87 - 接收到弹幕消息	比利姐 : 刷新有用啊
+2014-10-14 14:59:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	douyunmsl : 1
+2014-10-14 14:59:59 INFO ContentMinaHandler:87 - 接收到弹幕消息	tianyi9595 : 奶了nb
+2014-10-14 15:00:00 INFO ContentMinaHandler:101 - 接收到礼物消息	q1144O82211萌妹丝A 赠送给主播100个鱼丸
+2014-10-14 15:00:01 INFO ContentMinaHandler:101 - 接收到礼物消息	q1144O82211萌妹丝A 赠送给主播100个鱼丸
+2014-10-14 15:00:01 INFO ContentMinaHandler:87 - 接收到弹幕消息	M灬J : 安静！
+2014-10-14 15:00:02 INFO ContentMinaHandler:101 - 接收到礼物消息	WhiteRyo 赠送给主播100个鱼丸
+2014-10-14 15:00:02 INFO ContentMinaHandler:101 - 接收到礼物消息	q1144O82211萌妹丝A 赠送给主播100个鱼丸
+2014-10-14 15:00:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	18753132557 : 电魂没怎么改
+2014-10-14 15:00:04 INFO ContentMinaHandler:87 - 接收到弹幕消息	q1144O82211萌妹丝A : Q1144O82211萌妹原味丝袜视频
+2014-10-14 15:00:06 INFO ContentMinaHandler:87 - 接收到弹幕消息	zouzibo : 酒神学历最高吧  浙大的
+2014-10-14 15:00:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	q1144O82211萌妹丝A : Q1144O82211萌妹原味丝袜视频.
+2014-10-14 15:00:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	43000000 : 马斯特口
+2014-10-14 15:00:08 INFO ContentMinaHandler:87 - 接收到弹幕消息	名字怎么这么麻烦啊 : 强行错觉学历 高
+2014-10-14 15:00:09 INFO ContentMinaHandler:87 - 接收到弹幕消息	wja123456 : 放你妈屁，BBC去看看学历
+2014-10-14 15:00:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	houkai4355 : 什么学校，没听过
+2014-10-14 15:00:11 INFO ContentMinaHandler:87 - 接收到弹幕消息	SingletTicket : 断眼了啊
+2014-10-14 15:00:12 INFO ContentMinaHandler:101 - 接收到礼物消息	RIGOROUS 赠送给主播100个鱼丸
+2014-10-14 15:00:12 INFO ContentMinaHandler:87 - 接收到弹幕消息	揪揪唔 : DO2刷新还是直接两个大吗
+2014-10-14 15:00:14 INFO ContentMinaHandler:87 - 接收到弹幕消息	梦想之翼SKY : 错觉最高？我大09放在哪里？
+2014-10-14 15:00:15 INFO ContentMinaHandler:87 - 接收到弹幕消息	chen15697320556 : 复旦大学的B叔情何以在？
+2014-10-14 15:00:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	别过来你硌到我了 : 30万人了
+2014-10-14 15:00:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	木风口十 : 塞拉的电棍前几周很多场失误的。。
+2014-10-14 15:00:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	真心不想起名字 : laigaming的super是上海交大
+2014-10-14 15:00:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	252807108 : 留卖货
+2014-10-14 15:00:18 INFO ContentMinaHandler:87 - 接收到弹幕消息	Mikasa_1Yx : 帕克这么多钱没出羊么
+2014-10-14 15:00:19 INFO ContentMinaHandler:87 - 接收到弹幕消息	减年 : 电棍刷新两倍输出。超屌
+2014-10-14 15:00:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	616894019 : 不是9神吗 浙大的
+2014-10-14 15:00:21 INFO ContentMinaHandler:87 - 接收到弹幕消息	hamahah : YAO了我的命
+2014-10-14 15:00:23 INFO ContentMinaHandler:87 - 接收到弹幕消息	KongFu9527 : 大酒神不服，浙大差点没毕业
+2014-10-14 15:00:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	马葫芦没有盖 : 总感觉LGD把YAO换走能更厉害
+2014-10-14 15:00:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	houkai4355 : 不是蓝翔毕业好意思炫耀
+2014-10-14 15:00:27 INFO ContentMinaHandler:87 - 接收到弹幕消息	西瓜校长君 : 3333333333
+2014-10-14 15:00:28 INFO ContentMinaHandler:87 - 接收到弹幕消息	flylin520 : 这里有清华北大的吗
+2014-10-14 15:00:29 INFO ContentMinaHandler:87 - 接收到弹幕消息	Unicorn0096 : 820妥妥的啊
+2014-10-14 15:00:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	神经达 : 我嬲 长沙冒得人？
+2014-10-14 15:00:35 INFO ContentMinaHandler:87 - 接收到弹幕消息	maodou526 : BBC笑而不语
+2014-10-14 15:00:35 INFO ContentMinaHandler:87 - 接收到弹幕消息	断了念想 : 09节奏来了
+2014-10-14 15:00:35 INFO ContentMinaHandler:87 - 接收到弹幕消息	窝B卜哭 : 09是中国第二大学浙大的好吗
+2014-10-14 15:00:36 INFO ContentMinaHandler:87 - 接收到弹幕消息	这是体制问题吗 : 复旦大学的B叔哭晕在厕所
+2014-10-14 15:00:37 INFO ContentMinaHandler:101 - 接收到礼物消息	禦韾寧 赠送给主播100个鱼丸
+2014-10-14 15:00:37 INFO ContentMinaHandler:87 - 接收到弹幕消息	卢修斯 : 学历还跟学校有关？长见识了
+2014-10-14 15:00:38 INFO ContentMinaHandler:101 - 接收到礼物消息	禦韾寧 赠送给主播100个鱼丸
+2014-10-14 15:00:39 INFO ContentMinaHandler:87 - 接收到弹幕消息	1213970923 : 推推送队友，绿杖避大根
+2014-10-14 15:00:40 INFO ContentMinaHandler:87 - 接收到弹幕消息	丶丶丶火 : 别拿猪肉9出来卖
+2014-10-14 15:00:40 INFO ContentMinaHandler:87 - 接收到弹幕消息	Sula2015 : 大妈单排眼少玩电棍怎么没见到这么厉害
+2014-10-14 15:00:40 INFO ContentMinaHandler:87 - 接收到弹幕消息	卡羅丶 : 没辉耀，兵线带不动的
+2014-10-14 15:00:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	yanggangyi : 明显龙芯啊
+2014-10-14 15:00:42 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:43 INFO ContentMinaHandler:87 - 接收到弹幕消息	添啥啊 : 别9神9神的了，09差点没能毕业
+2014-10-14 15:00:43 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:43 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:43 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:43 INFO ContentMinaHandler:87 - 接收到弹幕消息	三生有幸与你 : 我是哈佛的
+2014-10-14 15:00:44 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:44 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:44 INFO ContentMinaHandler:101 - 接收到礼物消息	gzy372092224 赠送给主播100个鱼丸
+2014-10-14 15:00:44 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:44 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:44 INFO ContentMinaHandler:87 - 接收到弹幕消息	Eternal恒 : 浙江湖州的请打333333333333
+2014-10-14 15:00:45 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:45 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:45 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:45 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:45 INFO ContentMinaHandler:87 - 接收到弹幕消息	Cassiel_5 : BBC复旦大学 09浙江大学、
+2014-10-14 15:00:45 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:46 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:46 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:46 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:47 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:47 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:47 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:47 INFO ContentMinaHandler:87 - 接收到弹幕消息	茶叶蛋L : 地球超人的北航被你吃了？
+2014-10-14 15:00:47 INFO ContentMinaHandler:87 - 接收到弹幕消息	这是体制问题吗 : 浙大都能到中国第二了??
+2014-10-14 15:00:48 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:48 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:48 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:48 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	天欲飞 : 菜J怎么这么多:这个人是带节奏的
+2014-10-14 15:00:49 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:49 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:49 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:50 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:50 INFO ContentMinaHandler:87 - 接收到弹幕消息	断了念想 : BBC复旦大学  09算个叼
+2014-10-14 15:00:50 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:51 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:51 INFO ContentMinaHandler:87 - 接收到弹幕消息	喜闻乐见上头雷 : HY好点啊，克牛
+2014-10-14 15:00:51 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:51 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:51 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:51 INFO ContentMinaHandler:87 - 接收到弹幕消息	我爱萌妹子 : 龙心碰到冰魂也是一脸泪啊
+2014-10-14 15:00:52 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:52 INFO ContentMinaHandler:101 - 接收到礼物消息	SimpleDou鱼 赠送给主播100个鱼丸
+2014-10-14 15:00:52 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:52 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:00:53 INFO ContentMinaHandler:101 - 接收到礼物消息	點卡 赠送给主播100个鱼丸
+2014-10-14 15:00:53 INFO SQLiteUtils:80 - java.sql.SQLException: column 1 out of bounds [1,0]
+2014-10-14 15:00:53 INFO ContentMinaHandler:87 - 接收到弹幕消息	送分童子Lv1 : 肯定辉耀
+2014-10-14 15:00:56 INFO SQLiteUtils:45 - java.sql.SQLException: database is locked
+2014-10-14 15:00:56 INFO ContentMinaHandler:101 - 接收到礼物消息	點卡 赠送给主播100个鱼丸
+2014-10-14 15:00:57 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:00:59 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:00:59 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:01 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:01:02 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:02 INFO ContentMinaHandler:87 - 接收到弹幕消息	东13 : 3333
+2014-10-14 15:01:05 INFO SQLiteUtils:45 - java.sql.SQLException: database is locked
+2014-10-14 15:01:05 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:05 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:01:08 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:08 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:09 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:01:11 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:11 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:13 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:01:14 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:14 INFO ContentMinaHandler:87 - 接收到弹幕消息	Adams9451 : 特意来引出09 也是费尽心思
+2014-10-14 15:01:17 INFO SQLiteUtils:45 - java.sql.SQLException: database is locked
+2014-10-14 15:01:17 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:17 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:01:20 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	法克菲斯 : 分身吊用 找大
+2014-10-14 15:01:21 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:01:23 INFO SQLiteUtils:45 - java.sql.SQLException: database is locked
+2014-10-14 15:01:23 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:25 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:01:26 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:26 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:29 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:29 INFO ContentMinaHandler:87 - 接收到弹幕消息	dyj0511 : 我哈佛的
+2014-10-14 15:01:32 INFO SQLiteUtils:45 - java.sql.SQLException: database is locked
+2014-10-14 15:01:32 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:35 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:35 INFO ContentMinaHandler:101 - 接收到礼物消息	PolIent 赠送给主播100个鱼丸
+2014-10-14 15:01:38 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:38 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:38 INFO SQLiteUtils:80 - java.sql.SQLException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2014-10-14 15:01:41 INFO SQLiteUtils:55 - java.sql.SQLException: database is locked
+2014-10-14 15:01:41 INFO ContentMinaHandler:101 - 接收到礼物消息	W盛夏光年 赠送给主播100个鱼丸
+2014-10-14 15:01:50 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.20:8001
+2014-10-14 15:01:54 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor10652310
+2014-10-14 15:01:54 INFO LoginMinaHandler:101 - 登陆的病床编号为: 58428 床
+2014-10-14 15:01:54 INFO LoginMinaHandler:104 - 加入的讨论群组为: 26 组
+2014-10-14 15:01:54 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-10-14 15:01:56 INFO ContentMinaHandler:87 - 接收到弹幕消息	kobe9991833 : 上帝之宝
+2014-10-14 15:01:57 INFO ContentMinaHandler:87 - 接收到弹幕消息	淡不定 : 西南的兄弟带节奏么
+2014-10-14 15:01:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	我的小宝蓝 : 复旦连交大都比不过
+2014-10-14 15:01:59 INFO ContentMinaHandler:87 - 接收到弹幕消息	woshizz456852 : 谁说外地考不进上交
+2014-10-14 15:02:00 INFO ContentMinaHandler:87 - 接收到弹幕消息	子丶龙 : 明显林肯
+2014-10-14 15:02:02 INFO ContentMinaHandler:87 - 接收到弹幕消息	Ftd_15 : 复旦浙大是什么东西，有我蓝翔屌？
+2014-10-14 15:02:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	情以舍为尊 : 09：我的猪肉粒能吃出牛肉的味道。
+2014-10-14 15:02:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	赏花赏月赏星星 : 我大沐沐有谁说丑 冷冷是大脸丑B
+2014-10-14 15:02:04 INFO ContentMinaHandler:87 - 接收到弹幕消息	kevinlee1903 : 昨天说09冠名钢背被封了
+2014-10-14 15:02:04 INFO ContentMinaHandler:87 - 接收到弹幕消息	落叶飞扬 : 把我40W人气的卡卡、、、、
+2014-10-14 15:02:05 INFO ContentMinaHandler:101 - 接收到礼物消息	君が望む永遠_qq 赠送给主播100个鱼丸
+2014-10-14 15:02:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	zhanglifeng103039 : 前期不出HY 就是坑阿
+2014-10-14 15:02:08 INFO ContentMinaHandler:87 - 接收到弹幕消息	神经达 : 不管哪个直播房，总能聊到09和马甲。。
+2014-10-14 15:02:09 INFO ContentMinaHandler:87 - 接收到弹幕消息	Magina1992 : 我是耶鲁的有人信吗,,,
+2014-10-14 15:02:09 INFO ContentMinaHandler:87 - 接收到弹幕消息	darkknighta : 你们把蓝翔放哪里？
+2014-10-14 15:02:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	chouson : 低端节奏狗也有人上钩- -
+2014-10-14 15:02:12 INFO ContentMinaHandler:87 - 接收到弹幕消息	bodhivrksa : 梵蒂岡教皇大學完爆英國國王大學
+2014-10-14 15:02:12 INFO ContentMinaHandler:87 - 接收到弹幕消息	2297174527 : 打字能别带XX吗？脑残们
+2014-10-14 15:02:13 INFO ContentMinaHandler:87 - 接收到弹幕消息	卖女孩的小火伴 : 一群逗比，蓝翔完爆你们
+2014-10-14 15:02:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	xiaok123 : 我大挖掘机最屌
+2014-10-14 15:02:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	灬皮卡丘灬灬 : 果断关弹幕
+2014-10-14 15:02:18 INFO ContentMinaHandler:87 - 接收到弹幕消息	15067456538 : 电竞小龙女跟电竞没关系。。。
+2014-10-14 15:02:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	窝B卜哭 : 中央党校是大学？这智商也是醉了
+2014-10-14 15:02:22 INFO ContentMinaHandler:87 - 接收到弹幕消息	Unicorn0096 : 我们黄翔大学
+2014-10-14 15:02:24 INFO ContentMinaHandler:87 - 接收到弹幕消息	qhz19870505 : 挖掘机技术哪家强，不服来辩
+2014-10-14 15:02:24 INFO ContentMinaHandler:87 - 接收到弹幕消息	索德罗斯之刃 : 情以舍为尊←喷子
+2014-10-14 15:02:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	windedwind : 遍地大学狗有什么比的？
+2014-10-14 15:02:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	鬼畜公子 : B叔面试一本交大一本复旦2个肄业
+2014-10-14 15:02:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	亚城木梦叶2012 : 刚才湖州的带我一个
+2014-10-14 15:02:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	附窗户 : 被封了没脸今天还继续过来咬人？
+2014-10-14 15:02:27 INFO ContentMinaHandler:87 - 接收到弹幕消息	蕾米莉亚_ : 房管上线
+2014-10-14 15:02:28 INFO ContentMinaHandler:87 - 接收到弹幕消息	灬皮卡丘灬灬 : 玩个游戏看你们叨逼叨 无聊
+2014-10-14 15:02:28 INFO ContentMinaHandler:87 - 接收到弹幕消息	小暴脾气 : 牛头出啊，狗哥一直出骨灰
+2014-10-14 15:02:29 INFO ContentMinaHandler:87 - 接收到弹幕消息	intomato : 管你哪个大学，学历都是本科。
+2014-10-14 15:02:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	MuShiShiShi : 问题来了挖掘机哪家强
+2014-10-14 15:02:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	易内道德 : 清华北大都不在蓝翔眼里
+2014-10-14 15:02:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	又鸟又鸟合鸟 : 蓝翔毕业才是牛
+2014-10-14 15:02:35 INFO ContentMinaHandler:87 - 接收到弹幕消息	放牛的小羊 : 浙大3本也不错的，出国机会也蛮多的
+2014-10-14 15:02:36 INFO ContentMinaHandler:101 - 接收到礼物消息	找个土豪做朋友 赠送给主播100个鱼丸
+2014-10-14 15:02:36 INFO ContentMinaHandler:87 - 接收到弹幕消息	meepro : 塔下意识粉走位躲梅肯 yao了鸭的min
+2014-10-14 15:02:39 INFO ContentMinaHandler:87 - 接收到弹幕消息	BuzzLY : 封起来，不要停
+2014-10-14 15:02:39 INFO ContentMinaHandler:87 - 接收到弹幕消息	ld646989666 : 牛文豪:说yao的知道09吗
+2014-10-14 15:02:40 INFO ContentMinaHandler:87 - 接收到弹幕消息	yxh007 : 不要说叶子 昨天开喷了 素质EQ略低
+2014-10-14 15:02:41 INFO ContentMinaHandler:87 - 接收到弹幕消息	停电了 : 蓝翔必须无解吊
+2014-10-14 15:02:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	Ftd_15 : 复旦浙大是什么东西 有我黄翔蓝翔屌？
+2014-10-14 15:02:43 INFO ContentMinaHandler:87 - 接收到弹幕消息	457138848 : 社区职业战队列表找到他们点左键怎么没有观
+2014-10-14 15:02:44 INFO ContentMinaHandler:87 - 接收到弹幕消息	唐人阿马 : 负担的会玩挖掘机？
+2014-10-14 15:02:44 INFO ContentMinaHandler:101 - 接收到礼物消息	hangshenv5 赠送给主播100个鱼丸
+2014-10-14 15:02:45 INFO ContentMinaHandler:87 - 接收到弹幕消息	教练么么哒 : 哎哟节奏狗又被封了 快回家看看你那得癌症
+2014-10-14 15:02:46 INFO ContentMinaHandler:87 - 接收到弹幕消息	orekisorata : 没HY的SPE开大都打断不了别人跳刀
+2014-10-14 15:02:48 INFO ContentMinaHandler:101 - 接收到礼物消息	hangshenv5 赠送给主播100个鱼丸
+2014-10-14 15:02:48 INFO ContentMinaHandler:87 - 接收到弹幕消息	a66091141 : 浙大哪有三本啊..哥哥..
+2014-10-14 15:02:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	Nothera : 。。将军
+2014-10-14 15:02:50 INFO ContentMinaHandler:87 - 接收到弹幕消息	蘇王建丰 : nice啊，什么都能引战啊!!
+2014-10-14 15:02:52 INFO ContentMinaHandler:87 - 接收到弹幕消息	我的男盆友 : 家里蹲大学物理系
+2014-10-14 15:02:53 INFO ContentMinaHandler:87 - 接收到弹幕消息	asdfasdf222 : UCLA
+2014-10-14 15:02:54 INFO ContentMinaHandler:101 - 接收到礼物消息	max890908 赠送给主播100个鱼丸
+2014-10-14 15:02:55 INFO ContentMinaHandler:87 - 接收到弹幕消息	知心你大爷丶 : 只听过女王大学 还有国王大学 吹牛逼都不
+2014-10-14 15:02:56 INFO ContentMinaHandler:87 - 接收到弹幕消息	z6218884 : 这场我怎么感觉看过啊
+2014-10-14 15:02:57 INFO ContentMinaHandler:87 - 接收到弹幕消息	兮宥_Jungigo : 塞来这个
+2014-10-14 15:02:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	卢修斯 : 学历跟学校有关也是牛逼，大概他是教育部的
+2014-10-14 15:03:00 INFO ContentMinaHandler:87 - 接收到弹幕消息	wishmore1988 : ..
+2014-10-14 15:03:00 INFO ContentMinaHandler:87 - 接收到弹幕消息	Mashiro__ : 简直无钱
+2014-10-14 15:03:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	常驻无间__ : 感觉HY好啊
+2014-10-14 15:03:04 INFO ContentMinaHandler:87 - 接收到弹幕消息	爱个死咖喱棒 : 你就算是哈佛毕业的你也不会开挖掘机
+2014-10-14 15:03:05 INFO ContentMinaHandler:87 - 接收到弹幕消息	qq_wAGbaq : 黑09就黑09不要黑浙大
+2014-10-14 15:03:05 INFO ContentMinaHandler:87 - 接收到弹幕消息	457138848 : 社区职业战队列表找到他们点左键不能观战
+2014-10-14 15:03:06 INFO ContentMinaHandler:87 - 接收到弹幕消息	大方同学 : 中央党校是学校，我就在哪里念研究
+2014-10-14 15:03:06 INFO ContentMinaHandler:87 - 接收到弹幕消息	索德罗斯之刃 : 浙大三本其实是梗 还有考败来浙
+2014-10-14 15:03:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	moreblack : 哥是布鲁弗莱学院的，秒杀你们
+2014-10-14 15:03:13 INFO ContentMinaHandler:87 - 接收到弹幕消息	bodhivrksa : 電棍還出刷新的么
+2014-10-14 15:03:14 INFO ContentMinaHandler:87 - 接收到弹幕消息	hairui33 : 砍手了。
+2014-10-14 15:03:15 INFO ContentMinaHandler:87 - 接收到弹幕消息	paincherry : 奶哥哥啊啊
+2014-10-14 15:03:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	tyler007 : 中国蓝翔第一，新东方第二
+2014-10-14 15:03:18 INFO ContentMinaHandler:87 - 接收到弹幕消息	他们叫我阿胜 : 奶死了
+2014-10-14 15:03:19 INFO ContentMinaHandler:87 - 接收到弹幕消息	夜空守望 : 吃低保的上天台了
+2014-10-14 15:03:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	春哥护体 : 奶锅锅奶的好啊
+2014-10-14 15:03:21 INFO ContentMinaHandler:87 - 接收到弹幕消息	Jnsx_半野狐禅 : 这电棍
+2014-10-14 15:03:22 INFO ContentMinaHandler:87 - 接收到弹幕消息	dalianmaomimi : 眼少是吊
+2014-10-14 15:03:23 INFO ContentMinaHandler:87 - 接收到弹幕消息	空洞的蔚蓝 : 电棍DP 玩尼玛
+2014-10-14 15:03:24 INFO ContentMinaHandler:87 - 接收到弹幕消息	qq_RHWGAA : 求砍手
+2014-10-14 15:03:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	地板大叼哥 : GG
+2014-10-14 15:03:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	易内道德 : 有鬼不如出龙心吧
+2014-10-14 15:03:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	兰杜拉斯 : nb
+2014-10-14 15:03:27 INFO ContentMinaHandler:87 - 接收到弹幕消息	woshizz456852 : 上交不是西交大 分出去的？
+2014-10-14 15:03:28 INFO ContentMinaHandler:87 - 接收到弹幕消息	dengzhechy : 反应快啊
+2014-10-14 15:03:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	魂淡q先生 : NB被奶死了
+2014-10-14 15:03:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	sh_miracle : 关弹幕保智商
+2014-10-14 15:03:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	35845674 : 乃哥哥你干嘛要出山啊
+2014-10-14 15:03:32 INFO ContentMinaHandler:87 - 接收到弹幕消息	1506051851 : NB真的要被奶死了吗？？？
+2014-10-14 15:03:33 INFO ContentMinaHandler:87 - 接收到弹幕消息	索德罗斯之刃 : 与此相反 其实黑09不如黑浙大
+2014-10-14 15:03:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	丶彩色狗 : nb被奶死了
+2014-10-14 15:03:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	伤了冬初白了城 : 刚才巫妖大太关键了
+2014-10-14 15:03:36 INFO ContentMinaHandler:87 - 接收到弹幕消息	真_球迷 : 乃哥哥还是厉害啊，要奶死了
+2014-10-14 15:03:37 INFO ContentMinaHandler:87 - 接收到弹幕消息	又鸟又鸟合鸟 : GG节奏
+2014-10-14 15:03:38 INFO ContentMinaHandler:87 - 接收到弹幕消息	我的女神赫本 : 刷新bkb
+2014-10-14 15:03:39 INFO ContentMinaHandler:87 - 接收到弹幕消息	Z什么急 : 守住了。。。
+2014-10-14 15:03:40 INFO ContentMinaHandler:101 - 接收到礼物消息	xinyuhanfei 赠送给主播100个鱼丸
+2014-10-14 15:03:40 INFO ContentMinaHandler:101 - 接收到礼物消息	xinyuhanfei 赠送给主播100个鱼丸
+2014-10-14 15:03:41 INFO ContentMinaHandler:87 - 接收到弹幕消息	一才才啊一才才 : 被奈斯了
+2014-10-14 15:03:41 INFO ContentMinaHandler:101 - 接收到礼物消息	luanwumyf 赠送给主播100个鱼丸
+2014-10-14 15:03:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	zky1542 : 1W9的电魂
+2014-10-14 15:03:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	hairui33 : 杀了俩大哥。
+2014-10-14 15:03:43 INFO ContentMinaHandler:87 - 接收到弹幕消息	WTG777 : 应该没有人的父母会希望儿女去蓝翔吧..
+2014-10-14 15:03:44 INFO ContentMinaHandler:87 - 接收到弹幕消息	1259489224 : 都说了眼少的反应是数一数二的
+2014-10-14 15:03:44 INFO ContentMinaHandler:87 - 接收到弹幕消息	我的女神赫本 : 为啥第二个bkb没开的
+2014-10-14 15:03:45 INFO ContentMinaHandler:87 - 接收到弹幕消息	兰杜拉斯 : 奶死了
+2014-10-14 15:03:45 INFO ContentMinaHandler:87 - 接收到弹幕消息	小小牧 : 这节奏菠菜压冷成功了吗
+2014-10-14 15:03:46 INFO ContentMinaHandler:87 - 接收到弹幕消息	oujunwuliao : 感觉上还是龙心好
+2014-10-14 15:03:47 INFO ContentMinaHandler:101 - 接收到礼物消息	CoeusTsdwq 赠送给主播100个鱼丸
+2014-10-14 15:03:48 INFO ContentMinaHandler:87 - 接收到弹幕消息	丶彩色狗 : 奶里有毒
+2014-10-14 15:03:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	330407011 : 奶奶奶~奶LGD就不用上天台了
+2014-10-14 15:03:50 INFO ContentMinaHandler:87 - 接收到弹幕消息	莫逆y : 卡啊。
+2014-10-14 15:03:51 INFO ContentMinaHandler:87 - 接收到弹幕消息	筱萌德 : 果然3口毒奶粉 奶死NB了么
+2014-10-14 15:03:52 INFO ContentMinaHandler:87 - 接收到弹幕消息	yeshenyue123 : 奶里有毒啊 ..
+2014-10-14 15:03:54 INFO ContentMinaHandler:87 - 接收到弹幕消息	风靡万千少女丶 : 塞拉这个电棍肥的不科学
+2014-10-14 15:03:55 INFO ContentMinaHandler:87 - 接收到弹幕消息	李毅大帝的邻居 : 起晚了没压上NB的菠菜，哈哈哈哈
+2014-10-14 15:03:56 INFO ContentMinaHandler:87 - 接收到弹幕消息	273758131 : 电棍在出个西瓦 xin
+2014-10-14 15:03:57 INFO ContentMinaHandler:87 - 接收到弹幕消息	sglll : 三个bkb
+2014-10-14 15:03:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	qq_RHWGAA : 末日吃的怪好
+2014-10-14 15:03:59 INFO ContentMinaHandler:101 - 接收到礼物消息	super_110 赠送给主播100个鱼丸
+2014-10-14 15:03:59 INFO ContentMinaHandler:101 - 接收到礼物消息	super_110 赠送给主播100个鱼丸
+2014-10-14 15:03:59 INFO ContentMinaHandler:101 - 接收到礼物消息	super_110 赠送给主播100个鱼丸
+2014-10-14 15:03:59 INFO ContentMinaHandler:87 - 接收到弹幕消息	1259489224 : 第二个也开了
+2014-10-14 15:03:59 INFO ContentMinaHandler:101 - 接收到礼物消息	super_110 赠送给主播100个鱼丸
+2014-10-14 15:04:00 INFO ContentMinaHandler:101 - 接收到礼物消息	super_110 赠送给主播100个鱼丸
+2014-10-14 15:04:00 INFO ContentMinaHandler:101 - 接收到礼物消息	super_110 赠送给主播100个鱼丸
+2014-10-14 15:04:00 INFO ContentMinaHandler:87 - 接收到弹幕消息	xiliuliuxi : newbee好菜啊 打不过LGD？？
+2014-10-14 15:04:01 INFO ContentMinaHandler:101 - 接收到礼物消息	super_110 赠送给主播100个鱼丸
+2014-10-14 15:04:02 INFO ContentMinaHandler:87 - 接收到弹幕消息	luanwumyf : 守住了！
+2014-10-14 15:04:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	douyunmsl : 同小压LGD。。
+2014-10-14 15:04:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	nick_lzc : newbee没爆发 秒不了人的
+2014-10-14 15:04:04 INFO ContentMinaHandler:87 - 接收到弹幕消息	子慕语 : 都说了不信谁但肯定要信明灯奶啊
+2014-10-14 15:04:05 INFO ContentMinaHandler:87 - 接收到弹幕消息	懒散怀春 : 只能说，奶哥哥赢了！！！
+2014-10-14 15:04:06 INFO ContentMinaHandler:101 - 接收到礼物消息	Aiblue 赠送给主播100个鱼丸
+2014-10-14 15:04:06 INFO ContentMinaHandler:87 - 接收到弹幕消息	瑞文戴尔的安全套 : 现在上交能秒西交一条街
+2014-10-14 15:04:08 INFO ContentMinaHandler:87 - 接收到弹幕消息	bnvkasy : 继续奶NB啊
+2014-10-14 15:04:09 INFO ContentMinaHandler:101 - 接收到礼物消息	lxs670751077 赠送给主播100个鱼丸
+2014-10-14 15:04:09 INFO ContentMinaHandler:87 - 接收到弹幕消息	毕竟三比零a : 峰哥屁股好了吗
+2014-10-14 15:04:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	铁肾男人 : 电魂真强大，每次都秒开BKB
+2014-10-14 15:04:11 INFO ContentMinaHandler:87 - 接收到弹幕消息	温油美丽兔子酱 : nice
+2014-10-14 15:04:11 INFO ContentMinaHandler:87 - 接收到弹幕消息	humojoy : 序曲太高
+2014-10-14 15:04:11 INFO ContentMinaHandler:101 - 接收到礼物消息	lxs670751077 赠送给主播100个鱼丸
+2014-10-14 15:04:11 INFO ContentMinaHandler:101 - 接收到礼物消息	ART_biao 赠送给主播100个鱼丸
+2014-10-14 15:04:13 INFO ContentMinaHandler:87 - 接收到弹幕消息	黑袍骑士 : 将军上去直接被DOOM了
+2014-10-14 15:04:14 INFO ContentMinaHandler:87 - 接收到弹幕消息	woshida2222 : 上个清华都不好意思说 还蓝翔
+2014-10-14 15:04:14 INFO ContentMinaHandler:101 - 接收到礼物消息	Silencessssss 赠送给主播100个鱼丸
+2014-10-14 15:04:14 INFO ContentMinaHandler:101 - 接收到礼物消息	lxs670751077 赠送给主播100个鱼丸
+2014-10-14 15:04:15 INFO ContentMinaHandler:87 - 接收到弹幕消息	19891204cd : S了
+2014-10-14 15:04:15 INFO ContentMinaHandler:87 - 接收到弹幕消息	yanggangyi : BO1?
+2014-10-14 15:04:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	up吃屎 : 人马也就想骗个bkb
+2014-10-14 15:04:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	銧の黯 : 现在版本电棍还是很强
+2014-10-14 15:04:19 INFO ContentMinaHandler:101 - 接收到礼物消息	星星星晴丶 赠送给主播100个鱼丸
+2014-10-14 15:04:19 INFO ContentMinaHandler:87 - 接收到弹幕消息	柳航 : 这版本不是不能两个大一起了吗
+2014-10-14 15:04:19 INFO ContentMinaHandler:101 - 接收到礼物消息	星星星晴丶 赠送给主播100个鱼丸
+2014-10-14 15:04:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	62533569 : 求祖传代码
+2014-10-14 15:04:22 INFO ContentMinaHandler:87 - 接收到弹幕消息	温油美丽兔子酱 : nice 
+2014-10-14 15:04:24 INFO ContentMinaHandler:87 - 接收到弹幕消息	jk31268 : 真的被奶死了 。。
+2014-10-14 15:04:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	330407011 : 奶奶奶~奶LGD去
+2014-10-14 15:04:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	悲傷染指青春 : 第二你哦了
+2014-10-14 15:04:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	啦啦啦冷酥好棒 : 这是什么比赛啊
+2014-10-14 15:04:29 INFO ContentMinaHandler:87 - 接收到弹幕消息	thromka : newbee这阵容还没爆发 ？
+2014-10-14 15:04:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	西瓜校长君 : 你们讨论出个大学369等证明你们很NB?
+2014-10-14 15:04:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	陆家二少 : bewbee没爆发也是醉了
+2014-10-14 15:04:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	悲傷染指青春 : 老年宝
+2014-10-14 15:04:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	jk31268 : 奶里有毒 =。=
+2014-10-14 15:04:32 INFO ContentMinaHandler:87 - 接收到弹幕消息	lxs670751077 : lgd都有谁啊，711是谁
+2014-10-14 15:04:33 INFO ContentMinaHandler:101 - 接收到礼物消息	我支付起来自己都怕啊 赠送给主播100个鱼丸
+2014-10-14 15:04:33 INFO ContentMinaHandler:101 - 接收到礼物消息	tswoaini 赠送给主播100个鱼丸
+2014-10-14 15:04:33 INFO ContentMinaHandler:87 - 接收到弹幕消息	凨与月銫 : UG 出的分身
+2014-10-14 15:04:34 INFO ContentMinaHandler:101 - 接收到礼物消息	gj121808677 赠送给主播100个鱼丸
+2014-10-14 15:04:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	zk7609790 : 奶哥哥
+2014-10-14 15:04:35 INFO ContentMinaHandler:87 - 接收到弹幕消息	spe萌萌地 : 可以的
+2014-10-14 15:04:36 INFO ContentMinaHandler:87 - 接收到弹幕消息	zheguzai : 国内现在最强的应该是VG吧
+2014-10-14 15:04:36 INFO ContentMinaHandler:87 - 接收到弹幕消息	nick_lzc : UG也没辉耀 近卫几个BKB 天灾想秒人
+2014-10-14 15:04:38 INFO ContentMinaHandler:87 - 接收到弹幕消息	soullost : 刷新能刷bkb了？
+2014-10-14 15:04:39 INFO ContentMinaHandler:87 - 接收到弹幕消息	悲傷染指青春 : 第二波都不知道
+2014-10-14 15:04:40 INFO ContentMinaHandler:87 - 接收到弹幕消息	15067456538 : HAO不是死了么 怎么还是分生了
+2014-10-14 15:04:41 INFO ContentMinaHandler:87 - 接收到弹幕消息	dyj0511 : 09厉害，中专毕业
+2014-10-14 15:04:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	zouquantian : 1
+2014-10-14 15:04:44 INFO ContentMinaHandler:87 - 接收到弹幕消息	訬訬闹闹 : 马上 金将军就踩2 个
+2014-10-14 15:04:45 INFO ContentMinaHandler:87 - 接收到弹幕消息	jack687 : 现在要上技校，工作好找
+2014-10-14 15:04:47 INFO ContentMinaHandler:87 - 接收到弹幕消息	gaolinlin1222 : 说nb没爆发的真是醉了
+2014-10-14 15:04:47 INFO ContentMinaHandler:87 - 接收到弹幕消息	索德罗斯之刃 : 国内最强基本VG
+2014-10-14 15:04:48 INFO ContentMinaHandler:87 - 接收到弹幕消息	qq_PzAOeo : 蓝翔毕业的比某些名校毕业的多混的好啊
+2014-10-14 15:04:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	RYburan : 支付宝可以的
+2014-10-14 15:04:51 INFO ContentMinaHandler:87 - 接收到弹幕消息	处女座无敌 : 666666
+2014-10-14 15:04:51 INFO ContentMinaHandler:101 - 接收到礼物消息	C10是江大桥 赠送给主播100个鱼丸
+2014-10-14 15:04:52 INFO ContentMinaHandler:87 - 接收到弹幕消息	Vurtne : 嘎？
+2014-10-14 15:04:53 INFO ContentMinaHandler:87 - 接收到弹幕消息	hackerSQQ : 哇
+2014-10-14 15:04:54 INFO ContentMinaHandler:101 - 接收到礼物消息	hatachen37 赠送给主播100个鱼丸
+2014-10-14 15:04:55 INFO ContentMinaHandler:87 - 接收到弹幕消息	bitttt : 哇，这个天怒大
+2014-10-14 15:04:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	阿萨德2 : 毕竟将军
+2014-10-14 15:05:00 INFO ContentMinaHandler:87 - 接收到弹幕消息	qq_iN0M9U : ...
+2014-10-14 15:05:01 INFO ContentMinaHandler:87 - 接收到弹幕消息	莫逆y : 求祖传代码
+2014-10-14 15:05:02 INFO ContentMinaHandler:87 - 接收到弹幕消息	lxs670751077 : lgd711是谁啊
+2014-10-14 15:05:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	zouquantian : 祖传代码走一走？
+2014-10-14 15:05:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	啦啦啦冷酥好棒 : 这是什么比赛啊谁告诉一下
+2014-10-14 15:05:04 INFO ContentMinaHandler:87 - 接收到弹幕消息	訬訬闹闹 : yao 鱼
+2014-10-14 15:05:05 INFO ContentMinaHandler:101 - 接收到礼物消息	detailion 赠送给主播100个鱼丸
+2014-10-14 15:05:05 INFO ContentMinaHandler:101 - 接收到礼物消息	detailion 赠送给主播100个鱼丸
+2014-10-14 15:05:06 INFO ContentMinaHandler:87 - 接收到弹幕消息	515806953 : 这
+2014-10-14 15:05:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	515806953 : 。。
+2014-10-14 15:05:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	xfomozx2020 : yao了我的ming
+2014-10-14 15:05:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	天欲飞 : 被一个lol的引战，就自己打起来了
+2014-10-14 15:05:08 INFO ContentMinaHandler:87 - 接收到弹幕消息	春哥护体 : 不走是什么意思？
+2014-10-14 15:05:08 INFO ContentMinaHandler:87 - 接收到弹幕消息	laozhong1217 : yao命
+2014-10-14 15:05:09 INFO ContentMinaHandler:87 - 接收到弹幕消息	打我就报警 : 啊
+2014-10-14 15:05:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	dalianmaomimi : yao这也开不出BKB？
+2014-10-14 15:05:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	机智的弗利萨 : 这还不走？
+2014-10-14 15:05:11 INFO ContentMinaHandler:87 - 接收到弹幕消息	udjomkai : 回合制
+2014-10-14 15:05:11 INFO ContentMinaHandler:87 - 接收到弹幕消息	天欲飞 : 脑子有问题？
+2014-10-14 15:05:12 INFO ContentMinaHandler:87 - 接收到弹幕消息	请别杀我 : 回合制
+2014-10-14 15:05:12 INFO ContentMinaHandler:87 - 接收到弹幕消息	cstlgy : yao啊
+2014-10-14 15:05:12 INFO ContentMinaHandler:87 - 接收到弹幕消息	我是一只小辣鸡 : 天降伟人
+2014-10-14 15:05:12 INFO ContentMinaHandler:87 - 接收到弹幕消息	humojoy : 66666666666666666
+2014-10-14 15:05:13 INFO ContentMinaHandler:87 - 接收到弹幕消息	gfy_mythical : 怎么莫名其妙的yao就死了
+2014-10-14 15:05:15 INFO ContentMinaHandler:87 - 接收到弹幕消息	ouuuwen : 演员啊
+2014-10-14 15:05:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	leohahaha2012 : 这YAO
+2014-10-14 15:05:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	热浪番茄 : 天降伟人
+2014-10-14 15:05:18 INFO ContentMinaHandler:87 - 接收到弹幕消息	东莞大帝 : 天将伟人
+2014-10-14 15:05:19 INFO ContentMinaHandler:87 - 接收到弹幕消息	大师0 : 毒奶
+2014-10-14 15:05:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	cutino : yao不开BKB想什么？
+2014-10-14 15:05:22 INFO ContentMinaHandler:87 - 接收到弹幕消息	puck2012 : 真是逗B
+2014-10-14 15:05:22 INFO ContentMinaHandler:87 - 接收到弹幕消息	索德罗斯之刃 : 奶哥哥 解说界翘楚！！！
+2014-10-14 15:05:22 INFO ContentMinaHandler:87 - 接收到弹幕消息	mdhdxd : yao状态差啊
+2014-10-14 15:05:23 INFO ContentMinaHandler:87 - 接收到弹幕消息	职业OB龙 : 天降伟人
+2014-10-14 15:05:24 INFO ContentMinaHandler:87 - 接收到弹幕消息	我已瘦成光 : yao这都不开BKB
+2014-10-14 15:05:24 INFO ContentMinaHandler:87 - 接收到弹幕消息	oujunwuliao : 梦境缠绕快结束了强行吃二段伤害
+2014-10-14 15:05:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	q80130288 : 将军的这两脚。
+2014-10-14 15:05:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	xiao89 : yao不开bkb
+2014-10-14 15:05:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	fjl181988 : yao了命啊
+2014-10-14 15:05:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	Nothera : 哈哈哈哈 毕竟yao
+2014-10-14 15:05:27 INFO ContentMinaHandler:87 - 接收到弹幕消息	humojoy : 翻皮了要
+2014-10-14 15:05:27 INFO ContentMinaHandler:87 - 接收到弹幕消息	mychelsea : yao了我的明啊
+2014-10-14 15:05:28 INFO ContentMinaHandler:87 - 接收到弹幕消息	秋衣半露 : BKB 不开？？
+2014-10-14 15:05:29 INFO ContentMinaHandler:87 - 接收到弹幕消息	我爱吃猪肉 : 着yao为什么不开BKB
+2014-10-14 15:05:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	南风尧 : 走晕了
+2014-10-14 15:05:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	机智的弗利萨 : 可以bkb啊
+2014-10-14 15:05:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	dalianmaomimi : yao真是鱼
+2014-10-14 15:05:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	大丶萌丶德 : 奶锅锅奶谁谁就灭
+2014-10-14 15:05:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	小暴脾气 : 被puck留住了
+2014-10-14 15:05:32 INFO ContentMinaHandler:87 - 接收到弹幕消息	囿_qq : yao了我的ming啊
+2014-10-14 15:05:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	泰利克洛斯 : YAO了我的命啊
+2014-10-14 15:05:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	蹭饭君_qq : 这yao 被帕克大了 最后一秒还被晕
+2014-10-14 15:05:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	一砖撂倒 : 好逗比
+2014-10-14 15:05:36 INFO ContentMinaHandler:87 - 接收到弹幕消息	訬訬闹闹 : 枫哥这里延迟的好多啊
+2014-10-14 15:05:37 INFO ContentMinaHandler:87 - 接收到弹幕消息	啦啦啦冷酥好棒 : 这是什么比赛啊，BO1么
+2014-10-14 15:05:37 INFO ContentMinaHandler:87 - 接收到弹幕消息	dtlvdong : 要了你得命
+2014-10-14 15:05:37 INFO ContentMinaHandler:87 - 接收到弹幕消息	yemangou : 狗眼
+2014-10-14 15:05:40 INFO ContentMinaHandler:87 - 接收到弹幕消息	Jonny灬苗 : 狗眼立功了
+2014-10-14 15:05:41 INFO ContentMinaHandler:87 - 接收到弹幕消息	机智的少年Demon : 狗眼
+2014-10-14 15:05:41 INFO ContentMinaHandler:87 - 接收到弹幕消息	EVO0_acfun : YAO本来可以不死的
+2014-10-14 15:05:41 INFO ContentMinaHandler:87 - 接收到弹幕消息	q80130288 : 将军的这两脚，踩死4个
+2014-10-14 15:05:41 INFO ContentMinaHandler:101 - 接收到礼物消息	不知道叫啥好0 赠送给主播100个鱼丸
+2014-10-14 15:05:41 INFO ContentMinaHandler:87 - 接收到弹幕消息	Rouge_Tiger : 真是YAO了我的命阿
+2014-10-14 15:05:42 INFO ContentMinaHandler:101 - 接收到礼物消息	jkeeew 赠送给主播100个鱼丸
+2014-10-14 15:05:42 INFO ContentMinaHandler:101 - 接收到礼物消息	jkeeew 赠送给主播100个鱼丸
+2014-10-14 15:05:42 INFO ContentMinaHandler:101 - 接收到礼物消息	jkeeew 赠送给主播100个鱼丸
+2014-10-14 15:05:42 INFO ContentMinaHandler:87 - 接收到弹幕消息	dvt_sl : 强行吃了帕克2段伤害
+2014-10-14 15:05:43 INFO ContentMinaHandler:101 - 接收到礼物消息	jkeeew 赠送给主播100个鱼丸
+2014-10-14 15:05:43 INFO ContentMinaHandler:87 - 接收到弹幕消息	阿伦811 : yao了我的命
+2014-10-14 15:05:43 INFO ContentMinaHandler:101 - 接收到礼物消息	jkeeew 赠送给主播100个鱼丸
+2014-10-14 15:05:43 INFO ContentMinaHandler:101 - 接收到礼物消息	jkeeew 赠送给主播100个鱼丸
+2014-10-14 15:05:44 INFO ContentMinaHandler:87 - 接收到弹幕消息	姜学长 : 哈哈哈 明
+2014-10-14 15:05:45 INFO ContentMinaHandler:87 - 接收到弹幕消息	我爱萌妹子 : YAO不舍得BKB 最后还被晕了下
+2014-10-14 15:05:45 INFO ContentMinaHandler:87 - 接收到弹幕消息	无敌潇潇 : 中了PUCK大，走了一下，被晕了
+2014-10-14 15:05:46 INFO ContentMinaHandler:87 - 接收到弹幕消息	zeycen : 狗眼笑尿
+2014-10-14 15:05:47 INFO ContentMinaHandler:101 - 接收到礼物消息	hatachen37 赠送给主播100个鱼丸
+2014-10-14 15:05:47 INFO ContentMinaHandler:87 - 接收到弹幕消息	1259489224 : yao了我的明鸭
+2014-10-14 15:05:47 INFO ContentMinaHandler:87 - 接收到弹幕消息	15067456538 : 狗眼
+2014-10-14 15:05:48 INFO ContentMinaHandler:101 - 接收到礼物消息	不知道叫啥好0 赠送给主播100个鱼丸
+2014-10-14 15:05:48 INFO ContentMinaHandler:87 - 接收到弹幕消息	roboute001 : 毕竟将军
+2014-10-14 15:05:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	幻影干爹 : 姚把帕克大搞破了
+2014-10-14 15:05:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	其实也还好 : 狗眼
+2014-10-14 15:05:49 INFO ContentMinaHandler:101 - 接收到礼物消息	hatachen37 赠送给主播100个鱼丸
+2014-10-14 15:05:50 INFO ContentMinaHandler:87 - 接收到弹幕消息	yc950326 : 711到底是谁啊
+2014-10-14 15:05:51 INFO ContentMinaHandler:87 - 接收到弹幕消息	witi丶 : LGD。无YAO可救。无YAO才可救啊
+2014-10-14 15:05:53 INFO ContentMinaHandler:87 - 接收到弹幕消息	鹏鹏鹏鹏 : 09很牛逼，你们别争了，再挣保安自杀了
+2014-10-14 15:05:54 INFO ContentMinaHandler:87 - 接收到弹幕消息	dengzhechy : 最后一秒吃puck2段大
+2014-10-14 15:05:54 INFO ContentMinaHandler:87 - 接收到弹幕消息	studieren : 钛合金狗眼
+2014-10-14 15:05:56 INFO ContentMinaHandler:87 - 接收到弹幕消息	伤了灵魂 : 翻毛线，这阵容，下一波推进就没了
+2014-10-14 15:05:56 INFO ContentMinaHandler:87 - 接收到弹幕消息	kyine1 : SYLAR掉啊
+2014-10-14 15:05:57 INFO ContentMinaHandler:87 - 接收到弹幕消息	hairui33 : 没事 直接上高就行了
+2014-10-14 15:05:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	da8923320 : 宝哥请安静 ！
+2014-10-14 15:05:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	WTG777 : 跑也跑不了,帕克追人不好逃的
+2014-10-14 15:05:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	黑夜的瞳_acfun : 毒奶v5
+2014-10-14 15:05:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	拉攀 : 这三个有bkb想撤还是可以的
+2014-10-14 15:05:59 INFO ContentMinaHandler:87 - 接收到弹幕消息	蹭饭君_qq : yao强行吃帕克第二段晕
+2014-10-14 15:06:00 INFO ContentMinaHandler:87 - 接收到弹幕消息	加热后的百度 : longdd为什么这么躲废话。。
+2014-10-14 15:06:01 INFO ContentMinaHandler:87 - 接收到弹幕消息	倾尽温柔 : yao了嘎的小明
+2014-10-14 15:06:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	shirongli : 求祖传代码
+2014-10-14 15:06:04 INFO ContentMinaHandler:87 - 接收到弹幕消息	injure : NB这个意识确实厉害啊
+2014-10-14 15:06:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	Excalibur123 : 宝哥你是眼瞎吗
+2014-10-14 15:06:08 INFO ContentMinaHandler:87 - 接收到弹幕消息	fmerfr : 现在电魂大不能刷新两个？真的假的？
+2014-10-14 15:06:09 INFO ContentMinaHandler:87 - 接收到弹幕消息	markuro : 替塞拉不值。。。。
+2014-10-14 15:06:09 INFO ContentMinaHandler:87 - 接收到弹幕消息	伤了冬初白了城 : 刚才打完团直接打肉不好么
+2014-10-14 15:06:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	主播又输了 : yao了我的命
+2014-10-14 15:06:11 INFO ContentMinaHandler:87 - 接收到弹幕消息	黑夜的瞳_acfun : 奶谁谁死
+2014-10-14 15:06:13 INFO ContentMinaHandler:87 - 接收到弹幕消息	魂淡q先生 : 我只知道马云杭师毕业的，
+2014-10-14 15:06:14 INFO ContentMinaHandler:87 - 接收到弹幕消息	xiliuliuxi : 打个lgd这么费劲 垃圾newbee
+2014-10-14 15:06:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	KongFu9527 : 别人打4换1？不是1换4么？
+2014-10-14 15:06:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	bravexia1 : 人头狗
+2014-10-14 15:06:19 INFO ContentMinaHandler:87 - 接收到弹幕消息	lallana_lx : newbee在ti也是一波团翻
+2014-10-14 15:06:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	a6067966 : LGD要赢了
+2014-10-14 15:06:21 INFO ContentMinaHandler:87 - 接收到弹幕消息	yqy1991 : 现在好点的大学哪个没有什么XX学院的
+2014-10-14 15:06:22 INFO ContentMinaHandler:87 - 接收到弹幕消息	hairui33 : 。。没助攻
+2014-10-14 15:06:23 INFO ContentMinaHandler:87 - 接收到弹幕消息	shuaizai000 : 。
+2014-10-14 15:06:25 INFO ContentMinaHandler:87 - 接收到弹幕消息	a675267360 : 不是末日都把雾破了，牛也没跳走。。。
+2014-10-14 15:07:35 WARN JSONObject:1454 - Can't transform property 'data' from java.lang.String into name.yumao.douyu.vo.RoomApiDataVo. Will register a default Morpher
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.cate_id' does not exist. SKIPPED.
+2014-10-14 15:07:35 INFO BeanMorpher:98 - Property 'name.yumao.douyu.vo.RoomApiDataVo.class' has no write method. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.fake_user_num' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.fans' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.game_name' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.game_url' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.nickname' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.online' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.owner_avatar' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.owner_uid' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.owner_weight' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.room_id' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.room_name' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.room_src' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.rtmp_cdn' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.rtmp_live' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.rtmp_multi_bitrate' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.rtmp_url' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.servers' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.show_details' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.show_status' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.show_time' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.specific_catalog' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.specific_status' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.subject' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.tags' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.url' does not exist. SKIPPED.
+2014-10-14 15:07:35 WARN BeanMorpher:116 - Property 'java.lang.String.vod_quality' does not exist. SKIPPED.
+2014-10-14 15:07:43 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.20:8005
+2014-10-14 15:07:47 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor10662148
+2014-10-14 15:07:47 INFO LoginMinaHandler:101 - 登陆的病床编号为: 58428 床
+2014-10-14 15:07:47 INFO LoginMinaHandler:104 - 加入的讨论群组为: 23 组
+2014-10-14 15:07:47 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-10-14 15:07:49 INFO ContentMinaHandler:87 - 接收到弹幕消息	houkai4355 : 我用手机开发windows10有要的吗
+2014-10-14 15:07:50 INFO ContentMinaHandler:87 - 接收到弹幕消息	woshida2222 : 这比赛是BO2吧  怎么下
+2014-10-14 15:07:51 INFO ContentMinaHandler:87 - 接收到弹幕消息	减年 : 电棍加DP两个大就是恶心
+2014-10-14 15:07:52 INFO ContentMinaHandler:87 - 接收到弹幕消息	wming9310 : bo几？
+2014-10-14 15:07:54 INFO ContentMinaHandler:87 - 接收到弹幕消息	訬訬闹闹 : 天降伟人
+2014-10-14 15:07:57 INFO ContentMinaHandler:87 - 接收到弹幕消息	imbandy : newbee问题是带不动线啊
+2014-10-14 15:07:58 INFO ContentMinaHandler:87 - 接收到弹幕消息	jack687 : 这时候辉耀也是醉了
+2014-10-14 15:07:59 INFO ContentMinaHandler:87 - 接收到弹幕消息	国产万艾可 : newbee就靠yao翻盘了
+2014-10-14 15:07:59 INFO ContentMinaHandler:101 - 接收到礼物消息	她丶像首歌 赠送给主播100个鱼丸
+2014-10-14 15:08:00 INFO ContentMinaHandler:87 - 接收到弹幕消息	htq963 : 奶哥哥奶了sylar
+2014-10-14 15:08:00 INFO ContentMinaHandler:101 - 接收到礼物消息	她丶像首歌 赠送给主播100个鱼丸
+2014-10-14 15:08:01 INFO ContentMinaHandler:87 - 接收到弹幕消息	lonely420lv : 昨晚小8，09，yao开黑yao大腿
+2014-10-14 15:08:02 INFO ContentMinaHandler:87 - 接收到弹幕消息	xuchaoyou : 一波的事
+2014-10-14 15:08:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	空洞的蔚蓝 : 电棍再更个龙芯 怎么输？
+2014-10-14 15:08:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	lallana_lx : 超一流ug都不出辉耀的
+2014-10-14 15:08:03 INFO ContentMinaHandler:87 - 接收到弹幕消息	eoomao : YAO每次TI 其实都是大腿
+2014-10-14 15:08:05 INFO ContentMinaHandler:87 - 接收到弹幕消息	lyriclrx1990 : 不出辉耀，哪里来龙心，辉耀
+2014-10-14 15:08:06 INFO ContentMinaHandler:87 - 接收到弹幕消息	寂寞小发发 : BO2
+2014-10-14 15:08:07 INFO ContentMinaHandler:87 - 接收到弹幕消息	菜J怎么这么多 : 跟一群文盲主播你们瞎起什么哄啊！
+2014-10-14 15:08:10 INFO ContentMinaHandler:101 - 接收到礼物消息	图兰朵的爱 赠送给主播100个鱼丸
+2014-10-14 15:08:10 INFO ContentMinaHandler:87 - 接收到弹幕消息	tyler007 : lich先锋盾了
+2014-10-14 15:08:11 INFO ContentMinaHandler:87 - 接收到弹幕消息	bodhivrksa : 刷新電棍大不是不可以存在兩個了嗎？
+2014-10-14 15:08:13 INFO ContentMinaHandler:87 - 接收到弹幕消息	zk7609790 : 奶哥哥自己就够了毕奶。
+2014-10-14 15:08:15 INFO ContentMinaHandler:87 - 接收到弹幕消息	405326497 : 放心 有yao别慌放心 有yao别慌.
+2014-10-14 15:08:16 INFO ContentMinaHandler:87 - 接收到弹幕消息	htq963 : 估计眼少下波要被秒
+2014-10-14 15:08:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	405326497 : 放心 有yao别慌放心 有yao别慌
+2014-10-14 15:08:17 INFO ContentMinaHandler:87 - 接收到弹幕消息	xiao8151087 : 电魂DP双BKB没塔防直接强拆
+2014-10-14 15:08:18 INFO ContentMinaHandler:87 - 接收到弹幕消息	199692836 : yao就是专门打Ti的我感觉，，，，
+2014-10-14 15:08:19 INFO ContentMinaHandler:87 - 接收到弹幕消息	252807108 : 眼少重组以来就没有打不好过都稳定
+2014-10-14 15:08:20 INFO ContentMinaHandler:87 - 接收到弹幕消息	qaz307456306 : 要想发家致富毕信毒奶DD
+2014-10-14 15:08:21 INFO ContentMinaHandler:87 - 接收到弹幕消息	深沉的逗比 : 干爹待会儿就直接bkb强拆了 挡不住的
+2014-10-14 15:08:22 INFO ContentMinaHandler:87 - 接收到弹幕消息	神经达 : 说了不准再黑09 了！！！！！
+2014-10-14 15:08:24 INFO ContentMinaHandler:87 - 接收到弹幕消息	405326497 : 放心 有yao别慌放心 有yao别慌放
+2014-10-14 15:08:26 INFO ContentMinaHandler:87 - 接收到弹幕消息	恋晴晴 : [emot:sorry]
+2014-10-14 15:08:27 INFO ContentMinaHandler:87 - 接收到弹幕消息	miadonkey : 不出HY 等你龙心蝴蝶 基地早就爆了
+2014-10-14 15:08:29 INFO ContentMinaHandler:87 - 接收到弹幕消息	gaolinlin1222 : 这把塞拉表现的确吊，bkb开的稳
+2014-10-14 15:08:30 INFO ContentMinaHandler:87 - 接收到弹幕消息	这是体制问题吗 : YAO帝经济好
+2014-10-14 15:08:31 INFO ContentMinaHandler:87 - 接收到弹幕消息	wuqingxiangshao : 波了一个兵
+2014-10-14 15:08:33 INFO ContentMinaHandler:87 - 接收到弹幕消息	405326497 : 放心 有yao别慌
+2014-10-14 15:08:34 INFO ContentMinaHandler:87 - 接收到弹幕消息	cxawb : 注意奶哥哥奶了眼少
+2014-10-14 15:08:36 INFO ContentMinaHandler:87 - 接收到弹幕消息	taog402 : 1ge bing
+2014-10-14 15:08:38 INFO ContentMinaHandler:87 - 接收到弹幕消息	jack687 : YAO好穷啊
+2014-10-14 15:08:40 INFO ContentMinaHandler:87 - 接收到弹幕消息	proseries : 刷新能刷BKB吗

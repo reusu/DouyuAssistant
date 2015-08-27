@@ -1,0 +1,1161 @@
+2014-09-23 11:21:19 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:21:19 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.19:8024
+2014-09-23 11:21:35 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:21:35 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8029
+2014-09-23 11:21:48 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:21:48 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8018
+2014-09-23 11:21:48 INFO LoginMinaHandler:91 - 获取的登录用户名为: visitor1451932
+2014-09-23 11:21:48 INFO LoginMinaHandler:94 - 登陆的病床编号为: 928 床
+2014-09-23 11:21:48 INFO LoginMinaHandler:97 - 加入的讨论群组为: 0 组
+2014-09-23 11:21:49 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 11:22:11 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:22:11 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8018
+2014-09-23 11:22:11 INFO LoginMinaHandler:44 - 受到返回的信息: 1F 00 00 00 1F 00 00 00 B2 02 00 00 74 79 70 65 40 3D 65 72 72 6F 72 2F 63 6F 64 65 40 3D 32 30 32 2F 00 1E 00 00 00 1E 00 00 00 B2 02 00 00 74 79 70 65 40 3D 65 72 72 6F 72 2F 63 6F 64 65 40 3D 35 31 2F 00 
+2014-09-23 11:22:42 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:22:42 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.20:8003
+2014-09-23 11:22:43 INFO LoginMinaHandler:44 - 受到返回的信息: 1F 00 00 00 1F 00 00 00 B2 02 00 00 74 79 70 65 40 3D 65 72 72 6F 72 2F 63 6F 64 65 40 3D 32 30 32 2F 00 1E 00 00 00 1E 00 00 00 B2 02 00 00 74 79 70 65 40 3D 65 72 72 6F 72 2F 63 6F 64 65 40 3D 35 31 2F 00 
+2014-09-23 11:24:00 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:24:00 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8007
+2014-09-23 11:24:10 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:24:10 INFO LoginMinaThread:35 - 随机选择登陆服务器 210.73.208.150:8009
+2014-09-23 11:24:21 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:24:21 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.19:8026
+2014-09-23 11:24:21 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor1452754
+2014-09-23 11:24:21 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 11:24:21 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 11:24:22 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 11:25:08 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:25:08 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8022
+2014-09-23 11:25:21 WARN JSONObject:454 - Tried to assign property owner_weight:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-09-23 11:25:21 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8007
+2014-09-23 11:26:53 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.20:8005
+2014-09-23 11:27:46 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8019
+2014-09-23 11:27:46 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 11:27:46 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 11:27:46 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 11:27:46 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 11:28:03 INFO ContentMinaHandler:106 - 接收到弹幕消息	hooiyxm : [emot:indecent]
+2014-09-23 11:28:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	thomasTT : 卡主了？
+2014-09-23 11:28:31 INFO ContentMinaHandler:106 - 接收到弹幕消息	Alive丶 : DD呢
+2014-09-23 11:28:39 INFO ContentMinaHandler:119 - 接收到礼物消息	hooiyxm 赠送给主播100个鱼丸
+2014-09-23 11:28:40 INFO ContentMinaHandler:119 - 接收到礼物消息	hooiyxm 赠送给主播100个鱼丸
+2014-09-23 11:28:50 INFO ContentMinaHandler:106 - 接收到弹幕消息	1513628837 : 有没有人知道联机版的消息啊
+2014-09-23 11:28:51 INFO LoginMinaHandler:127 - 失去与验证服务器的连接
+2014-09-23 11:28:51 INFO ContentMinaHandler:106 - 接收到弹幕消息	路过人间啊 : 为什么玩这个角色啊
+2014-09-23 11:28:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : 1
+2014-09-23 11:29:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	路过人间啊 : 这个角色有什么特长啊
+2014-09-23 11:29:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	宅大叔 : 容易死
+2014-09-23 11:29:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	Vurtne_Vv : 特长就是难...
+2014-09-23 11:29:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	路过人间啊 : ...
+2014-09-23 11:29:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	Alive丶 : 小丑可以吹气球
+2014-09-23 11:29:26 INFO ContentMinaHandler:106 - 接收到弹幕消息	女儿你真美 : 惊现teemo君
+2014-09-23 11:29:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	宅大叔 : 作死角色
+2014-09-23 12:51:40 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.19:8027
+2014-09-23 12:51:40 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 12:51:40 INFO LoginMinaHandler:95 - 登陆的病床编号为: 582 床
+2014-09-23 12:51:40 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 12:51:41 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 12:53:15 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8030
+2014-09-23 12:53:15 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 12:53:16 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 12:53:16 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 12:53:16 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 12:53:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	滚烫的冰块 : 猪人怕黑的
+2014-09-23 12:53:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	绮梦I : [emot:laughing]
+2014-09-23 12:53:41 INFO ContentMinaHandler:106 - 接收到弹幕消息	滚烫的冰块 : 给他抓到了一下
+2014-09-23 12:53:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	盲匪 : 差点GG
+2014-09-23 12:53:50 INFO ContentMinaHandler:106 - 接收到弹幕消息	4489489193 : 刚刚打了6下  所以。。。
+2014-09-23 12:53:58 INFO ContentMinaHandler:106 - 接收到弹幕消息	滚烫的冰块 : 什么吃的东西可以回血啊
+2014-09-23 12:54:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	1141530385 : 弱的我都醉了= =
+2014-09-23 12:54:05 INFO LoginMinaHandler:127 - 失去与验证服务器的连接
+2014-09-23 12:54:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	黑暗天神 : 今天不是能联机了么？
+2014-09-23 12:54:35 INFO ContentMinaHandler:106 - 接收到弹幕消息	臭笨笨 : DD，眼球是哪个季节的boss
+2014-09-23 12:54:37 INFO ContentMinaHandler:106 - 接收到弹幕消息	朵朵meme哒 : 怎么联机
+2014-09-23 12:55:02 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8007
+2014-09-23 12:55:02 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 12:55:02 INFO LoginMinaHandler:95 - 登陆的病床编号为: 16789 床
+2014-09-23 12:55:03 INFO LoginMinaHandler:98 - 加入的讨论群组为: 42 组
+2014-09-23 12:55:03 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 12:55:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	1183917267 : 手撕肛裂
+2014-09-23 12:55:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	hs123js : @乱斗
+2014-09-23 12:55:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	大同想你了 : 火车王改了么？
+2014-09-23 12:55:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	dylishipeng1 : 改了
+2014-09-23 12:55:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	抱歉吉安娜 : 现在还有秃鹫猎人
+2014-09-23 12:55:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	elses1994 : 盾猛交过一个了
+2014-09-23 12:55:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	我能单杀亦能被单杀 : 森哥？
+2014-09-23 12:55:25 INFO ContentMinaHandler:106 - 接收到弹幕消息	raxhill : 安妮猎人现在怎么打啊？、
+2014-09-23 12:55:26 INFO ContentMinaHandler:119 - 接收到礼物消息	wz921220 赠送给主播100个鱼丸
+2014-09-23 12:55:26 INFO ContentMinaHandler:119 - 接收到礼物消息	wz921220 赠送给主播100个鱼丸
+2014-09-23 12:55:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	泛青之水 : 秃鹫火车王都削了
+2014-09-23 12:55:29 INFO ContentMinaHandler:119 - 接收到礼物消息	zp195 赠送给主播100个鱼丸
+2014-09-23 12:55:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	大同想你了 : 改了哪些卡？我可以去分解什么
+2014-09-23 12:55:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	巴伦支海手术刀 : 刚烈点赞
+2014-09-23 13:01:10 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.19:8028
+2014-09-23 13:01:20 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.19:8025
+2014-09-23 13:01:21 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:01:21 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 13:01:21 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 13:01:21 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 13:01:23 INFO ContentMinaHandler:107 - 接收到弹幕消息	绮梦I : .
+2014-09-23 13:01:30 INFO ContentMinaHandler:107 - 接收到弹幕消息	臭笨笨 : 我建的家DD看了会一把火烧掉
+2014-09-23 13:01:37 INFO ContentMinaHandler:107 - 接收到弹幕消息	PC3100 : 箱子放法是有什么讲究？
+2014-09-23 13:01:38 INFO ContentMinaHandler:107 - 接收到弹幕消息	苍丶瞳 : 我电话响了？
+2014-09-23 13:02:01 INFO LoginMinaThread:35 - 随机选择登陆服务器 210.73.208.150:8010
+2014-09-23 13:02:01 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:02:01 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 13:02:01 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 13:02:01 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 13:02:02 INFO ContentMinaHandler:149 - 发给服务器的信息: Y   Y   ?  type@=loginreq/username@=auto_2n2PSn1qcD/password@=1234567890123456/roomid@=928/ 
+2014-09-23 13:02:03 INFO ContentMinaHandler:149 - 发给服务器的信息: )   )   ?  type@=joingroup/rid@=928/gid@=0/ 
+2014-09-23 13:02:03 INFO ContentMinaHandler:107 - 接收到弹幕消息	季AIS梦 : 又是牛奶饭吗
+2014-09-23 13:02:03 INFO ContentMinaHandler:149 - 发给服务器的信息: J   J   ?  type@=chatmessage/receiver@=0/content@=[Auto]I'm Coming~/scope@=/ 
+2014-09-23 13:02:08 INFO ContentMinaHandler:149 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=29/ 
+2014-09-23 13:02:13 INFO ContentMinaHandler:149 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=43/ 
+2014-09-23 13:02:18 INFO ContentMinaHandler:149 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=50/ 
+2014-09-23 13:02:35 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8018
+2014-09-23 13:02:35 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:02:35 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 13:02:35 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 13:02:35 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 13:02:36 INFO ContentMinaHandler:149 - 发给服务器的信息: Y   Y   ?  type@=loginreq/username@=auto_2n2PSn1qcD/password@=1234567890123456/roomid@=928/ 
+2014-09-23 13:02:37 INFO ContentMinaHandler:149 - 发给服务器的信息: )   )   ?  type@=joingroup/rid@=928/gid@=0/ 
+2014-09-23 13:02:42 INFO ContentMinaHandler:149 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=37/ 
+2014-09-23 13:02:47 INFO ContentMinaHandler:149 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=39/ 
+2014-09-23 13:02:49 INFO ContentMinaHandler:107 - 接收到弹幕消息	小麦不会乐器 : DD
+2014-09-23 13:02:49 INFO ContentMinaHandler:149 - 发给服务器的信息: J   J   ?  type@=chatmessage/receiver@=0/content@=[Auto]I'm Coming~/scope@=/ 
+2014-09-23 13:02:50 INFO ContentMinaHandler:107 - 接收到弹幕消息	苍丶瞳 : 土豆牛腩
+2014-09-23 13:02:50 INFO ContentMinaHandler:149 - 发给服务器的信息: J   J   ?  type@=chatmessage/receiver@=0/content@=[Auto]I'm Coming~/scope@=/ 
+2014-09-23 13:02:52 INFO ContentMinaHandler:149 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=32/ 
+2014-09-23 13:02:52 INFO ContentMinaHandler:129 - 接收到礼物消息	黑灰化肥发黑会挥发 赠送给主播null个鱼丸
+2014-09-23 13:06:42 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8021
+2014-09-23 13:06:43 INFO LoginMinaHandler:93 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:06:43 INFO LoginMinaHandler:96 - 登陆的病床编号为: 928 床
+2014-09-23 13:06:43 INFO LoginMinaHandler:99 - 加入的讨论群组为: 0 组
+2014-09-23 13:06:43 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 13:06:43 INFO ContentMinaHandler:141 - 发给服务器的信息: Y   Y   ?  type@=loginreq/username@=auto_2n2PSn1qcD/password@=1234567890123456/roomid@=928/ 
+2014-09-23 13:06:44 INFO ContentMinaHandler:141 - 发给服务器的信息: )   )   ?  type@=joingroup/rid@=928/gid@=0/ 
+2014-09-23 13:06:49 INFO ContentMinaHandler:141 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=88/ 
+2014-09-23 13:06:52 INFO ContentMinaHandler:107 - 接收到弹幕消息	浅逝寂寞 : 最好的武器是DD
+2014-09-23 13:06:54 INFO ContentMinaHandler:107 - 接收到弹幕消息	进击の老班 : 影刀影甲
+2014-09-23 13:06:54 INFO ContentMinaHandler:141 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=43/ 
+2014-09-23 13:06:59 INFO ContentMinaHandler:141 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=44/ 
+2014-09-23 13:07:59 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.20:8006
+2014-09-23 13:07:59 INFO LoginMinaHandler:93 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:07:59 INFO LoginMinaHandler:96 - 登陆的病床编号为: 582 床
+2014-09-23 13:07:59 INFO LoginMinaHandler:99 - 加入的讨论群组为: 0 组
+2014-09-23 13:07:59 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 13:07:59 INFO ContentMinaHandler:141 - 发给服务器的信息: Y   Y   ?  type@=loginreq/username@=auto_2n2PSn1qcD/password@=1234567890123456/roomid@=582/ 
+2014-09-23 13:08:00 INFO ContentMinaHandler:141 - 发给服务器的信息: )   )   ?  type@=joingroup/rid@=582/gid@=0/ 
+2014-09-23 13:08:05 INFO ContentMinaHandler:141 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=35/ 
+2014-09-23 13:08:41 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.20:8003
+2014-09-23 13:08:41 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=loginreq/username@=auto_2n2PSn1qcD/password@=e14a1e1971be36e62b0f06611ba59cf1/roomid@=582/ 
+2014-09-23 13:08:41 INFO LoginMinaHandler:93 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:08:42 INFO LoginMinaHandler:96 - 登陆的病床编号为: 582 床
+2014-09-23 13:08:42 INFO LoginMinaHandler:99 - 加入的讨论群组为: 0 组
+2014-09-23 13:08:42 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 13:08:42 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=chatmessage/receiver@=0/content@=[Auto]I'm Coming~/scope@=/ 
+2014-09-23 13:08:44 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 13:09:05 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.20:8006
+2014-09-23 13:09:06 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=loginreq/username@=auto_2n2PSn1qcD/password@=e14a1e1971be36e62b0f06611ba59cf1/roomid@=582/ 
+2014-09-23 13:09:06 INFO LoginMinaHandler:93 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:09:06 INFO LoginMinaHandler:96 - 登陆的病床编号为: 582 床
+2014-09-23 13:09:06 INFO LoginMinaHandler:99 - 加入的讨论群组为: 0 组
+2014-09-23 13:09:06 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 13:09:06 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=chatmessage/receiver@=0/content@=[Auto]I'm Coming~/scope@=/ 
+2014-09-23 13:09:09 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 13:10:01 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.19:8025
+2014-09-23 13:10:02 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=loginreq/username@=auto_2n2PSn1qcD/password@=e14a1e1971be36e62b0f06611ba59cf1/roomid@=928/ 
+2014-09-23 13:10:02 INFO LoginMinaHandler:93 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:10:02 INFO LoginMinaHandler:96 - 登陆的病床编号为: 928 床
+2014-09-23 13:10:02 INFO LoginMinaHandler:99 - 加入的讨论群组为: 0 组
+2014-09-23 13:10:02 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 13:10:05 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 13:10:07 INFO ContentMinaHandler:120 - 接收到礼物消息	青天 赠送给主播null个鱼丸
+2014-09-23 13:10:07 INFO ContentMinaHandler:106 - 接收到弹幕消息	有礼貌的影帝 : 66666
+2014-09-23 13:10:11 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=keeplive/tick@=75/ 
+2014-09-23 13:10:16 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=keeplive/tick@=39/ 
+2014-09-23 13:10:21 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=keeplive/tick@=10/ 
+2014-09-23 13:10:26 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=keeplive/tick@=34/ 
+2014-09-23 13:10:31 INFO LoginMinaHandler:133 - 发给服务器的信息: type@=keeplive/tick@=95/ 
+2014-09-23 13:10:55 INFO LoginMinaThread:35 - 随机选择登陆服务器 210.73.208.150:8034
+2014-09-23 13:10:55 INFO LoginMinaHandler:44 - 受到返回的信息: B2 00 00 00 B2 00 00 00 B2 02 00 00 74 79 70 65 40 3D 6C 6F 67 69 6E 72 65 73 2F 75 73 65 72 69 64 40 3D 32 32 31 32 31 2F 72 6F 6F 6D 67 72 6F 75 70 40 3D 34 2F 70 67 40 3D 31 2F 73 65 73 73 69 6F 6E 69 64 40 3D 35 33 39 31 36 34 35 36 36 2F 75 73 65 72 6E 61 6D 65 40 3D 61 75 74 6F 5F 32 6E 32 50 53 6E 31 71 63 44 2F 6E 69 63 6B 6E 61 6D 65 40 3D 54 65 65 6D 6F 2F 69 73 5F 73 69 67 6E 69 6E 65 64 40 3D 31 2F 73 69 67 6E 69 6E 5F 63 6F 75 6E 74 40 3D 31 2F 73 40 3D 31 34 31 31 34 34 39 30 35 37 2F 6C 69 76 65 5F 73 74 61 74 40 3D 31 2F 00 
+2014-09-23 13:10:55 INFO LoginMinaHandler:44 - 受到返回的信息: 19 09 00 00 19 09 00 00 B2 02 00 00 74 79 70 65 40 3D 6D 73 67 72 65 70 65 61 74 65 72 6C 69 73 74 2F 72 69 64 40 3D 39 32 38 2F 6C 69 73 74 40 3D 69 64 40 41 41 3D 37 30 32 30 31 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 37 30 31 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 30 33 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 31 30 31 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 30 34 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 35 30 33 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 35 30 32 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 37 30 32 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 30 32 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 36 30 32 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 30 31 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 37 30 33 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 30 37 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 37 30 34 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 35 30 31 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 30 38 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 33 30 31 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 
+2014-09-23 13:10:55 INFO LoginMinaHandler:44 - 受到返回的信息: 37 30 35 30 34 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 38 34 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 36 30 31 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 36 30 34 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 38 32 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 31 30 32 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 36 30 33 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 38 31 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 31 40 41 53 40 53 69 64 40 41 41 3D 37 30 33 30 32 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 32 30 32 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 31 32 36 30 32 40 41 53 40 53 69 64 40 41 41 3D 37 30 30 38 33 40 41 53 6E 72 40 41 41 3D 31 40 41 53 6D 6C 40 41 41 3D 31 30 30 30 30 40 41 53 69 70 40 41 41 3D 64 61 6E 6D 75 2E 64 6F 75 79 75 74 76 2E 63 6F 6D 40 41 53 70 6F 72 74 40 41 41 3D 38 36 30 31 40 41 53 40 53 2F 00 2B 00 00 00 2B 00 00 00 B2 02 00 00 74 79 70 65 40 3D 73 65 74 6D 73 67 67 72 6F 75 70 2F 72 69 64 40 3D 39 32 38 2F 67 69 64 40 3D 30 2F 00 
+2014-09-23 13:10:55 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:10:55 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 13:10:55 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 13:10:55 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 13:10:58 INFO LoginMinaHandler:44 - 受到返回的信息: 30 00 00 00 30 00 00 00 B2 02 00 00 74 79 70 65 40 3D 72 6F 6F 6D 72 65 66 72 65 73 68 2F 73 65 72 69 61 6C 6E 75 6D 40 3D 30 2F 63 40 3D 33 33 38 32 2F 00 
+2014-09-23 13:11:43 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.19:8026
+2014-09-23 13:11:43 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:11:43 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 13:11:44 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 13:11:44 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 13:11:48 INFO ContentMinaHandler:106 - 接收到弹幕消息	阿PuDdIng : 兔子打不过蜘蛛女王啊？
+2014-09-23 13:11:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	怀萌萌 : 韦斯带海象帽好丑
+2014-09-23 13:11:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	回忆江陵 : 要烧光了
+2014-09-23 13:12:11 INFO ContentMinaHandler:106 - 接收到弹幕消息	515525033 : dd精灵公主那个蛋怎样孵化
+2014-09-23 13:12:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	女儿你真美 : 要做冥火跟灭火器了吧
+2014-09-23 13:12:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	屠户 : 放在或旁边
+2014-09-23 13:12:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	屠户 : 火
+2014-09-23 13:12:24 INFO LoginMinaHandler:137 - 失去与验证服务器的连接
+2014-09-23 13:12:26 INFO ContentMinaHandler:106 - 接收到弹幕消息	依然小乔 : 儿子还没找到啊？
+2014-09-23 13:12:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	sssshengu1 : 夏天可以带吸热石头降温吗
+2014-09-23 13:12:38 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8029
+2014-09-23 13:12:48 INFO LoginMinaThread:35 - 随机选择登陆服务器 210.73.208.150:8011
+2014-09-23 13:12:49 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:12:49 INFO LoginMinaHandler:95 - 登陆的病床编号为: 12306 床
+2014-09-23 13:12:49 INFO LoginMinaHandler:98 - 加入的讨论群组为: 15 组
+2014-09-23 13:12:49 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 13:12:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	Atf信徒 : 14天皮肤的路过 。。。
+2014-09-23 13:12:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	kroos5156 : 这奥巴马话跟上把一样多
+2014-09-23 13:12:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	aaa31210aaa : 关羽
+2014-09-23 13:12:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	liuchenchen : 哇
+2014-09-23 13:12:59 INFO ContentMinaHandler:106 - 接收到弹幕消息	有点意思丶 : 我抽到这个杰斯的皮肤了
+2014-09-23 13:13:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	一块九毛钱 : 这个爱猩猩什么的是谁？
+2014-09-23 13:13:02 INFO ContentMinaHandler:106 - 接收到弹幕消息	三八哥 : BGM是什么，
+2014-09-23 13:13:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	抠脚萌尔 : 在那里抽得？
+2014-09-23 13:13:12 INFO ContentMinaHandler:106 - 接收到弹幕消息	bokiy : 有钱就送这房间的人皮肤
+2014-09-23 13:13:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	1董二千1 : 求个后缀防卡
+2014-09-23 13:13:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	爱冰果真是太好了 : 呵呵直接开百宝箱不完了
+2014-09-23 13:13:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	Schnappi : 各种吹B
+2014-09-23 13:13:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	玛里苟萨玛 : 于心有愧
+2014-09-23 13:13:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	ydmlee : BGM=背景音乐
+2014-09-23 13:13:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	多多_qq : 我真的不是穷b啊！
+2014-09-23 13:13:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	InSideme丶 : EZ皮肤多的不知道用哪个
+2014-09-23 13:13:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	万事过风耳 : 于心有愧
+2014-09-23 13:13:26 INFO ContentMinaHandler:106 - 接收到弹幕消息	有点意思丶 : 那天盛典抽得
+2014-09-23 13:13:28 INFO ContentMinaHandler:106 - 接收到弹幕消息	soolalalong : 疼讯网站里自己找链接吧
+2014-09-23 13:13:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	默默の飘过 : 买皮肤本来就是一个愿打一个愿挨，一群人就是一骨子酸味←_←
+2014-09-23 13:13:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	bokiy : mk盒子无限用皮肤
+2014-09-23 13:13:33 INFO ContentMinaHandler:106 - 接收到弹幕消息	鸠Jump : 未来战士+吕布路过
+2014-09-23 13:13:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	有点意思丶 : 不花钱 哥们抽得吕布
+2014-09-23 13:13:38 INFO ContentMinaHandler:106 - 接收到弹幕消息	soolalalong : 现在都过了抽的时间了吧
+2014-09-23 13:13:40 INFO ContentMinaHandler:120 - 接收到礼物消息	yanwei1234 赠送给主播null个鱼丸
+2014-09-23 13:13:40 INFO ContentMinaHandler:120 - 接收到礼物消息	yanwei1234 赠送给主播null个鱼丸
+2014-09-23 13:13:42 INFO ContentMinaHandler:106 - 接收到弹幕消息	zh13468 : 装B狗多的不知道说谁
+2014-09-23 13:13:43 INFO ContentMinaHandler:106 - 接收到弹幕消息	到时请记得 : BGM爱的供养粤语版
+2014-09-23 13:14:57 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.19:8023
+2014-09-23 13:14:57 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:14:57 INFO LoginMinaHandler:95 - 登陆的病床编号为: 12306 床
+2014-09-23 13:14:58 INFO LoginMinaHandler:98 - 加入的讨论群组为: 15 组
+2014-09-23 13:14:58 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 13:46:24 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.20:8004
+2014-09-23 13:46:24 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:46:24 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 13:46:25 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 13:46:25 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 13:47:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	feihu : 你家地图还真老鼠泛滥
+2014-09-23 13:48:00 INFO ContentMinaHandler:106 - 接收到弹幕消息	tsrzlq : 为什么地洞入口没光
+2014-09-23 13:48:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	qwerasdfpoiulkjh : 这个故事告诉我们，玩的时候要专心
+2014-09-23 13:48:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	lxc631209946 : 永夜  外面没逛
+2014-09-23 13:48:28 INFO ContentMinaHandler:106 - 接收到弹幕消息	lxc631209946 : 饿死了
+2014-09-23 13:48:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	1754522006 : 原来石头能喂鼹鼠的
+2014-09-23 13:49:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	极速夜光 : DD你好
+2014-09-23 13:49:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	深深Z : mod文件放在哪啊？
+2014-09-23 13:49:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	深深Z : mod文件放在哪啊？？
+2014-09-23 13:49:32 INFO ContentMinaHandler:106 - 接收到弹幕消息	1754522006 : 就是mods文件啊
+2014-09-23 13:49:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	臭笨笨 : DD，犀牛会刷新吗
+2014-09-23 13:49:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	极速夜光 : 今天出联机了么
+2014-09-23 13:49:49 INFO ContentMinaHandler:106 - 接收到弹幕消息	qwerasdfpoiulkjh : mod检查工作室订阅服务怎么解决啊
+2014-09-23 13:49:54 INFO ContentMinaHandler:120 - 接收到礼物消息	某城 赠送给主播100个鱼丸
+2014-09-23 13:49:59 INFO ContentMinaHandler:106 - 接收到弹幕消息	臭笨笨 : 那怎么去弄齿轮呀
+2014-09-23 13:50:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	1754522006 : 打机器人
+2014-09-23 13:50:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	imartians : 官方不是声明不出联机版吗
+2014-09-23 13:50:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	1128wik : 发福利www. 55Ba. Pw,不要播放器一样看，爽死了
+2014-09-23 13:50:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	1128wik : 发福利www. 55Ba. Pw,不要播放器一样看，爽死
+2014-09-23 13:50:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	1128wik : 发福利www. 55Ba. Pw,不要播放器一样看，爽死了
+2014-09-23 13:50:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	私法制裁者 : 才9999个小时
+2014-09-23 13:50:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	dearbooo : 为什么不用气球
+2014-09-23 13:50:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	私法制裁者 : 就不能999999999个小时么
+2014-09-23 13:51:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	晨晨晨丶 : 吗没齿轮找DD,500鱼丸一个
+2014-09-23 13:51:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	tsrzlq : 气球干什么用的
+2014-09-23 13:51:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	feihu : 感觉矿工帽不是更好吗
+2014-09-23 13:51:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈浩丶TOP : 开蓄势后好久没看到DD直播了
+2014-09-23 13:51:14 INFO ContentMinaHandler:120 - 接收到礼物消息	陈浩丶TOP 赠送给主播100个鱼丸
+2014-09-23 13:51:14 INFO ContentMinaHandler:120 - 接收到礼物消息	陈浩丶TOP 赠送给主播100个鱼丸
+2014-09-23 13:51:14 INFO ContentMinaHandler:120 - 接收到礼物消息	陈浩丶TOP 赠送给主播100个鱼丸
+2014-09-23 13:51:15 INFO ContentMinaHandler:120 - 接收到礼物消息	陈浩丶TOP 赠送给主播100个鱼丸
+2014-09-23 13:51:15 INFO ContentMinaHandler:120 - 接收到礼物消息	陈浩丶TOP 赠送给主播100个鱼丸
+2014-09-23 13:51:15 INFO ContentMinaHandler:120 - 接收到礼物消息	陈浩丶TOP 赠送给主播100个鱼丸
+2014-09-23 13:51:15 INFO ContentMinaHandler:120 - 接收到礼物消息	陈浩丶TOP 赠送给主播100个鱼丸
+2014-09-23 13:51:15 INFO ContentMinaHandler:120 - 接收到礼物消息	陈浩丶TOP 赠送给主播100个鱼丸
+2014-09-23 13:51:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	valanthe : 掉了个电器元件？
+2014-09-23 13:51:35 INFO ContentMinaHandler:106 - 接收到弹幕消息	lyzbox : 石头放地上不怕鼹鼠来偷吗
+2014-09-23 13:51:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	有礼貌的影帝 : 6666
+2014-09-23 13:51:55 INFO ContentMinaHandler:106 - 接收到弹幕消息	lxc631209946 : 卡卡卡卡卡
+2014-09-23 13:51:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	叛逆de面具 : 撸多记性差
+2014-09-23 13:52:39 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.21:8032
+2014-09-23 13:52:40 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:52:40 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 13:52:40 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 13:52:40 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 13:52:43 INFO ContentMinaHandler:106 - 接收到弹幕消息	绝版吴镇宇 : 为什么精神差不多满的也能看到幽灵
+2014-09-23 13:52:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	lopiuy : 这是啥子哦
+2014-09-23 13:52:49 INFO ContentMinaHandler:106 - 接收到弹幕消息	疯情种子 : 远古科技要找什么东西开
+2014-09-23 13:52:52 INFO ContentMinaHandler:106 - 接收到弹幕消息	来自帅哥梦工厂的教练 : 地下也会着火么
+2014-09-23 13:53:00 INFO LoginMinaThread:35 - 随机选择登陆服务器 117.79.132.20:8001
+2014-09-23 13:53:00 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 13:53:00 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 13:53:00 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 13:53:00 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 13:53:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	江户川黄翔 : 66666666666666666666666666666666666666666666666666
+2014-09-23 13:53:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	有礼貌的影帝 : 不会着火，植物会枯萎
+2014-09-23 13:53:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈浩丶TOP : 这是在帮你浇水吗。。
+2014-09-23 13:53:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	来自帅哥梦工厂的教练 : 厉害
+2014-09-23 13:53:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	1754522006 : 施肥吗
+2014-09-23 13:53:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	我笑起来挺好看丶 : 我靠
+2014-09-23 13:53:12 INFO ContentMinaHandler:106 - 接收到弹幕消息	qwerasdfpoiulkjh : 看到了啊
+2014-09-23 13:53:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	最后的骑士精神 : 666666666、
+2014-09-23 13:53:20 INFO ContentMinaHandler:120 - 接收到礼物消息	kmpop2000 赠送给主播100个鱼丸
+2014-09-23 13:53:20 INFO ContentMinaHandler:120 - 接收到礼物消息	kmpop2000 赠送给主播100个鱼丸
+2014-09-23 13:53:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	kmpop2000 : 灭火器能灭掉猪人守卫的火炬吗？
+2014-09-23 13:53:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Auto]感谢 kmpop2000 赠送给主播的 200 鱼丸
+2014-09-23 13:53:34 INFO ContentMinaHandler:106 - 接收到弹幕消息	卖萌的佐仓千代 : 233
+2014-09-23 13:53:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	1754522006 : 地下也会着火？
+2014-09-23 13:53:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	我笑起来挺好看丶 : 降温和施肥都能让种子发芽？= =
+2014-09-23 13:54:00 INFO ContentMinaHandler:120 - 接收到礼物消息	1754522006 赠送给主播100个鱼丸
+2014-09-23 13:54:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	极速夜光 : 你怎么打死冬季boss的？
+2014-09-23 13:54:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Auto]感谢 1754522006 赠送给主播的 100 鱼丸
+2014-09-23 13:54:11 INFO ContentMinaHandler:106 - 接收到弹幕消息	1754522006 : 站撸死
+2014-09-23 13:54:13 INFO ContentMinaHandler:120 - 接收到礼物消息	1754522006 赠送给主播100个鱼丸
+2014-09-23 13:54:41 INFO ContentMinaHandler:106 - 接收到弹幕消息	kmpop2000 : 灭火器能灭掉猪人守卫的火炬吗？？
+2014-09-23 13:54:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	笨笨土豆 : 不做吸热火堆吗
+2014-09-23 13:54:49 INFO ContentMinaHandler:106 - 接收到弹幕消息	中华好宝宝 : 上学了。ddbye
+2014-09-23 13:54:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	1754522006 : 不能调戏不好玩...
+2014-09-23 13:55:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	晨晨晨丶 : 切斯特什么时候到账的
+2014-09-23 13:55:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	wolfish : 果然二师兄又被杀害了
+2014-09-23 13:55:43 INFO ContentMinaHandler:106 - 接收到弹幕消息	闲愚无梦 : 没有买卖就没有伤害
+2014-09-23 13:56:11 INFO ContentMinaHandler:106 - 接收到弹幕消息	qwerasdfpoiulkjh : 吃灰烬？
+2014-09-23 13:56:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	wolfish : 兔窝离你几个草叉不会过来，一个屏幕左右？
+2014-09-23 13:56:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	1754522006 : 躲地下不出去
+2014-09-23 13:56:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	feihu : 猪皮算肉吗
+2014-09-23 13:56:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	最后的骑士精神 : 夏天BOSS不会来地下吧
+2014-09-23 13:56:32 INFO ContentMinaHandler:106 - 接收到弹幕消息	晨晨晨丶 : 没有速奔4本做影刀,应该很难
+2014-09-23 13:56:34 INFO ContentMinaHandler:106 - 接收到弹幕消息	kuroneko0925 : 哑巴的气球有什么用啊 DD
+2014-09-23 13:56:35 INFO ContentMinaHandler:106 - 接收到弹幕消息	闲愚无梦 : 去刷鸟
+2014-09-23 13:56:39 INFO ContentMinaHandler:106 - 接收到弹幕消息	疯情种子 : 为什么我的火药没把夏天BOSS炸死
+2014-09-23 13:56:41 INFO ContentMinaHandler:106 - 接收到弹幕消息	wolfish : 反正二师兄吃猪皮
+2014-09-23 13:56:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	有礼貌的影帝 : 66666666666666
+2014-09-23 13:56:49 INFO ContentMinaHandler:106 - 接收到弹幕消息	wolfish : 别看了，GG了
+2014-09-23 13:56:50 INFO ContentMinaHandler:106 - 接收到弹幕消息	笨笨土豆 : 作死
+2014-09-23 13:56:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	wolfish : 233333
+2014-09-23 13:56:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	qwerasdfpoiulkjh : 自作孽，不可活啊
+2014-09-23 13:56:59 INFO ContentMinaHandler:106 - 接收到弹幕消息	wolfish : DD我错了
+2014-09-23 13:57:05 INFO ContentMinaHandler:106 - 接收到弹幕消息	卖节操的小女孩 : 贱贱的...
+2014-09-23 13:57:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	笨笨土豆 : 切斯特可以变身了
+2014-09-23 13:57:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	大神就在我旁边 : 上地面！
+2014-09-23 13:57:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	零纔塵 : 哈哈哈
+2014-09-23 13:57:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	晨晨晨丶 : 找龙虾
+2014-09-23 13:57:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	kmpop2000 : 上地面
+2014-09-23 13:57:25 INFO ContentMinaHandler:106 - 接收到弹幕消息	不知廉耻的卖萌冬瓜酱 : 拉触手
+2014-09-23 13:57:26 INFO ContentMinaHandler:106 - 接收到弹幕消息	最后的骑士精神 : 我看我看我看我看
+2014-09-23 13:57:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	厅布卿 : 捡石头 找龙虾
+2014-09-23 13:57:28 INFO ContentMinaHandler:106 - 接收到弹幕消息	wolfish : 果然今天还是不适合玩饥荒
+2014-09-23 13:57:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	tv623708857 : 眼球扔了
+2014-09-23 13:57:34 INFO ContentMinaHandler:106 - 接收到弹幕消息	江户川黄翔 : 趁机开图啊
+2014-09-23 13:57:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	srain2011 : 去地上？
+2014-09-23 13:57:37 INFO ContentMinaHandler:106 - 接收到弹幕消息	卖萌的佐仓千代 : 233333了
+2014-09-23 13:57:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	wolfish : 上去把肉扔了呢
+2014-09-23 13:57:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	笨笨土豆 : 找萝卜
+2014-09-23 13:57:41 INFO ContentMinaHandler:106 - 接收到弹幕消息	一直在游荡 : 就是干啊
+2014-09-23 13:57:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	疯情种子 : 只能BGM
+2014-09-23 13:57:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	feihu : GG
+2014-09-23 13:57:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	最后的骑士精神 : BGM好应景
+2014-09-23 14:17:04 INFO LoginMinaThread:41 - 随机选择登陆服务器 117.79.132.21:8019
+2014-09-23 14:17:04 INFO LoginMinaHandler:92 - 获取的登录用户名为: auto_2n2PSn1qcD
+2014-09-23 14:17:05 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 14:17:05 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 14:17:05 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 14:17:16 INFO LoginMinaThread:41 - 随机选择登陆服务器 117.79.132.19:8026
+2014-09-23 14:17:16 INFO LoginMinaHandler:92 - 获取的登录用户名为: visitor1515920
+2014-09-23 14:17:17 INFO LoginMinaHandler:95 - 登陆的病床编号为: 928 床
+2014-09-23 14:17:17 INFO LoginMinaHandler:98 - 加入的讨论群组为: 0 组
+2014-09-23 14:17:17 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 14:18:17 INFO LoginMinaThread:41 - 随机选择登陆服务器 117.79.132.20:8001
+2014-09-23 14:19:37 INFO LoginMinaThread:41 - 随机选择登陆服务器 210.73.208.150:8011
+2014-09-23 14:19:37 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 14:19:37 INFO LoginMinaHandler:97 - 登陆的病床编号为: 928 床
+2014-09-23 14:19:37 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 14:19:37 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 15:39:58 INFO LoginMinaThread:41 - 随机选择登陆服务器 117.79.132.21:8017
+2014-09-23 15:39:59 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 15:39:59 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 15:39:59 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 15:39:59 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 15:40:22 INFO LoginMinaThread:41 - 随机选择登陆服务器 117.79.132.20:8004
+2014-09-23 15:40:22 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 15:40:22 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 15:40:22 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 15:40:22 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 15:40:48 INFO LoginMinaThread:41 - 随机选择登陆服务器 117.79.132.21:8019
+2014-09-23 15:40:49 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 15:40:49 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 15:40:49 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 15:40:49 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 19:55:52 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.20:8006
+2014-09-23 19:55:52 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 19:55:52 INFO LoginMinaHandler:97 - 登陆的病床编号为: 41479 床
+2014-09-23 19:55:53 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 19:55:53 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 19:56:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	万能男神经 : 饿
+2014-09-23 19:56:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	万能男神经 : 没人看啊
+2014-09-23 19:56:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	季AIS梦 : [emot:excited]
+2014-09-23 19:56:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	1741238384 : 然后辛苦的活到了夏天不能戴冰帽子
+2014-09-23 19:56:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	llbbxx521 : 神经，你跑得挻快的，我刚过来，你就过来了
+2014-09-23 19:56:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	万能男神经 : 不死
+2014-09-23 19:56:24 INFO LoginMinaHandler:129 - 失去与验证服务器的连接
+2014-09-23 19:56:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	林仲希 : 0.0
+2014-09-23 19:56:25 INFO ContentMinaHandler:106 - 接收到弹幕消息	季AIS梦 : 守门员
+2014-09-23 19:56:25 INFO ContentMinaHandler:106 - 接收到弹幕消息	万能男神经 : 不是
+2014-09-23 19:56:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	万能男神经 : 因为没人看
+2014-09-23 19:56:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	小小小帅哥 : 哪个人物最好
+2014-09-23 19:56:37 INFO ContentMinaHandler:106 - 接收到弹幕消息	万能男神经 : 所以看一下咯
+2014-09-23 19:56:37 INFO ContentMinaHandler:106 - 接收到弹幕消息	1741238384 : 然后天天呆在冰火堆旁边
+2014-09-23 19:56:41 INFO ContentMinaHandler:106 - 接收到弹幕消息	哒胖哥哥 : 果然看运气啊! 哈哈哈 看眼群 川桑
+2014-09-23 19:56:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	万能男神经 : 现在我不是来了吗
+2014-09-23 19:56:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	1741238384 : 偶尔出去找吃的
+2014-09-23 19:57:35 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8017
+2014-09-23 19:57:35 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 19:57:35 INFO LoginMinaHandler:97 - 登陆的病床编号为: 41479 床
+2014-09-23 19:57:36 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 19:57:36 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 19:57:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	林仲希 : 我来客串
+2014-09-23 19:57:51 INFO ContentMinaHandler:106 - 接收到弹幕消息	1741238384 : QQ群214576387
+2014-09-23 19:57:52 INFO ContentMinaHandler:106 - 接收到弹幕消息	林仲希 : 0.0
+2014-09-23 19:57:55 INFO ContentMinaHandler:106 - 接收到弹幕消息	哒胖哥哥 : 旁边一把长矛  都不用解锁！ [emot:good]
+2014-09-23 19:58:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	季AIS梦 : 在沙漠靠角落造个分基地刷风滚草 齿轮妥妥
+2014-09-23 19:58:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	万能男神经 : 准备躺着看
+2014-09-23 19:58:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	傲雪孤竹 : 2希又出现
+2014-09-23 19:58:55 INFO ContentMinaHandler:106 - 接收到弹幕消息	傲雪孤竹 : 野生的2希跳出来了，嗯~
+2014-09-23 19:58:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	1741238384 : 登了卡的要死
+2014-09-23 19:58:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	西山白露 : 不联机么？
+2014-09-23 19:59:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	季AIS梦 : 我下午玩无资源 开了5个齿轮
+2014-09-23 19:59:37 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8036
+2014-09-23 19:59:37 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 19:59:38 INFO LoginMinaHandler:97 - 登陆的病床编号为: 17732 床
+2014-09-23 19:59:38 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 19:59:38 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 19:59:39 INFO ContentMinaHandler:106 - 接收到弹幕消息	夜色i : 强行装新人
+2014-09-23 19:59:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	yw1257956316 : 舌头打字以示清白
+2014-09-23 19:59:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	毕竟尴尬多少年了 : 多少鱼丸能上60
+2014-09-23 19:59:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	gwmaiwho : 卖鱼肠剑~
+2014-09-23 19:59:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	神蒜子 : 金丝大环刀呢
+2014-09-23 19:59:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	べ爱Zy真是太好了 : 周仓拿我刀来
+2014-09-23 19:59:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	十年成眠 : 老夫的七星宝刀呢？
+2014-09-23 19:59:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	wexilee : 孝敏最难看就 nice body里了
+2014-09-23 19:59:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	shenghan1256 : EXO
+2014-09-23 19:59:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	草泥鸽 : 不黑不吹第一女团EXO 没的黑
+2014-09-23 19:59:46 INFO ContentMinaHandler:120 - 接收到礼物消息	prettywonder 赠送给主播100个鱼丸
+2014-09-23 19:59:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	素素女王丿 : EXO！！！
+2014-09-23 19:59:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	tianlianzhanhun : 这个事女王组合
+2014-09-23 19:59:48 INFO ContentMinaHandler:120 - 接收到礼物消息	prettywonder 赠送给主播100个鱼丸
+2014-09-23 19:59:48 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 prettywonder 赠送给主播的 100 鱼丸
+2014-09-23 19:59:49 INFO ContentMinaHandler:120 - 接收到礼物消息	威士忌1983 赠送给主播100个鱼丸
+2014-09-23 19:59:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	kakalote111 : 宇宙第一女团必须EXO啊～～！
+2014-09-23 19:59:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 威士忌1983 赠送给主播的 100 鱼丸
+2014-09-23 19:59:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	960626191 : o︻$▅▆▇◤
+2014-09-23 19:59:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	3329002 : 新司机不要强行带节奏
+2014-09-23 19:59:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	riyueaini : 来一波上60可好
+2014-09-23 19:59:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	桀影星魂 : 我敏美如画
+2014-09-23 19:59:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	少年与风 : EXO=王八0
+2014-09-23 20:00:00 INFO ContentMinaHandler:106 - 接收到弹幕消息	涅槃 : exo
+2014-09-23 20:00:03 INFO ContentMinaHandler:106 - 接收到弹幕消息	qq361703061 : 好吧 是EXO
+2014-09-23 20:00:05 INFO ContentMinaHandler:106 - 接收到弹幕消息	情若冰霜似水心 : 干将秒杀飞科
+2014-09-23 20:00:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	384933487 : 宇宙第一女子天团不是EXO么
+2014-09-23 20:00:08 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:08 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 a5280862 赠送给主播的 100 鱼丸
+2014-09-23 20:00:09 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:09 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:09 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:09 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:10 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:10 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:10 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:10 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:11 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:11 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:11 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:12 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:12 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:12 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:12 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:13 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:13 INFO ContentMinaHandler:120 - 接收到礼物消息	a5280862 赠送给主播100个鱼丸
+2014-09-23 20:00:13 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:13 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:13 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 titan1100 赠送给主播的 100 鱼丸
+2014-09-23 20:00:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 a5280862 赠送给主播的 1700 鱼丸
+2014-09-23 20:00:14 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:14 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:14 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:14 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:14 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:17 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:17 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:17 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:17 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:18 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:18 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:18 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:18 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:18 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 titan1100 赠送给主播的 1200 鱼丸
+2014-09-23 20:00:19 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:19 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:19 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:19 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:20 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:20 INFO ContentMinaHandler:120 - 接收到礼物消息	我是来打酱油的1111 赠送给主播100个鱼丸
+2014-09-23 20:00:20 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:21 INFO ContentMinaHandler:120 - 接收到礼物消息	titan1100 赠送给主播100个鱼丸
+2014-09-23 20:00:21 INFO ContentMinaHandler:120 - 接收到礼物消息	我是来打酱油的1111 赠送给主播100个鱼丸
+2014-09-23 20:00:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	〆丶StarPlatinum : 36363636
+2014-09-23 20:00:23 INFO ContentMinaHandler:120 - 接收到礼物消息	prettywonder 赠送给主播100个鱼丸
+2014-09-23 20:00:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 我是来打酱油的1111 赠送给主播的 200 鱼丸
+2014-09-23 20:00:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 titan1100 赠送给主播的 700 鱼丸
+2014-09-23 20:00:29 INFO ContentMinaHandler:120 - 接收到礼物消息	我的爸爸的爸爸 赠送给主播100个鱼丸
+2014-09-23 20:00:31 INFO ContentMinaHandler:106 - 接收到弹幕消息	zhouhankun1120 : EXO能不能成为宇宙第一女子天团？
+2014-09-23 20:00:31 INFO ContentMinaHandler:106 - 接收到弹幕消息	xxc900602 : 土豪
+2014-09-23 20:00:33 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 我的爸爸的爸爸 赠送给主播的 100 鱼丸
+2014-09-23 20:00:34 INFO ContentMinaHandler:106 - 接收到弹幕消息	62905991 : 【你们有没有觉得韩国女唱歌声音都一样，】
+2014-09-23 20:00:37 INFO ContentMinaHandler:106 - 接收到弹幕消息	qq_gf7xUd : 。
+2014-09-23 20:00:39 INFO ContentMinaHandler:120 - 接收到礼物消息	小肉肉www 赠送给主播100个鱼丸
+2014-09-23 20:00:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	蟹老板 : 室友香港脚晚期 临死前想看阿加西
+2014-09-23 20:00:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	riyueaini : 强行做房管
+2014-09-23 20:00:42 INFO ContentMinaHandler:106 - 接收到弹幕消息	17lvshen : 老司机教你看臀识人，
+2014-09-23 20:00:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : [Test] 感谢 小肉肉www 赠送给主播的 100 鱼丸
+2014-09-23 20:00:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	你是我的小呀小苹果丶 : 下首61
+2014-09-23 20:00:48 INFO ContentMinaHandler:106 - 接收到弹幕消息	KoAryo : EXO 宇宙第一女团再黑我紫沙
+2014-09-23 20:43:12 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.20:8006
+2014-09-23 20:43:12 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 20:43:12 INFO LoginMinaHandler:97 - 登陆的病床编号为: 41479 床
+2014-09-23 20:43:13 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 20:43:13 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 20:43:49 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.20:8005
+2014-09-23 20:43:49 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 20:43:49 INFO LoginMinaHandler:97 - 登陆的病床编号为: 41479 床
+2014-09-23 20:43:50 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 20:43:50 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 20:43:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	tv623708857 : youku
+2014-09-23 20:43:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	Downurl : 醉了
+2014-09-23 20:44:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	327245745 : 我的耳朵怀孕了
+2014-09-23 20:44:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	以梦为马_R1m : 好逗[emot:sorry]
+2014-09-23 20:44:07 INFO ContentMinaHandler:106 - 接收到弹幕消息	從未拥冇 : 主播你SteamID多少啊
+2014-09-23 20:44:12 INFO ContentMinaHandler:120 - 接收到礼物消息	max_alex 赠送给主播100个鱼丸
+2014-09-23 20:44:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	TeemoBot : [Test] 感谢 max_alex 赠送给主播的 100 鱼丸
+2014-09-23 20:44:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	tv623708857 : (youku)
+2014-09-23 20:44:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	壮士请留步 : 本萌妹也是笑得合不拢腿。。
+2014-09-23 20:44:39 INFO ContentMinaHandler:106 - 接收到弹幕消息	tv623708857 : 任何视频不能带 别的网站标签
+2014-09-23 20:44:48 INFO ContentMinaHandler:106 - 接收到弹幕消息	Downurl : 恶趣味啊
+2014-09-23 20:44:55 INFO ContentMinaHandler:120 - 接收到礼物消息	路飞丶丶 赠送给主播10个鱼丸
+2014-09-23 20:44:55 INFO ContentMinaHandler:106 - 接收到弹幕消息	TeemoBot : [Test] 感谢 路飞丶丶 赠送给主播的 10 鱼丸
+2014-09-23 20:44:59 INFO ContentMinaHandler:106 - 接收到弹幕消息	pink9527 : 你的id已经出卖了你 还萌妹。。。
+2014-09-23 21:16:53 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8021
+2014-09-23 21:16:53 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 21:16:53 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 21:16:53 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 21:16:53 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 21:20:05 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8011
+2014-09-23 21:20:05 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 21:20:06 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 21:20:06 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 21:20:06 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 21:21:57 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8035
+2014-09-23 21:21:58 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 21:21:58 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 21:21:58 INFO LoginMinaHandler:100 - 加入的讨论群组为: 52 组
+2014-09-23 21:21:58 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 21:22:00 INFO ContentMinaHandler:106 - 接收到弹幕消息	都灵之魂 : 不出新版本都会这么bp
+2014-09-23 21:22:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	ayabya : 然后是DOOM...51...
+2014-09-23 21:22:02 INFO ContentMinaHandler:106 - 接收到弹幕消息	2012cyq1_acfun : 虚空克电棍 抽攻击没机会放
+2014-09-23 21:22:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	agesososo : 到底亮不亮
+2014-09-23 21:22:05 INFO ContentMinaHandler:106 - 接收到弹幕消息	sn18993664699 : ?cdn=lx
+2014-09-23 21:22:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	月色洗去羞怯 : VG该玩把末日了啊
+2014-09-23 21:22:07 INFO ContentMinaHandler:106 - 接收到弹幕消息	笑一笑萌死掉_Q8N : 潮夕爸爸都很好
+2014-09-23 21:22:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	BLIZZARDAN : haoBP。。。。
+2014-09-23 21:22:11 INFO ContentMinaHandler:106 - 接收到弹幕消息	Lingying : MU的VP不厉害
+2014-09-23 21:22:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	smellysword : doom
+2014-09-23 21:22:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	丹霞山下人家 : 尼玛 隔壁真是小学生 我去
+2014-09-23 21:22:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	笑一笑萌死掉_Q8N : 小Y也不错
+2014-09-23 21:22:18 INFO ContentMinaHandler:120 - 接收到礼物消息	柳灬月琼 赠送给主播100个鱼丸
+2014-09-23 21:22:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	温柔心愿 : 大焦神的香蕉
+2014-09-23 21:22:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	18768000015 : 虚空跟真三里的赵云差不多为什么兔子玩的不
+2014-09-23 21:22:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	臸死不渝の曖 : 如假包换
+2014-09-23 21:22:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	acfun_be2Gzk : 首页天梯局比赛
+2014-09-23 21:22:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	fykkk : 感觉不像小学生来嘲讽
+2014-09-23 21:22:25 INFO ContentMinaHandler:106 - 接收到弹幕消息	霜晨月痕 : 1:1
+2014-09-23 21:22:26 INFO ContentMinaHandler:106 - 接收到弹幕消息	哎呦喂嘿0 : 我也听见了
+2014-09-23 21:22:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	如醉方休 : 大焦神的大香蕉
+2014-09-23 21:22:28 INFO ContentMinaHandler:106 - 接收到弹幕消息	ayabya : ?cdn=lx
+2014-09-23 21:33:01 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8022
+2014-09-23 21:33:02 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 21:33:02 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 21:33:02 INFO LoginMinaHandler:100 - 加入的讨论群组为: 49 组
+2014-09-23 21:33:02 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 21:33:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	tyj8631775 : mippo
+2014-09-23 21:33:05 INFO ContentMinaHandler:120 - 接收到礼物消息	leoshadow 赠送给主播100个鱼丸
+2014-09-23 21:33:05 INFO ContentMinaHandler:106 - 接收到弹幕消息	renwin : 出门时间不同？
+2014-09-23 21:33:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	qqqqql : AP不能GG的吧
+2014-09-23 21:33:07 INFO ContentMinaHandler:106 - 接收到弹幕消息	小肠面35元 : 为了可以GG
+2014-09-23 21:33:07 INFO ContentMinaHandler:106 - 接收到弹幕消息	maji3658 : 我已从隔壁越狱。。小学生叼的不行。。。。
+2014-09-23 21:33:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	naliyale : ap不能gg啊
+2014-09-23 21:33:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	15623341228 : 比赛ap会不会暴露分人
+2014-09-23 21:33:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	multipersona : 那人刚才说有个英语解说游戏冲突了
+2014-09-23 21:33:11 INFO ContentMinaHandler:106 - 接收到弹幕消息	lwqq2000 : 打 GG  基地不爆！！
+2014-09-23 21:33:12 INFO ContentMinaHandler:106 - 接收到弹幕消息	wind1000 : ap不能 gg
+2014-09-23 21:33:12 INFO ContentMinaHandler:106 - 接收到弹幕消息	Reploid : 时间不一样啊
+2014-09-23 21:34:33 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.19:8028
+2014-09-23 21:34:33 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 21:34:33 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 21:34:33 INFO LoginMinaHandler:100 - 加入的讨论群组为: 52 组
+2014-09-23 21:34:33 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 21:34:35 INFO ContentMinaHandler:106 - 接收到弹幕消息	一朵2333 : 岳不涛？好了我走了去看冷冷
+2014-09-23 21:34:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	小时候很帅 : 虚空这个套装脑洞大开啊
+2014-09-23 21:34:38 INFO ContentMinaHandler:106 - 接收到弹幕消息	zhang5082 : 绿色至宝皮肤还没做么
+2014-09-23 21:34:38 INFO ContentMinaHandler:106 - 接收到弹幕消息	413144 : 涛哥肥皂还没捡呢   说好的孙悟空呢
+2014-09-23 21:34:38 INFO ContentMinaHandler:106 - 接收到弹幕消息	gg_kkscd : 我最喜欢天辉进攻方
+2014-09-23 21:34:39 INFO ContentMinaHandler:106 - 接收到弹幕消息	lichangyuan7 : vp
+2014-09-23 21:34:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	坏了的木头 : 就说是I联赛前还是后
+2014-09-23 21:34:41 INFO ContentMinaHandler:106 - 接收到弹幕消息	时过境迁心难沉430 : 其实就是SF更新
+2014-09-23 21:34:42 INFO ContentMinaHandler:106 - 接收到弹幕消息	qnmdzc : 虚空没那么快  虚空才投出来票 只能是影
+2014-09-23 21:34:43 INFO ContentMinaHandler:106 - 接收到弹幕消息	595015723 : SF？
+2014-09-23 21:34:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	钓鱼 : 网址后面加?cdn=lx不卡
+2014-09-23 21:34:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	15956901943 : ?cdn=lx
+2014-09-23 21:34:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	送礼骑士 : 这是第几把啊
+2014-09-23 21:34:46 INFO ContentMinaHandler:120 - 接收到礼物消息	陌路哥哥 赠送给主播100个鱼丸
+2014-09-23 21:34:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	asaronshao : sf本来就重做，不算在投票的
+2014-09-23 21:34:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	Anoson : 孙悟空也要出了吗
+2014-09-23 21:34:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	sspvadss : 我只要打屁股，
+2014-09-23 21:34:48 INFO ContentMinaHandler:106 - 接收到弹幕消息	一大根萝卜 : 神谕 电狗大屁股
+2014-09-23 21:34:49 INFO ContentMinaHandler:106 - 接收到弹幕消息	傣轰 : 白牛也不弱  当先手还阔以
+2014-09-23 21:34:50 INFO ContentMinaHandler:106 - 接收到弹幕消息	龙Lac : 重新点燃灵魂
+2014-09-23 21:34:50 INFO ContentMinaHandler:120 - 接收到礼物消息	小白白king 赠送给主播100个鱼丸
+2014-09-23 21:34:50 INFO ContentMinaHandler:120 - 接收到礼物消息	小白白king 赠送给主播100个鱼丸
+2014-09-23 21:34:51 INFO ContentMinaHandler:106 - 接收到弹幕消息	飞天绝影 : 那些剩下的英雄根本上不了比赛
+2014-09-23 21:34:51 INFO ContentMinaHandler:120 - 接收到礼物消息	小白白king 赠送给主播100个鱼丸
+2014-09-23 21:34:51 INFO ContentMinaHandler:106 - 接收到弹幕消息	c_aib_rong : SF模型真心受不了
+2014-09-23 21:34:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	rainmanfans : 冰蛙黔驴技穷
+2014-09-23 21:34:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	18235125690 : 必须SF
+2014-09-23 21:34:55 INFO ContentMinaHandler:106 - 接收到弹幕消息	zhouiy10122 : 又和你说了
+2014-09-23 21:34:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	Infaling : 欧服第一的W33的个人资料里就有一个
+2014-09-23 21:35:53 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8022
+2014-09-23 21:35:53 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 21:35:54 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 21:35:54 INFO LoginMinaHandler:100 - 加入的讨论群组为: 51 组
+2014-09-23 21:35:54 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 21:35:58 INFO ContentMinaHandler:106 - 接收到弹幕消息	停电了 : 暗牧是不是主要用来+护甲的
+2014-09-23 21:36:00 INFO ContentMinaHandler:106 - 接收到弹幕消息	naocandeeca : 色情主播
+2014-09-23 21:36:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	猫猫之守护 : 小学生都能通过审核了
+2014-09-23 21:36:02 INFO ContentMinaHandler:106 - 接收到弹幕消息	aaa2014aa : 房管你是在禁言中得到高潮了吗？
+2014-09-23 21:36:03 INFO ContentMinaHandler:106 - 接收到弹幕消息	QQQEEE : 名字把地图逗着玩了
+2014-09-23 21:36:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	式微Sama : 吸你的精。。。
+2014-09-23 21:36:05 INFO ContentMinaHandler:106 - 接收到弹幕消息	iamacup : 隔壁小学生唱歌真是醉了
+2014-09-23 21:36:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	亿灵万恶 : 吸精...
+2014-09-23 21:36:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	Denti : 海涛真是色
+2014-09-23 21:36:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	我是米卡 : 这抽蓝有点吊啊
+2014-09-23 21:36:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	18779184182 : 300多的血 醉了
+2014-09-23 21:36:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	252325776 : 色情主播
+2014-09-23 21:36:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	道长这次记住我了吧 : 机智的金将军
+2014-09-23 21:36:11 INFO ContentMinaHandler:106 - 接收到弹幕消息	lx15251296987 : 色情
+2014-09-23 21:36:12 INFO ContentMinaHandler:106 - 接收到弹幕消息	douyuwuxuan : 色
+2014-09-23 21:36:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	f1989511l : 好脏啊 小兔子
+2014-09-23 21:36:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	1900Rad : 。。。。。。。。。。。。色情主播
+2014-09-23 21:36:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	彼岸孤拾 : 冰龙 电狗 神域 一来就是三剑客。。。
+2014-09-23 21:36:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	ly769080901 : 吸你的精 好脏啊
+2014-09-23 21:36:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	中国复兴的希望 : 11
+2014-09-23 21:36:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	Mesona : 灵魂歌者小学生
+2014-09-23 21:36:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	reg_douyu : 将军机智啊
+2014-09-23 21:36:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	gwz0012000 : 。。。。。
+2014-09-23 21:36:25 INFO ContentMinaHandler:106 - 接收到弹幕消息	zhm633 : 去年WDC打到一半就用了啊
+2014-09-23 21:36:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	Kris委锋 : 求代码
+2014-09-23 21:36:28 INFO ContentMinaHandler:106 - 接收到弹幕消息	丶小阿肯Ken : 有消息了！！
+2014-09-23 21:36:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	素猫 : ]]]]]]]]]]]]]]]]]]]]
+2014-09-23 21:36:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	aaa2014aa : 房管我已经看到了你心理上的变态之处
+2014-09-23 21:36:31 INFO ContentMinaHandler:106 - 接收到弹幕消息	b332879610 : 说啊。。。你妹的
+2014-09-23 21:36:32 INFO ContentMinaHandler:120 - 接收到礼物消息	rabittooth 赠送给主播100个鱼丸
+2014-09-23 21:36:33 INFO ContentMinaHandler:106 - 接收到弹幕消息	xiliuliuxi : 是sf
+2014-09-23 21:36:33 INFO ContentMinaHandler:106 - 接收到弹幕消息	王英俊 : 隔壁小学生是我家旁边的，我要去砍死他
+2014-09-23 21:36:34 INFO ContentMinaHandler:106 - 接收到弹幕消息	tyj8631775 : 报警了，色情直播
+2014-09-23 21:36:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	whosdragon : 看来纯白吸的不少啊~
+2014-09-23 21:36:37 INFO ContentMinaHandler:106 - 接收到弹幕消息	树上的鱼shang : 求解
+2014-09-23 21:36:38 INFO ContentMinaHandler:106 - 接收到弹幕消息	zzj110120 : 毕竟精虫上脑
+2014-09-23 21:36:39 INFO ContentMinaHandler:106 - 接收到弹幕消息	黑人丶 : DO2官博都说了啊
+2014-09-23 21:36:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	buidui : 你到是说啊
+2014-09-23 21:36:41 INFO ContentMinaHandler:106 - 接收到弹幕消息	Lhrmjvf : 为什么这么卡 是炸鱼了？
+2014-09-23 21:36:42 INFO ContentMinaHandler:106 - 接收到弹幕消息	lq277411798 : 影魔是最先说改的
+2014-09-23 21:36:43 INFO ContentMinaHandler:106 - 接收到弹幕消息	zhou8717340 : 官方微博贴出来了啊
+2014-09-23 21:36:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	树上的鱼shang : 6.82是啥？
+2014-09-23 21:36:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	东方巫神 : 贴吧大神神马都知道
+2014-09-23 21:36:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	BurNIngLENG : 小学生唱歌
+2014-09-23 21:36:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	lakey8811 : 什么消息？
+2014-09-23 21:36:48 INFO ContentMinaHandler:106 - 接收到弹幕消息	cmccgna : SF
+2014-09-23 21:38:06 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8010
+2014-09-23 21:38:07 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 21:38:07 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 21:38:07 INFO LoginMinaHandler:100 - 加入的讨论群组为: 52 组
+2014-09-23 21:38:07 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 21:38:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	恐怖怪大叔 : 房管你妈b
+2014-09-23 21:38:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	GODpeng : i联赛为什么还有加赛啊 ？？？？？？？
+2014-09-23 21:38:12 INFO ContentMinaHandler:106 - 接收到弹幕消息	63636363 : 王静 我也爱你
+2014-09-23 21:38:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	GODpeng : i联赛为什么还有加赛啊 ？？？
+2014-09-23 21:38:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	我滴脑壳疼 : do2 SF弱爆了 还是do1 SF霸气
+2014-09-23 21:38:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	GODpeng : i联赛为什么还有加赛啊 ？？？？？？
+2014-09-23 21:38:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	tom552555 : 小黑前几级补刀太折磨人
+2014-09-23 21:38:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	qaz3215322 : 王静我爱你妈...
+2014-09-23 21:38:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	qaz3215322 : 王静我爱你妈....
+2014-09-23 21:38:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	Saidy琥珀 : 因为DK弃权了
+2014-09-23 21:38:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	yllfeifei : 包子不到
+2014-09-23 21:38:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	jingzhe90 : 小黑加死灵龙怎么能是qipazhenro
+2014-09-23 21:38:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	shihuanxin : 去贴吧看了看 原来甲鱼又要踢人
+2014-09-23 21:38:25 INFO ContentMinaHandler:106 - 接收到弹幕消息	spinyc : 反不必争不都多
+2014-09-23 21:38:26 INFO ContentMinaHandler:106 - 接收到弹幕消息	苏依 : mu神不想玩了
+2014-09-23 21:38:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	红海 : 王静 爱我
+2014-09-23 21:38:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	GODpeng : 噢噢噢噢噢噢噢噢
+2014-09-23 21:38:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	投降的烟 : 王静是谁
+2014-09-23 21:38:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	GODpeng : 哦哦哦哦哦哦哦哦哦
+2014-09-23 21:38:33 INFO ContentMinaHandler:106 - 接收到弹幕消息	投降的烟 : 王静我爱你
+2014-09-23 21:38:34 INFO ContentMinaHandler:106 - 接收到弹幕消息	大学快毕业 : 卡了?
+2014-09-23 21:38:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	juan_juan : 船长 SF 和PA至宝
+2014-09-23 21:38:37 INFO ContentMinaHandler:106 - 接收到弹幕消息	云念 : 卡
+2014-09-23 21:38:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	夜雨寒丶 : 继续 6.82爆料啊
+2014-09-23 21:38:43 INFO ContentMinaHandler:106 - 接收到弹幕消息	梦想成为搬砖王的男人 : 玩鸟
+2014-09-23 21:38:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	李居丽是我的夫人 : 卡啊啊啊啊
+2014-09-23 21:38:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	竹筒饭 : 求代码
+2014-09-23 21:38:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	人生赢家何尼玛 : 我是王静，你是谁？
+2014-09-23 21:38:50 INFO ContentMinaHandler:106 - 接收到弹幕消息	喜欢送 : MU要哭了
+2014-09-23 21:38:50 INFO ContentMinaHandler:120 - 接收到礼物消息	lx940120 赠送给主播100个鱼丸
+2014-09-23 21:38:51 INFO ContentMinaHandler:106 - 接收到弹幕消息	a60958661 : ...
+2014-09-23 21:38:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	zcczyq120 : HAO脏
+2014-09-23 21:38:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	Anoson : 猴子模型要重做成孙悟空
+2014-09-23 21:38:55 INFO ContentMinaHandler:106 - 接收到弹幕消息	塔奇克馬君 : 色情主播
+2014-09-23 21:38:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	zhuang0524 : dota1sf那小腰扭的很风骚
+2014-09-23 21:38:58 INFO ContentMinaHandler:106 - 接收到弹幕消息	f1989511l : 真的好拉
+2014-09-23 21:38:59 INFO ContentMinaHandler:106 - 接收到弹幕消息	鬼半藏 : 另一个解说谁
+2014-09-23 21:39:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	848095139 : mu被完压
+2014-09-23 21:39:02 INFO ContentMinaHandler:106 - 接收到弹幕消息	钓鱼 : 芬妮儿 是哈哈明吗？？？
+2014-09-23 21:39:03 INFO ContentMinaHandler:106 - 接收到弹幕消息	alielie : super确实屌
+2014-09-23 21:39:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	m89m89m89 : 什么料
+2014-09-23 21:39:07 INFO ContentMinaHandler:106 - 接收到弹幕消息	cococoLD : \\\\\\\\\\
+2014-09-23 21:39:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	xchloemoretz : ?cdn=1x
+2014-09-23 21:58:20 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8035
+2014-09-23 21:58:21 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 21:58:21 INFO LoginMinaHandler:97 - 登陆的病床编号为: 41479 床
+2014-09-23 21:58:21 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 21:58:21 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 21:58:26 INFO ContentMinaHandler:106 - 接收到弹幕消息	softicecream : god knows
+2014-09-23 22:01:09 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8017
+2014-09-23 22:01:10 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:01:10 INFO LoginMinaHandler:97 - 登陆的病床编号为: 41479 床
+2014-09-23 22:01:10 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 22:01:10 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 22:01:26 INFO ContentMinaHandler:106 - 接收到弹幕消息	tianial : 可以多人人一起啊
+2014-09-23 22:01:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	泡椒biubiubiu : 能一起玩了
+2014-09-23 22:01:35 INFO ContentMinaHandler:106 - 接收到弹幕消息	tianial : 多少人一起
+2014-09-23 22:01:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	從未拥冇 : 雖然聽不懂但是好像很厲害的樣子。。。
+2014-09-23 22:01:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	944075627 : 4个
+2014-09-23 22:01:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 一玩饥荒根本就不想做别的事情了，想去尿尿憋死我了
+2014-09-23 22:02:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	joymark1990 : 昨天的萌妹子去哪里了啊up 0.0
+2014-09-23 22:02:39 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8022
+2014-09-23 22:02:40 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:02:40 INFO LoginMinaHandler:97 - 登陆的病床编号为: 41479 床
+2014-09-23 22:02:40 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 22:02:40 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 22:03:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : 。
+2014-09-23 22:03:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	碎片马特 : 温蒂的配音貌似是短笛
+2014-09-23 22:03:35 INFO ContentMinaHandler:106 - 接收到弹幕消息	碎片马特 : 老太太是双簧管
+2014-09-23 22:03:50 INFO ContentMinaHandler:106 - 接收到弹幕消息	zheng_wei : 睡觉了 拜拜
+2014-09-23 22:04:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : 睡觉之前不来电鱼丸么
+2014-09-23 22:04:39 INFO ContentMinaHandler:106 - 接收到弹幕消息	碎片马特 : 提莫又出现了，众人殴打中
+2014-09-23 22:04:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 提莫现在已经没有纳尔萌了
+2014-09-23 22:05:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 不萌的要了何用
+2014-09-23 22:06:32 INFO ContentMinaHandler:106 - 接收到弹幕消息	碎片马特 : 自从出了纳尔，提莫只能在垃圾箱颓废度日了
+2014-09-23 22:07:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	softicecream : 拆了
+2014-09-23 22:07:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 提莫什么的可以删掉了
+2014-09-23 22:07:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	取名字很麻烦 : 纳尔完爆提莫8条街
+2014-09-23 22:07:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	從未拥冇 : [emot:kx]
+2014-09-23 22:11:28 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8017
+2014-09-23 22:11:29 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:11:29 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:11:29 INFO LoginMinaHandler:100 - 加入的讨论群组为: 38 组
+2014-09-23 22:11:29 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 22:11:32 INFO ContentMinaHandler:120 - 接收到礼物消息	小菜鸡求虐 赠送给主播100个鱼丸
+2014-09-23 22:11:32 INFO ContentMinaHandler:106 - 接收到弹幕消息	二五幫の蛤蛤 : lion
+2014-09-23 22:11:34 INFO ContentMinaHandler:106 - 接收到弹幕消息	逺囄灬瀟煙 : I  联赛  哪些队进了线下赛？
+2014-09-23 22:11:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	gaoliuy : 因为有OB战队
+2014-09-23 22:16:34 WARN JSONObject:1454 - Can't transform property 'data' from java.lang.String into name.yumao.douyu.vo.RoomApiDataVo. Will register a default Morpher
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.cate_id' does not exist. SKIPPED.
+2014-09-23 22:16:34 INFO BeanMorpher:98 - Property 'name.yumao.douyu.vo.RoomApiDataVo.class' has no write method. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.fake_user_num' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.fans' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.game_name' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.game_url' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.nickname' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.online' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.owner_avatar' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.owner_uid' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.owner_weight' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.room_id' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.room_name' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.room_src' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.rtmp_cdn' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.rtmp_live' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.rtmp_multi_bitrate' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.rtmp_url' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.servers' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.show_details' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.show_status' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.show_time' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.specific_catalog' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.specific_status' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.subject' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.tags' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.url' does not exist. SKIPPED.
+2014-09-23 22:16:34 WARN BeanMorpher:116 - Property 'java.lang.String.vod_quality' does not exist. SKIPPED.
+2014-09-23 22:16:58 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8010
+2014-09-23 22:16:58 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:16:58 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:16:58 INFO LoginMinaHandler:100 - 加入的讨论群组为: 46 组
+2014-09-23 22:16:58 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 22:17:00 INFO ContentMinaHandler:106 - 接收到弹幕消息	huaxinkekoukele : 乳房？
+2014-09-23 22:17:02 INFO ContentMinaHandler:106 - 接收到弹幕消息	银霹雳 : 卵巢囊肿？
+2014-09-23 22:17:02 INFO ContentMinaHandler:106 - 接收到弹幕消息	wakawaka : 子宫肌瘤？
+2014-09-23 22:17:03 INFO ContentMinaHandler:106 - 接收到弹幕消息	林鑫Joker : 肛周脓肿
+2014-09-23 22:17:05 INFO ContentMinaHandler:106 - 接收到弹幕消息	心情zzzzzzz : 包皮发炎了？
+2014-09-23 22:17:05 INFO ContentMinaHandler:106 - 接收到弹幕消息	钰皇小弟 : 子宫肌瘤
+2014-09-23 22:17:05 INFO ContentMinaHandler:120 - 接收到礼物消息	自自 赠送给主播100个鱼丸
+2014-09-23 22:17:06 INFO ContentMinaHandler:106 - 接收到弹幕消息	Vanne : 菊花囊肿
+2014-09-23 22:17:07 INFO ContentMinaHandler:106 - 接收到弹幕消息	啊蕾蕾 : 菊花肿
+2014-09-23 22:17:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	15019415265 : 狼种？？？？？？？？？？
+2014-09-23 22:17:09 INFO ContentMinaHandler:120 - 接收到礼物消息	514938557 赠送给主播100个鱼丸
+2014-09-23 22:17:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	xpwsq717 : 哈哈哈哈
+2014-09-23 22:17:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	疼讯坑钱斗场场长 : 阴囊吗
+2014-09-23 22:17:11 INFO ContentMinaHandler:106 - 接收到弹幕消息	幽灵吉萝卜 : 你们卡不卡啊？
+2014-09-23 22:17:12 INFO ContentMinaHandler:106 - 接收到弹幕消息	lqm19935357 : 线下决赛怎么去啊，据说没有门票啊
+2014-09-23 22:17:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	Baggio丶 : ...
+2014-09-23 22:17:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	一抹深笑 : LGD要是I联赛也进来了那msl咋办啊海
+2014-09-23 22:17:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	呵呵520 : :？cnd=lx
+2014-09-23 22:17:16 INFO ContentMinaHandler:106 - 接收到弹幕消息	黑帽大魔王 : ka si le
+2014-09-23 22:17:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	dlyqw12 : 别黑我大风歌啊~
+2014-09-23 22:17:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	cuotianren : 盲肠外翻
+2014-09-23 22:17:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	md1991416 : 欧洲三支大鱼
+2014-09-23 22:17:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	時雨_Orange : 腱鞘囊肿
+2014-09-23 22:17:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	某科学的XXX : ICY勾兵都不会
+2014-09-23 22:17:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	sszycwf : 什么囊肿啊 故意不说清楚
+2014-09-23 22:17:22 INFO ContentMinaHandler:106 - 接收到弹幕消息	赐我永生 : 谁代替大风歌的 我没听到 有谁告诉我下呗
+2014-09-23 22:17:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	sdnat : 真的卵巢囊肿了吗？？
+2014-09-23 22:17:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	greadsai : VP 这个逗比队
+2014-09-23 22:43:33 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8033
+2014-09-23 22:43:33 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=loginreq/username@=auto_dmHPSACC6X/password@=1da88fd6cd8d4a8d373309e85050773d/roomid@=41479/ 
+2014-09-23 22:43:33 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:43:34 INFO LoginMinaHandler:97 - 登陆的病床编号为: 41479 床
+2014-09-23 22:43:34 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 22:43:34 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 22:43:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 你们套路错了
+2014-09-23 22:43:36 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 22:43:42 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=28/ 
+2014-09-23 22:43:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 应该是：你真漂亮~
+2014-09-23 22:43:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	持田香織 : 应该是先夸
+2014-09-23 22:43:47 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=73/ 
+2014-09-23 22:43:48 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 约嘛~
+2014-09-23 22:43:52 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=30/ 
+2014-09-23 22:43:57 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=87/ 
+2014-09-23 22:44:02 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=76/ 
+2014-09-23 22:44:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 你叫的真好听~
+2014-09-23 22:44:07 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=96/ 
+2014-09-23 22:44:12 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=26/ 
+2014-09-23 22:44:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	sdarlove : 你叫的真好听~
+2014-09-23 22:44:17 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=84/ 
+2014-09-23 22:44:22 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=60/ 
+2014-09-23 22:44:25 INFO ContentMinaHandler:106 - 接收到弹幕消息	白谷谷么么哒 : [emot:excited]
+2014-09-23 22:44:27 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=78/ 
+2014-09-23 22:44:32 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=88/ 
+2014-09-23 22:44:37 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=60/ 
+2014-09-23 22:44:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 小羽那个小畜生
+2014-09-23 22:44:42 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=33/ 
+2014-09-23 22:44:47 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=61/ 
+2014-09-23 22:44:49 INFO ContentMinaHandler:106 - 接收到弹幕消息	庙里的喵 : 芦苇可以移植不？
+2014-09-23 22:44:52 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=11/ 
+2014-09-23 22:44:57 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=33/ 
+2014-09-23 22:45:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	碎片马特 : 蛋不要啦？
+2014-09-23 22:45:02 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=21/ 
+2014-09-23 22:45:07 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=63/ 
+2014-09-23 22:45:08 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 等下次我带着我的广东口音好好教育他
+2014-09-23 22:45:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	碎片马特 : 强迫症，艾玛，好难受
+2014-09-23 22:45:12 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=59/ 
+2014-09-23 22:45:17 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=31/ 
+2014-09-23 22:45:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 胆子肥了，三天不打上房揭瓦
+2014-09-23 22:45:22 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=88/ 
+2014-09-23 22:45:27 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=98/ 
+2014-09-23 22:45:32 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=61/ 
+2014-09-23 22:45:37 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=61/ 
+2014-09-23 22:45:42 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=37/ 
+2014-09-23 22:45:47 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=62/ 
+2014-09-23 22:45:52 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=34/ 
+2014-09-23 22:45:57 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=42/ 
+2014-09-23 22:46:02 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=43/ 
+2014-09-23 22:46:04 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 睡觉了，再不睡要爆炸了，中午在玩饥荒没睡觉
+2014-09-23 22:46:07 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=40/ 
+2014-09-23 22:46:12 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=00/ 
+2014-09-23 22:46:17 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=10/ 
+2014-09-23 22:46:22 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=71/ 
+2014-09-23 22:46:27 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=70/ 
+2014-09-23 22:46:32 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=76/ 
+2014-09-23 22:46:37 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=71/ 
+2014-09-23 22:46:42 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=57/ 
+2014-09-23 22:46:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	pink9527 : 不对  我还没@你 你咋就站起来了
+2014-09-23 22:46:47 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=51/ 
+2014-09-23 22:46:52 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=56/ 
+2014-09-23 22:46:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 困得我都斯巴达了，这几天练的苦的一比
+2014-09-23 22:46:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	sdarlove : 贪好么 这是
+2014-09-23 22:46:57 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=65/ 
+2014-09-23 22:47:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 下雨照样练
+2014-09-23 22:47:02 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=65/ 
+2014-09-23 22:47:07 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=83/ 
+2014-09-23 22:47:09 INFO ContentMinaHandler:106 - 接收到弹幕消息	lonely711 : 打完女王在睡啊
+2014-09-23 22:47:10 INFO ContentMinaHandler:106 - 接收到弹幕消息	pink9527 : 明天还军训吗
+2014-09-23 22:47:12 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=87/ 
+2014-09-23 22:47:17 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=61/ 
+2014-09-23 22:47:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 训到月底。。
+2014-09-23 22:47:22 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=79/ 
+2014-09-23 22:47:27 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=99/ 
+2014-09-23 22:47:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	pink9527 : 晕，注意身体！
+2014-09-23 22:47:32 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=57/ 
+2014-09-23 22:47:33 INFO ContentMinaHandler:106 - 接收到弹幕消息	carlo_ : 你有用BETTER MOON吗？
+2014-09-23 22:47:37 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=65/ 
+2014-09-23 22:47:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	sdarlove : 两只女王 溜啊
+2014-09-23 22:47:42 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=41/ 
+2014-09-23 22:47:47 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=61/ 
+2014-09-23 22:47:52 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=38/ 
+2014-09-23 22:47:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 感冒没好过，还黑了
+2014-09-23 22:47:57 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=75/ 
+2014-09-23 22:48:02 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : 感觉没法见人了
+2014-09-23 22:48:02 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=27/ 
+2014-09-23 22:48:07 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=37/ 
+2014-09-23 22:48:12 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=60/ 
+2014-09-23 22:48:14 INFO ContentMinaHandler:106 - 接收到弹幕消息	pink9527 : 。。。
+2014-09-23 22:48:17 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=79/ 
+2014-09-23 22:48:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	joymark1990 : 没事黑了好啊
+2014-09-23 22:48:22 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=77/ 
+2014-09-23 22:48:27 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=73/ 
+2014-09-23 22:48:28 INFO ContentMinaHandler:106 - 接收到弹幕消息	joymark1990 : 黑了安全，走夜路坏人看不见
+2014-09-23 22:48:32 INFO ContentMinaHandler:106 - 接收到弹幕消息	joymark1990 : [emot:laughing]
+2014-09-23 22:48:32 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=82/ 
+2014-09-23 22:48:34 INFO ContentMinaHandler:106 - 接收到弹幕消息	pink9527 : 早睡觉 被窝里就唔白了
+2014-09-23 22:48:37 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=25/ 
+2014-09-23 22:48:42 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=97/ 
+2014-09-23 22:48:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	白谷谷么么哒 : 女王
+2014-09-23 22:48:47 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=73/ 
+2014-09-23 22:48:52 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=66/ 
+2014-09-23 22:48:57 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=44/ 
+2014-09-23 22:48:58 INFO ContentMinaHandler:106 - 接收到弹幕消息	陈贤惠 : joymark记到小本本上，愤怒X7
+2014-09-23 22:49:02 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=30/ 
+2014-09-23 22:49:07 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=68/ 
+2014-09-23 22:49:11 INFO ContentMinaHandler:106 - 接收到弹幕消息	sdarlove : 说明你黄啊
+2014-09-23 22:49:12 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=20/ 
+2014-09-23 22:49:17 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=72/ 
+2014-09-23 22:49:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	joymark1990 : [emot:badluck]
+2014-09-23 22:49:22 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=44/ 
+2014-09-23 22:49:27 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=66/ 
+2014-09-23 22:49:32 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=43/ 
+2014-09-23 22:49:37 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=20/ 
+2014-09-23 22:49:42 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=98/ 
+2014-09-23 22:50:35 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8036
+2014-09-23 22:50:35 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=loginreq/username@=auto_dmHPSACC6X/password@=1da88fd6cd8d4a8d373309e85050773d/roomid@=19002/ 
+2014-09-23 22:50:35 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:50:35 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:50:35 INFO LoginMinaHandler:100 - 加入的讨论群组为: 49 组
+2014-09-23 22:50:35 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 22:50:38 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 22:50:38 INFO ContentMinaHandler:106 - 接收到弹幕消息	相日葵海洋 : 5000分超级大神，你BB你吗比，你上
+2014-09-23 22:50:38 INFO ContentMinaHandler:106 - 接收到弹幕消息	class22xxoo : 对面就盯着毒龙的
+2014-09-23 22:50:39 INFO ContentMinaHandler:120 - 接收到礼物消息	mlandmk 赠送给主播100个鱼丸
+2014-09-23 22:50:39 INFO ContentMinaHandler:120 - 接收到礼物消息	mlandmk 赠送给主播100个鱼丸
+2014-09-23 22:50:40 INFO ContentMinaHandler:120 - 接收到礼物消息	mlandmk 赠送给主播100个鱼丸
+2014-09-23 22:50:40 INFO ContentMinaHandler:120 - 接收到礼物消息	mlandmk 赠送给主播100个鱼丸
+2014-09-23 22:50:40 INFO ContentMinaHandler:120 - 接收到礼物消息	mlandmk 赠送给主播100个鱼丸
+2014-09-23 22:50:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	x161728 : 你要去看天梯说他不行可以这是比赛
+2014-09-23 22:50:41 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=chatmessage/receiver@=0/content@=TeemoBot/scope@=/ 
+2014-09-23 22:50:41 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=chatmessage/receiver@=0/content@=[Auto] 感谢 mlandmk 赠送给主播的 500 鱼丸/scope@=/ 
+2014-09-23 22:50:42 INFO ContentMinaHandler:106 - 接收到弹幕消息	VigossLiang : ZSMJ垃圾
+2014-09-23 22:50:43 INFO ContentMinaHandler:106 - 接收到弹幕消息	joelstar : 说马甲废物的都出来了 呵呵
+2014-09-23 22:50:44 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=99/ 
+2014-09-23 22:50:44 INFO ContentMinaHandler:106 - 接收到弹幕消息	你酱紫你家人造吗 : 粉丝激动还好说 结果喷子们都用生命在喷
+2014-09-23 22:50:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	相日葵海洋 : 5000分超级大神，你BB你吗比，
+2014-09-23 22:50:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	终极大布登 : 羽毛球输了
+2014-09-23 22:50:49 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=47/ 
+2014-09-23 22:50:49 INFO ContentMinaHandler:106 - 接收到弹幕消息	13560750571 : MVP都去过TI.
+2014-09-23 22:50:50 INFO ContentMinaHandler:106 - 接收到弹幕消息	Rikimaru520 : 转会期都过了HGT想T人不想混了吧
+2014-09-23 22:51:33 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8022
+2014-09-23 22:51:33 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=loginreq/username@=auto_dmHPSACC6X/password@=1da88fd6cd8d4a8d373309e85050773d/roomid@=19002/ 
+2014-09-23 22:51:33 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:51:33 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:51:33 INFO LoginMinaHandler:100 - 加入的讨论群组为: 49 组
+2014-09-23 22:51:33 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 22:51:35 INFO ContentMinaHandler:106 - 接收到弹幕消息	maidouqixingji : 我只说前天看马甲比赛，信仰粉满屏刷不亏
+2014-09-23 22:51:36 INFO ContentMinaHandler:106 - 接收到弹幕消息	Rikimaru520 : TI欠马甲一个冠军。TI欠马甲一个冠军。
+2014-09-23 22:51:36 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 22:51:37 INFO ContentMinaHandler:106 - 接收到弹幕消息	455765854 : 能打职业的都不该喷
+2014-09-23 22:51:38 INFO ContentMinaHandler:106 - 接收到弹幕消息	雪落寒霜 : 马甲队里都是鱼 没办法
+2014-09-23 22:51:39 INFO ContentMinaHandler:106 - 接收到弹幕消息	mslvan : imba房间是没有房管是吧？
+2014-09-23 22:51:40 INFO ContentMinaHandler:106 - 接收到弹幕消息	相日葵海洋 : ZSMJ 牛逼时候，你还玩泥巴呢。。
+2014-09-23 22:51:42 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=39/ 
+2014-09-23 22:51:42 INFO ContentMinaHandler:106 - 接收到弹幕消息	tiny77777 : 涛哥   被DOOM  宝石有效么、？
+2014-09-23 22:51:43 INFO ContentMinaHandler:106 - 接收到弹幕消息	矜持点可好 : 喷子都是正义。你不服你就是核弹粉
+2014-09-23 22:51:46 INFO ContentMinaHandler:106 - 接收到弹幕消息	firycj : 越出名喷子越多 这是现实
+2014-09-23 22:51:47 INFO ContentMinaHandler:106 - 接收到弹幕消息	我爱陶思阳 : 沈佳萱我知道你再
+2014-09-23 22:51:47 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=59/ 
+2014-09-23 22:51:48 INFO ContentMinaHandler:106 - 接收到弹幕消息	qq_FpXTaL : 史丹尼我要给你生猴子
+2014-09-23 22:51:49 INFO ContentMinaHandler:106 - 接收到弹幕消息	iambeginner : 这就是现实指导吗？
+2014-09-23 22:52:25 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.20:8006
+2014-09-23 22:52:25 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=loginreq/username@=auto_dmHPSACC6X/password@=1da88fd6cd8d4a8d373309e85050773d/roomid@=19002/ 
+2014-09-23 22:52:25 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:52:25 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:52:26 INFO LoginMinaHandler:100 - 加入的讨论群组为: 52 组
+2014-09-23 22:52:26 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 22:52:26 INFO ContentMinaHandler:140 - 发给服务器的信息: [   [   ?  type@=loginreq/username@=auto_dmHPSACC6X/password@=1234567890123456/roomid@=19002/ 
+2014-09-23 22:52:27 INFO ContentMinaHandler:140 - 发给服务器的信息: ,   ,   ?  type@=joingroup/rid@=19002/gid@=52/ 
+2014-09-23 22:52:27 INFO ContentMinaHandler:140 - 发给服务器的信息: A   A   ?  type@=chatmessage/receiver@=0/content@=TeemoBot/scope@=/ 
+2014-09-23 22:52:27 INFO ContentMinaHandler:106 - 接收到弹幕消息	mslvan : @房管
+2014-09-23 22:52:28 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 22:52:29 INFO ContentMinaHandler:106 - 接收到弹幕消息	saroadsi : 盾是被打掉的
+2014-09-23 22:52:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	626461247 : 用了
+2014-09-23 22:52:30 INFO ContentMinaHandler:106 - 接收到弹幕消息	撒旦的独奏 : hgt在托lgd的体力,让lgd败给nb
+2014-09-23 22:52:31 INFO ContentMinaHandler:106 - 接收到弹幕消息	丶师妃暄 : 马甲粉太逗了说句打的差就能高潮
+2014-09-23 22:52:31 INFO ContentMinaHandler:106 - 接收到弹幕消息	轩熊猫 : 电棍死过了
+2014-09-23 22:52:31 INFO ContentMinaHandler:106 - 接收到弹幕消息	相日葵海洋 : 5000分超级大神，你BB你吗比，你上
+2014-09-23 22:52:32 INFO ContentMinaHandler:140 - 发给服务器的信息: !   !   ?  type@=keeplive/tick@=33/ 
+2014-09-23 22:52:33 INFO ContentMinaHandler:106 - 接收到弹幕消息	ST踩过无数 : 死过的好吧
+2014-09-23 22:53:17 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8011
+2014-09-23 22:53:17 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=loginreq/username@=auto_dmHPSACC6X/password@=1da88fd6cd8d4a8d373309e85050773d/roomid@=19002/ 
+2014-09-23 22:53:17 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:53:17 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:53:17 INFO LoginMinaHandler:100 - 加入的讨论群组为: 55 组
+2014-09-23 22:53:17 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 22:53:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	轻舟已过万重山 : 挑毛刺
+2014-09-23 22:53:20 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 22:53:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	电竞马伊琍之赵佳 : 仙女棒？
+2014-09-23 22:53:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	ly769080901 : 动了就输
+2014-09-23 22:53:23 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=chatmessage/receiver@=0/content@=TeemoBot/scope@=/ 
+2014-09-23 22:53:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	徐拉达 : 振动棒
+2014-09-23 22:53:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	lebron1 : 马甲是队长，输了马甲没锅？、
+2014-09-23 22:53:24 INFO ContentMinaHandler:106 - 接收到弹幕消息	小鸟游六花123 : 我的滑板鞋，时尚时尚最时尚
+2014-09-23 22:54:13 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8018
+2014-09-23 22:54:13 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=loginreq/nickname@=TeemoBot/password@=1da88fd6cd8d4a8d373309e85050773d/roomid@=19002/ 
+2014-09-23 22:54:13 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:54:13 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:54:13 INFO LoginMinaHandler:100 - 加入的讨论群组为: 55 组
+2014-09-23 22:54:14 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 22:54:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	狗妹狗妹漂亮的狗妹 : Viper打成那样。。。好意思
+2014-09-23 22:54:16 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=roomrefresh/serialnum@=0/ 
+2014-09-23 22:54:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	848095139 : 你看这反应
+2014-09-23 22:54:19 INFO ContentMinaHandler:106 - 接收到弹幕消息	轩辕居士 : LGD加油
+2014-09-23 22:54:19 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=chatmessage/receiver@=0/content@=TeemoBot/scope@=/ 
+2014-09-23 22:54:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	ilinger : 早不GG，强行拖到40分钟。。
+2014-09-23 22:54:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	shuaijin12 : 房管封人了结果那个5000分大神龟缩了
+2014-09-23 22:54:22 INFO LoginMinaHandler:124 - 发给服务器的信息: type@=keeplive/tick@=69/ 
+2014-09-23 22:54:23 INFO ContentMinaHandler:106 - 接收到弹幕消息	x161728 : 更多的是发泄生活压力的垃圾
+2014-09-23 22:56:09 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.19:8028
+2014-09-23 22:56:10 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:56:10 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:56:10 INFO LoginMinaHandler:100 - 加入的讨论群组为: 54 组
+2014-09-23 22:56:10 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 22:56:12 INFO ContentMinaHandler:106 - 接收到弹幕消息	小晶孩manbu却不在春晨 : 电竞吕子乔
+2014-09-23 22:56:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	比永远更远 : LGD欠马甲一个TI梦
+2014-09-23 22:56:13 INFO ContentMinaHandler:106 - 接收到弹幕消息	x161728 : 更不会用战队成绩来黑个人能力
+2014-09-23 22:56:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	Lingying : 他们不听解说的
+2014-09-23 22:56:15 INFO ContentMinaHandler:106 - 接收到弹幕消息	不换灬此生 : 公公兰花指输入法
+2014-09-23 22:56:16 INFO ContentMinaHandler:120 - 接收到礼物消息	小晶孩manbu却不在春晨 赠送给主播100个鱼丸
+2014-09-23 22:56:16 INFO ContentMinaHandler:120 - 接收到礼物消息	knightkoko 赠送给主播100个鱼丸
+2014-09-23 22:56:17 INFO ContentMinaHandler:120 - 接收到礼物消息	parachute777 赠送给主播100个鱼丸
+2014-09-23 22:56:17 INFO ContentMinaHandler:106 - 接收到弹幕消息	深蓝的笑笑猫 : 死循环 死循环 死循环
+2014-09-23 22:56:17 INFO ContentMinaHandler:120 - 接收到礼物消息	小晶孩manbu却不在春晨 赠送给主播100个鱼丸
+2014-09-23 22:56:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	lulu命 : 解说这是啥比赛
+2014-09-23 22:56:20 INFO ContentMinaHandler:106 - 接收到弹幕消息	极光_片羽 : 海涛怎么这么肥了
+2014-09-23 22:56:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	iambeginner : 这个是小飞机她弟弟吧？
+2014-09-23 22:56:21 INFO ContentMinaHandler:106 - 接收到弹幕消息	雨夜沁淮 : 马甲心态确实没话说,你看他直播就知道
+2014-09-23 22:56:48 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.19:8028
+2014-09-23 22:56:49 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:56:49 INFO LoginMinaHandler:97 - 登陆的病床编号为: 19002 床
+2014-09-23 22:56:49 INFO LoginMinaHandler:100 - 加入的讨论群组为: 38 组
+2014-09-23 22:56:49 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 22:56:51 INFO ContentMinaHandler:106 - 接收到弹幕消息	潘驴曾小闲 : 海涛为啥动作这么娘
+2014-09-23 22:56:52 INFO ContentMinaHandler:106 - 接收到弹幕消息	5612539 : 马甲一生粉
+2014-09-23 22:56:53 INFO ContentMinaHandler:106 - 接收到弹幕消息	圣贤之扉 : 其实HGT还是不错的
+2014-09-23 22:56:54 INFO ContentMinaHandler:106 - 接收到弹幕消息	熊怪乌萨战士 : 提前TI5决赛
+2014-09-23 22:56:56 INFO ContentMinaHandler:106 - 接收到弹幕消息	sdnat : 海涛胖成一片海了！！！！！！！
+2014-09-23 22:56:57 INFO ContentMinaHandler:106 - 接收到弹幕消息	佛渡有缘人_acfun : 右边这个是谁  说名字或者ID
+2014-09-23 22:56:59 INFO ContentMinaHandler:106 - 接收到弹幕消息	euro619 : 信仰高潮
+2014-09-23 22:57:17 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8009
+2014-09-23 22:57:17 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:57:17 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 22:57:17 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 22:57:17 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 22:58:18 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.19:8026
+2014-09-23 22:58:18 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 22:58:19 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 22:58:19 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 22:58:19 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 23:04:01 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8008
+2014-09-23 23:04:01 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 23:04:01 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 23:04:01 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:04:02 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-09-23 23:04:28 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8007
+2014-09-23 23:04:28 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 23:04:29 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 23:04:29 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:04:29 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 23:06:03 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.20:8001
+2014-09-23 23:06:04 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 23:06:04 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 23:06:04 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:06:04 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 23:06:19 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8033
+2014-09-23 23:06:19 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 23:06:20 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 23:06:20 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:06:20 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 23:08:18 INFO LoginMinaThread:42 - 随机选择登陆服务器 210.73.208.150:8033
+2014-09-23 23:08:19 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 23:08:19 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 23:08:19 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:08:19 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 23:14:50 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.21:8030
+2014-09-23 23:14:51 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 23:14:51 INFO LoginMinaHandler:97 - 登陆的病床编号为: 928 床
+2014-09-23 23:14:51 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:14:51 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 23:15:07 INFO LoginMinaThread:42 - 随机选择登陆服务器 117.79.132.19:8025
+2014-09-23 23:15:08 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 23:15:08 INFO LoginMinaHandler:97 - 登陆的病床编号为: 928 床
+2014-09-23 23:15:08 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:15:08 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 23:15:18 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : 123
+2014-09-23 23:18:00 INFO LoginMinaThread:43 - 随机选择登陆服务器 117.79.132.19:8026
+2014-09-23 23:18:00 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 23:18:00 INFO LoginMinaHandler:97 - 登陆的病床编号为: 928 床
+2014-09-23 23:18:00 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:18:00 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 23:18:06 INFO LoginMinaHandler:129 - 失去与验证服务器的连接
+2014-09-23 23:18:35 INFO LoginMinaThread:43 - 随机选择登陆服务器 117.79.132.21:8019
+2014-09-23 23:18:35 INFO LoginMinaHandler:94 - 获取的登录用户名为: Teemo
+2014-09-23 23:18:35 INFO LoginMinaHandler:97 - 登陆的病床编号为: 928 床
+2014-09-23 23:18:35 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:18:35 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-09-23 23:18:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : 123
+2014-09-23 23:18:45 INFO ContentMinaHandler:106 - 接收到弹幕消息	Teemo : 123
+2014-09-23 23:20:17 INFO LoginMinaThread:43 - 随机选择登陆服务器 117.79.132.19:8024
+2014-09-23 23:20:18 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 23:20:18 INFO LoginMinaHandler:97 - 登陆的病床编号为: 582 床
+2014-09-23 23:20:18 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:20:18 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-09-23 23:20:50 INFO LoginMinaThread:43 - 随机选择登陆服务器 117.79.132.21:8029
+2014-09-23 23:20:51 INFO LoginMinaHandler:94 - 获取的登录用户名为: TeemoBot
+2014-09-23 23:20:51 INFO LoginMinaHandler:97 - 登陆的病床编号为: 928 床
+2014-09-23 23:20:51 INFO LoginMinaHandler:100 - 加入的讨论群组为: 0 组
+2014-09-23 23:20:51 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-09-23 23:21:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	TeemoBot : 123
+2014-09-23 23:21:01 INFO ContentMinaHandler:106 - 接收到弹幕消息	TeemoBot : 123

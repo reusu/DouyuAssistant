@@ -1,0 +1,748 @@
+2014-11-05 16:25:41 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8032
+2014-11-05 16:25:46 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-11-05 16:25:46 INFO LoginMinaHandler:101 - 登陆的病床编号为: 58428 床
+2014-11-05 16:25:46 INFO LoginMinaHandler:104 - 加入的讨论群组为: 33 组
+2014-11-05 16:25:46 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-11-05 16:26:07 INFO ContentMinaThread:81 - 弹幕服务器连接失败!
+2014-11-05 16:27:50 INFO LoginMinaHandler:158 - 失去与验证服务器的连接
+2014-11-05 16:28:03 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8022
+2014-11-05 16:28:07 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-11-05 16:28:07 INFO LoginMinaHandler:101 - 登陆的病床编号为: 58428 床
+2014-11-05 16:28:07 INFO LoginMinaHandler:104 - 加入的讨论群组为: 34 组
+2014-11-05 16:28:07 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-11-05 16:28:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	九只 : 11000  全出跳刀 抓不到人 浪费了
+2014-11-05 16:28:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	hxcxyscyw : 不出BKB也行的
+2014-11-05 16:28:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	放开那个菇凉 : 说的好像bkb一定能开出来一样
+2014-11-05 16:28:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	kenneth5316 : 1W块经济花式送
+2014-11-05 16:28:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	chubby010101 : 不作死就不会死啊
+2014-11-05 16:28:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	hellomybaby : 先BKB回好一点,只是当时是碾压所以没出
+2014-11-05 16:28:18 INFO ContentMinaHandler:90 - 接收到弹幕消息	Nmzszxsl_ : 不要喷了 人家好久没玩了也正常啊
+2014-11-05 16:28:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	Maverick1111 : 够了 别教别人怎么玩了
+2014-11-05 16:28:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	yang271828 : 大妈：你们这群6千分的也教我出装？
+2014-11-05 16:28:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	a58504177 : dota1 2级大爷有毒了。
+2014-11-05 16:28:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	卢崇伟_kobe : DOTA1的时候 2级大就带毒了吧
+2014-11-05 16:28:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	Nmzszxsl_ : 这肉鸡缺失有点意思
+2014-11-05 16:28:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	daynight1230 : 肯德基啊
+2014-11-05 16:28:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	善良的科仔 : 说不学2级大的，是古董，不是小学生
+2014-11-05 16:28:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	lpwake : 好大个积极
+2014-11-05 16:28:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	jackgj : 好大一只鸡
+2014-11-05 16:28:40 INFO ContentMinaHandler:90 - 接收到弹幕消息	追逐颓废的快乐 : 这局都脆皮 龙心大电比裸BKB好
+2014-11-05 16:28:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	Nmzszxsl_ : dota1也是后面版本的事情
+2014-11-05 16:28:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	lpwake : 鸡鸡
+2014-11-05 16:32:47 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.20:8005
+2014-11-05 16:32:52 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-11-05 16:32:52 INFO LoginMinaHandler:101 - 登陆的病床编号为: 4916 床
+2014-11-05 16:32:52 INFO LoginMinaHandler:104 - 加入的讨论群组为: 6 组
+2014-11-05 16:32:52 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-11-05 16:32:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，说一说大表哥自称第一帅的主播
+2014-11-05 16:32:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]一~二~三~四~ 胃必治~ 提摩BOT帅气登场~
+2014-11-05 16:32:55 INFO ContentMinaHandler:90 - 接收到弹幕消息	八云妖妖月 : 都是算计
+2014-11-05 16:32:55 INFO SQLiteUtils:139 - 
+2014-11-05 16:32:55 INFO ContentMinaHandler:90 - 接收到弹幕消息	85424649 : 哈哈哈阿
+2014-11-05 16:32:56 INFO SQLiteUtils:139 - 
+2014-11-05 16:32:57 INFO SQLiteUtils:139 - 
+2014-11-05 16:32:58 INFO ContentMinaHandler:90 - 接收到弹幕消息	大树丶 : 蛋糕在兰州什么区阿 ！
+2014-11-05 16:32:58 INFO SQLiteUtils:139 - 
+2014-11-05 16:32:58 INFO ContentMinaHandler:90 - 接收到弹幕消息	平清盛 : 哈哈被发现
+2014-11-05 16:32:58 INFO ContentMinaHandler:90 - 接收到弹幕消息	JustManA : 蛋糕   你平时吃哪家牛肉面？
+2014-11-05 16:32:59 INFO SQLiteUtils:139 - 
+2014-11-05 16:32:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	rakshasgui : 666666
+2014-11-05 16:33:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	kurosophie : 66666666
+2014-11-05 16:33:00 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_UYtqUX : 阿糕  找边边飞起啊。
+2014-11-05 16:33:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	85424649 : 全是算计
+2014-11-05 16:33:01 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	前排文明观奶 : 哈哈哈哈
+2014-11-05 16:33:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，说一说大表哥自称第一帅的主播.
+2014-11-05 16:33:02 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:03 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	犊子 : 糕  兰州冷吗
+2014-11-05 16:33:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕你会盖伦吗？？？？
+2014-11-05 16:33:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	7号床是个基佬 : TT是基佬吗
+2014-11-05 16:33:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	一个天然呆的假白痴 : 七小银呢？七小银呢？七小银呢？七小银呢？
+2014-11-05 16:33:04 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	y3603555 : 蛋糕来一发贾克斯请你吃烤腰子
+2014-11-05 16:33:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	yjk0310 : 明明是锅巴来的
+2014-11-05 16:33:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	GodAria昕 : 66666
+2014-11-05 16:33:05 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	丰丰阁 : 一秒5扣
+2014-11-05 16:33:06 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	axwwt : 好听 !!!!!!!!!!!!!
+2014-11-05 16:33:07 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	1142545050 : 武器打11111111111111111
+2014-11-05 16:33:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	MAGIC丶夜影 : 蛋糕你初心还在吗
+2014-11-05 16:33:08 INFO ContentMinaHandler:90 - 接收到弹幕消息	本当は : TT人怎么样
+2014-11-05 16:33:08 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:09 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:10 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:11 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	爱生活爱开胃 : zhege shi
+2014-11-05 16:33:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	稳健的李亚鹏 : 抗吧走一走
+2014-11-05 16:33:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	zhu379178014 : 贾克斯 贾克斯贾克斯 贾克斯贾克斯 贾克
+2014-11-05 16:33:12 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	jlxxt : 输了。
+2014-11-05 16:33:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	绝情的吉他 : 你对你师父有什么看法
+2014-11-05 16:33:13 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	cjwydwj : 我师傅一秒5口
+2014-11-05 16:33:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	平清盛 : 请二号树取妈
+2014-11-05 16:33:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	青青子吟悠悠我心 : 我宋自强第一个不服
+2014-11-05 16:33:14 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	一场游戏一场梦丶 : 演他
+2014-11-05 16:33:15 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	MX041029 : 草排的都是国服前几的
+2014-11-05 16:33:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	鬼影大叔 : 不是那个
+2014-11-05 16:33:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	hipiop : 这个是KAKAO
+2014-11-05 16:33:16 INFO SQLiteUtils:139 - 
+2014-11-05 16:33:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	崔斌 : 你有排到那个韩国人
+2014-11-05 16:33:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	半夏时光丨丶 : ！！！！！！！！！！！！！！！
+2014-11-05 16:34:09 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.20:8005
+2014-11-05 16:34:13 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-11-05 16:34:13 INFO LoginMinaHandler:101 - 登陆的病床编号为: 4916 床
+2014-11-05 16:34:13 INFO LoginMinaHandler:104 - 加入的讨论群组为: 6 组
+2014-11-05 16:34:14 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-11-05 16:34:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	Yuuuuuuu丶 : 蛋糕演起来啊
+2014-11-05 16:34:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	674233928 : 蛋糕  我想看你的安妮
+2014-11-05 16:34:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]一~二~三~四~ 胃必治~ 提摩BOT帅气登场~
+2014-11-05 16:34:17 INFO SQLiteUtils:139 - null
+2014-11-05 16:34:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥很帅吧？？？？？.
+2014-11-05 16:34:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	kurosophie : 666666666666666
+2014-11-05 16:34:18 INFO ContentMinaHandler:90 - 接收到弹幕消息	1142545050 : 不玩武器舍友自杀了！！！！！！
+2014-11-05 16:34:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	a2103000 : 演韩国人一把
+2014-11-05 16:34:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	y3603555 : 蛋糕七小银哪去了？？？？？？？？
+2014-11-05 16:34:20 INFO ContentMinaHandler:90 - 接收到弹幕消息	打不过就找dailian : 这是kisshea 不是kisshe
+2014-11-05 16:34:20 INFO ContentMinaHandler:104 - 接收到礼物消息	四眼田鸡 赠送给主播100个鱼丸
+2014-11-05 16:34:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	可爱的五花肉 : 蛋糕嘟嘟呢蛋糕嘟嘟呢蛋糕嘟嘟呢蛋糕嘟嘟啊
+2014-11-05 16:34:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	LLLLL_AxG : 哈哈
+2014-11-05 16:34:22 INFO SQLiteUtils:141 - java.sql.SQLException: no such column: 'id'
+2014-11-05 16:34:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	可爱的小犊子 : 是kakao吗？
+2014-11-05 16:34:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥很帅吧？？？？？
+2014-11-05 16:34:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕来发盖伦啊...蛋糕来发盖伦啊
+2014-11-05 16:34:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	KidKidKid : 。。。
+2014-11-05 16:34:24 INFO ContentMinaHandler:90 - 接收到弹幕消息	LTY是我老大 : 6666666666
+2014-11-05 16:34:25 INFO ContentMinaHandler:90 - 接收到弹幕消息	wangpai丶sz : 有道理啊
+2014-11-05 16:34:25 INFO ContentMinaHandler:90 - 接收到弹幕消息	我们可以交往吗 : 这是中国人  HE
+2014-11-05 16:34:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	sun2767077 : 66666666666666666666
+2014-11-05 16:34:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	慕白娇龙 : 机智
+2014-11-05 16:34:27 INFO SQLiteUtils:139 - null
+2014-11-05 16:34:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	LLLLL_AxG : 666666666666666666
+2014-11-05 16:34:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	ye121233 : 我糕实力分析
+2014-11-05 16:34:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	麦逆袭 : 6666666666666666666
+2014-11-05 16:34:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	倔强丶 : 蛋糕 工序复杂些······
+2014-11-05 16:34:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	我叫阿赖 : 66666666666666
+2014-11-05 16:34:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	可爱的小犊子 : 这是kakao？
+2014-11-05 16:34:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	951159951 : 蛋糕你卖的飞机杯 是你喝水的那款么
+2014-11-05 16:34:29 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕来发盖伦啊...
+2014-11-05 16:34:29 INFO ContentMinaHandler:90 - 接收到弹幕消息	馒mmmmm : 想做兼职的加微信/QQ:275326788。工资日结，多劳多得。在家的宝妈或者坐
+2014-11-05 16:34:30 INFO ContentMinaHandler:90 - 接收到弹幕消息	喂丶椎名真白 : 66666
+2014-11-05 16:34:31 INFO ContentMinaHandler:104 - 接收到礼物消息	我是粽粽爱糖糖 赠送给主播100个鱼丸
+2014-11-05 16:34:32 INFO SQLiteUtils:141 - java.sql.SQLException: no such column: 'id'
+2014-11-05 16:34:32 INFO ContentMinaHandler:90 - 接收到弹幕消息	浪漫777 : tt是不是基佬
+2014-11-05 16:34:33 INFO ContentMinaHandler:90 - 接收到弹幕消息	我们可以交往吗 : 别演啊大哥
+2014-11-05 16:34:33 INFO ContentMinaHandler:90 - 接收到弹幕消息	一个天然呆的假白痴 : 七小银呢？七小银呢？
+2014-11-05 16:34:33 INFO ContentMinaHandler:90 - 接收到弹幕消息	天堂右转 : 哈哈哈哈哈
+2014-11-05 16:34:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	751252789 : 666666666666
+2014-11-05 16:34:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	可爱的五花肉 : 蛋糕嘟嘟在哪蛋糕嘟嘟在哪蛋糕嘟嘟在哪4
+2014-11-05 16:34:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	东誓丶 : 6666
+2014-11-05 16:34:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	Si克斯God : 不是同一个人
+2014-11-05 16:34:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕来发盖伦啊...蛋糕来发盖伦啊.
+2014-11-05 16:34:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	爱小娴真是太好了 : 有道理
+2014-11-05 16:34:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	928111585 : 66666
+2014-11-05 16:34:37 INFO SQLiteUtils:139 - null
+2014-11-05 16:34:37 INFO ContentMinaHandler:90 - 接收到弹幕消息	xyxyxy11204 : 这人是不是KAKAO?
+2014-11-05 16:34:37 INFO ContentMinaHandler:90 - 接收到弹幕消息	PLA丶响箭 : 蛋糕，我同学癌症，临时前想看你一盘贾克斯
+2014-11-05 16:34:37 INFO ContentMinaHandler:90 - 接收到弹幕消息	15182819165 : 蛋糕贵些。。。
+2014-11-05 16:34:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	四眼田鸡 : 来把JAX吧
+2014-11-05 16:34:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	可爱的小犊子 : 这是不是kakao啊
+2014-11-05 16:34:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	wo5053480 : 真的 说说小银啊
+2014-11-05 16:34:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	674233928 : 蛋糕      我想看你的安妮
+2014-11-05 16:34:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	二笔黄 : 蛋糕你和董小飒几几开
+2014-11-05 16:34:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	安静的神 : 这个是中国人！！
+2014-11-05 16:34:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	nanaiqi : 七小银现在的MD战队打职业
+2014-11-05 16:34:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕来发盖伦啊...
+2014-11-05 16:34:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？
+2014-11-05 16:34:42 INFO SQLiteUtils:139 - null
+2014-11-05 16:34:42 INFO ContentMinaHandler:90 - 接收到弹幕消息	人傻钱多 : 这个是中国人啊！
+2014-11-05 16:34:43 INFO ContentMinaHandler:90 - 接收到弹幕消息	救赎啊啊啊 : 这个是小芭比、
+2014-11-05 16:34:43 INFO ContentMinaHandler:90 - 接收到弹幕消息	gogolz : 饼干在蛋糕面前就是个渣渣
+2014-11-05 16:34:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	fisker23 : 蛋糕哥， 白银怕分用什么英雄好啊
+2014-11-05 16:34:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	y3603555 : 蛋糕 七小银呢？？？？？？？？？？？？？
+2014-11-05 16:34:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	Red丶lights : 怎么打潘森？
+2014-11-05 16:34:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	a632655543 : 这个不是啊
+2014-11-05 16:34:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	木乃伊_uOX : 这抽烟的速度
+2014-11-05 16:34:46 INFO ContentMinaHandler:90 - 接收到弹幕消息	崔斌 : 我就从来不吃饼干 太干了不爱吃
+2014-11-05 16:34:47 INFO ContentMinaHandler:90 - 接收到弹幕消息	一个天然呆的假白痴 : 七小银呢？七小银呢？七小银呢？七小银呢？
+2014-11-05 16:34:47 INFO SQLiteUtils:139 - null
+2014-11-05 16:34:47 INFO ContentMinaHandler:90 - 接收到弹幕消息	80metal : 刀妹刀妹刀妹刀妹刀妹刀妹
+2014-11-05 16:34:48 INFO ContentMinaHandler:104 - 接收到礼物消息	狸小猫 赠送给主播100个鱼丸
+2014-11-05 16:34:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？.
+2014-11-05 16:34:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕来发盖伦啊...蛋糕来发盖伦啊...
+2014-11-05 16:34:49 INFO ContentMinaHandler:90 - 接收到弹幕消息	cjwydwj : 蛋糕来盘鬼子
+2014-11-05 16:34:49 INFO ContentMinaHandler:104 - 接收到礼物消息	狸小猫 赠送给主播100个鱼丸
+2014-11-05 16:34:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	L1sa_Wu : ..
+2014-11-05 16:34:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	殴打小朋友喽 : 飞机杯可以用来喝水吗
+2014-11-05 16:34:51 INFO ContentMinaHandler:90 - 接收到弹幕消息	我是个小白 : 演
+2014-11-05 16:34:51 INFO ContentMinaHandler:104 - 接收到礼物消息	狸小猫 赠送给主播100个鱼丸
+2014-11-05 16:34:52 INFO SQLiteUtils:141 - java.sql.SQLException: no such column: 'id'
+2014-11-05 16:34:52 INFO ContentMinaHandler:90 - 接收到弹幕消息	戴路 : 来一波  安妮 ~！！！！！！！！！！！
+2014-11-05 16:34:52 INFO ContentMinaHandler:90 - 接收到弹幕消息	我们可以交往吗 : 这特么是HE 不是SHE
+2014-11-05 16:34:53 INFO ContentMinaHandler:90 - 接收到弹幕消息	aka_terry : 不是一个ID 看好了
+2014-11-05 16:34:53 INFO ContentMinaHandler:104 - 接收到礼物消息	微微涼 赠送给主播100个鱼丸
+2014-11-05 16:34:53 INFO ContentMinaHandler:90 - 接收到弹幕消息	swilr : 这个是高仿的 不是本体
+2014-11-05 16:34:53 INFO ContentMinaHandler:90 - 接收到弹幕消息	Si克斯God : 这个事中国人
+2014-11-05 16:34:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？
+2014-11-05 16:34:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	电竞霍建华 : 你说的是SHE
+2014-11-05 16:34:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	Ailenroc : 蛋糕，油条表示不服啊
+2014-11-05 16:34:55 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕来发盖伦啊...蛋糕来发盖伦啊.
+2014-11-05 16:34:55 INFO ContentMinaHandler:90 - 接收到弹幕消息	GodAria昕 : bgm是什么
+2014-11-05 16:34:56 INFO ContentMinaHandler:90 - 接收到弹幕消息	380334880 : 再次实力掉线～
+2014-11-05 16:34:56 INFO ContentMinaHandler:90 - 接收到弹幕消息	qwero1020 : 棒子快上第一了
+2014-11-05 16:34:57 INFO SQLiteUtils:141 - java.sql.SQLException: no such column: 'id'
+2014-11-05 16:34:57 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶私人专属 : 挂他
+2014-11-05 16:34:57 INFO ContentMinaHandler:90 - 接收到弹幕消息	JustManA : 蛋糕  你平时吃哪家牛肉面？去狙击你啊
+2014-11-05 16:34:58 INFO ContentMinaHandler:90 - 接收到弹幕消息	178958742 : PE 甘乐  不是很厉害
+2014-11-05 16:34:58 INFO ContentMinaHandler:90 - 接收到弹幕消息	我们可以交往吗 : 是中国人。。。
+2014-11-05 16:34:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	fuckinghappy : 蛋糕你抽的什么烟蛋糕你抽的什么烟蛋糕你抽
+2014-11-05 16:34:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	兔子专吃窝边草 : 这个不是
+2014-11-05 16:35:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？.
+2014-11-05 16:35:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	qiutian2oo4 : 那个叫SHE
+2014-11-05 16:35:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	电竞霍建华 : 不是HE
+2014-11-05 16:35:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	安小暖丶aaaa : 是不是无双啊
+2014-11-05 16:35:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	Sun3ric : 直播挂机啊
+2014-11-05 16:35:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕来发盖伦啊...
+2014-11-05 16:35:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	musen08 : 武器来一发。。。
+2014-11-05 16:35:02 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	强儿 : 不是他
+2014-11-05 16:35:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	liohao : 武器武器武器武器
+2014-11-05 16:35:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	Si克斯God : 少个s
+2014-11-05 16:35:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	魔神赵曰天 : 这个id不是假的吗
+2014-11-05 16:35:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	951159951 : 蛋糕飞机杯是什么  你刚喝水的那个么
+2014-11-05 16:35:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	逗于很好吗 : 那是SHE   这是HE
+2014-11-05 16:35:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	我们可以交往吗 : 大哥别乱来啊
+2014-11-05 16:35:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	因为梦醒 : 这是kisshe啊不是kissshe
+2014-11-05 16:35:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？
+2014-11-05 16:35:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	1194630969 : 斗鱼还有一个油条呢
+2014-11-05 16:35:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	txz1031 : 演他啊
+2014-11-05 16:35:07 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	红颜独上青楼 : 这烟瘾吓尿
+2014-11-05 16:35:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	我不是老司机 : 不是一个号啊哥
+2014-11-05 16:35:08 INFO ContentMinaHandler:90 - 接收到弹幕消息	a395814412 : 说了这是中国人
+2014-11-05 16:35:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	zq358932459 : 这个到底是不是
+2014-11-05 16:35:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	强性吹B : 这个不是的这个不是的这个不是的这个不是的
+2014-11-05 16:35:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	85424649 : 我糕我舍友临死前想看你玩一盘贾克斯
+2014-11-05 16:35:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq5555555 : 这个是He 不是she
+2014-11-05 16:35:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	braovi : 蛋糕 我要为你生孩子
+2014-11-05 16:35:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	421406994 : 蛋糕来发盖伦啊...蛋糕来发盖伦啊...
+2014-11-05 16:35:12 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	710459487 : 求剑圣上单
+2014-11-05 16:35:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	裤子太紧不能自拔 : 蛋糕你一天得抽四包吧
+2014-11-05 16:35:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	死神乄草莓丶 : 提莫上单
+2014-11-05 16:35:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	我和你母亲有个约会 : 是时候用贾克斯证明自己了
+2014-11-05 16:35:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	就不送你鱼丸 : 不是一个人
+2014-11-05 16:35:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	我们可以交往吗 : 这是中国人。。
+2014-11-05 16:35:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？·
+2014-11-05 16:35:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	我一个人丶 : 小芭比
+2014-11-05 16:35:17 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	好大一个西瓜_acfun : 你都快成烟囱了~~~~
+2014-11-05 16:35:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	昔日酱 : 这个不是小芭比吗
+2014-11-05 16:35:18 INFO ContentMinaHandler:90 - 接收到弹幕消息	那夜丶你真美 : 蛋糕饼干就油条
+2014-11-05 16:35:18 INFO ContentMinaHandler:90 - 接收到弹幕消息	kl2207452213 : 偷塔盖伦来一发。
+2014-11-05 16:35:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	强儿 : 这个是中国的
+2014-11-05 16:35:20 INFO ContentMinaHandler:90 - 接收到弹幕消息	LTY是我老大 : ruaki。。。。。
+2014-11-05 16:35:20 INFO ContentMinaHandler:90 - 接收到弹幕消息	青穆丶 : kakao是kissyou
+2014-11-05 16:35:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	多多Abcd : kakao是kissyou
+2014-11-05 16:35:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？
+2014-11-05 16:35:22 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	我们可以交往吗 : 卡你妹
+2014-11-05 16:35:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	1142545050 : 武器！！！！！！！！！
+2014-11-05 16:35:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	最爱大萝莉 : 不是kakao  你会说中文的
+2014-11-05 16:35:24 INFO ContentMinaHandler:90 - 接收到弹幕消息	710459487 : 求剑圣上单
+2014-11-05 16:35:25 INFO ContentMinaHandler:90 - 接收到弹幕消息	反差LXP : 蛋糕你跟电棍排啊，比比谁更浪
+2014-11-05 16:35:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	苏冷末 : 国服第一那Dopa呢
+2014-11-05 16:35:27 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	Q德花 : 醉了。。
+2014-11-05 16:35:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	LTY是我老大 : 我老公的老婆66666666666666
+2014-11-05 16:35:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？·
+2014-11-05 16:35:29 INFO ContentMinaHandler:90 - 接收到弹幕消息	我和你母亲有个约会 : 贾克斯来一把
+2014-11-05 16:35:30 INFO ContentMinaHandler:90 - 接收到弹幕消息	710459487 : 求剑圣上单求剑圣上单
+2014-11-05 16:35:31 INFO ContentMinaHandler:90 - 接收到弹幕消息	laminia : kakao跟rookie是搞基的????
+2014-11-05 16:35:32 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:32 INFO ContentMinaHandler:90 - 接收到弹幕消息	nds9173 : 演他
+2014-11-05 16:35:33 INFO ContentMinaHandler:90 - 接收到弹幕消息	Blackrainbow64 : 这局稳了输 有甘神在
+2014-11-05 16:35:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？
+2014-11-05 16:35:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	死神乄草莓丶 : 提莫上单 提莫上单
+2014-11-05 16:35:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	Kairigan : 蛋糕 帮我分析下 我吸血鬼没机会开团
+2014-11-05 16:35:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	衡阳一碗卤粉加蛋 : 无双第二啊
+2014-11-05 16:35:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	我们可以交往吗 : 卡靠是KISSYOY
+2014-11-05 16:35:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	强儿 : 不是kakao
+2014-11-05 16:35:37 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:37 INFO ContentMinaHandler:90 - 接收到弹幕消息	非议与责难 : 你老公的老婆？
+2014-11-05 16:35:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	zhu379178014 : 武器大师啊
+2014-11-05 16:35:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	前排逗鱼 : 你用韩文跟他交流一下
+2014-11-05 16:35:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	一个天然呆的假白痴 : 七小银呢？七小银呢？
+2014-11-05 16:35:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	aka_terry : 3P
+2014-11-05 16:35:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	富帅呀呀呀 : 3P
+2014-11-05 16:35:40 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？·
+2014-11-05 16:35:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	ComBo丶 : 演他。。。
+2014-11-05 16:35:42 INFO SQLiteUtils:139 - null
+2014-11-05 16:35:42 INFO ContentMinaHandler:90 - 接收到弹幕消息	安小暖丶aaaa : 3p = =
+2014-11-05 16:35:43 INFO ContentMinaHandler:90 - 接收到弹幕消息	85424649 : 3p
+2014-11-05 16:35:43 INFO ContentMinaHandler:90 - 接收到弹幕消息	lifeng332465 : 一天四包你够抽？
+2014-11-05 16:35:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	昔日酱 : +666666666
+2014-11-05 16:35:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	JustManA : 蛋糕  你平时吃哪家牛肉面？？去狙击你啊
+2014-11-05 16:35:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	倔强丶 : 3P??
+2014-11-05 16:35:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	电竞周杰宝 : 说说七小银去哪了
+2014-11-05 16:35:53 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.20:8005
+2014-11-05 16:35:58 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-11-05 16:35:58 INFO LoginMinaHandler:101 - 登陆的病床编号为: 4916 床
+2014-11-05 16:35:58 INFO LoginMinaHandler:104 - 加入的讨论群组为: 21 组
+2014-11-05 16:35:58 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2014-11-05 16:36:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	nanaiqi : 七小银在MD战队  发你吗
+2014-11-05 16:36:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]一~二~三~四~ 胃必治~ 提摩BOT帅气登场~
+2014-11-05 16:36:01 INFO SQLiteUtils:139 - null
+2014-11-05 16:36:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	一米一光年 : 我最喜欢看刀妹了。。。
+2014-11-05 16:36:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？··
+2014-11-05 16:36:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	富帅呀呀呀 : ↑无敌
+2014-11-05 16:36:06 INFO SQLiteUtils:139 - null
+2014-11-05 16:36:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	你不知道我知不知道 : 3P  66666666666
+2014-11-05 16:36:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	活在梦里三千世界 : kissyou不是KAKAO吗
+2014-11-05 16:36:08 INFO ContentMinaHandler:90 - 接收到弹幕消息	渺慕丶 : 这不是KAKAO
+2014-11-05 16:36:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	青青子吟悠悠我心 : 3P 3P 3P
+2014-11-05 16:36:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？
+2014-11-05 16:36:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	精灵契约 : 来3P 上不上！
+2014-11-05 16:36:11 INFO SQLiteUtils:139 - null
+2014-11-05 16:36:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	电竞周杰宝 : 说说七小银呢
+2014-11-05 16:36:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq5555555 : 这把要带节奏了
+2014-11-05 16:36:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	Best逗比CN : [emot:kx][emot:kx]
+2014-11-05 16:36:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	Si克斯God : 不是韩国人
+2014-11-05 16:36:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	不敢再想你丶 : 不是夜音符么？
+2014-11-05 16:36:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	a2844657 : 看看天赋什么的啊,蛋糕
+2014-11-05 16:36:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	KoonHon : 不是同一个阿.
+2014-11-05 16:36:16 INFO SQLiteUtils:139 - null
+2014-11-05 16:36:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	渺慕丶 : 这个人是打AD的
+2014-11-05 16:36:18 INFO ContentMinaHandler:90 - 接收到弹幕消息	yjk1222 : 第三是kissshe 这个事kisshe
+2014-11-05 16:36:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	imcpit : 兄弟
+2014-11-05 16:36:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶好听的故事 : 3P
+2014-11-05 16:36:20 INFO ContentMinaHandler:90 - 接收到弹幕消息	不敢再想你丶 : 是音符啊。
+2014-11-05 16:36:20 INFO ContentMinaHandler:90 - 接收到弹幕消息	mzy1991 : 你够了
+2014-11-05 16:36:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	LanceUrong : 实力唱歌
+2014-11-05 16:36:21 INFO SQLiteUtils:139 - null
+2014-11-05 16:36:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	y4871140 : 是rooik>
+2014-11-05 16:36:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	krsy091 : 那不是rookie
+2014-11-05 16:36:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	JustManA : 蛋糕  你平时吃哪家牛肉面？去狙击你啊！
+2014-11-05 16:36:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	想智妍想得手都酸了 : 歌声感人
+2014-11-05 16:36:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	一米一光年 : 主播 换蓝色的那个皮肤。。。。。。。。。
+2014-11-05 16:36:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	xiaoleigod : 西北歌王又来了
+2014-11-05 16:36:26 INFO SQLiteUtils:139 - null
+2014-11-05 16:36:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	mzy1991 : 别这样
+2014-11-05 16:36:29 INFO ContentMinaHandler:90 - 接收到弹幕消息	奥黛丽灬赫本 : 歌名
+2014-11-05 16:36:30 INFO ContentMinaHandler:90 - 接收到弹幕消息	1142545050 : 我室友自杀了！！！！不玩武器
+2014-11-05 16:36:31 INFO ContentMinaHandler:104 - 接收到礼物消息	黑子1 赠送给主播100个鱼丸
+2014-11-05 16:36:31 INFO SQLiteUtils:139 - 247
+2014-11-05 16:36:32 INFO ContentMinaHandler:90 - 接收到弹幕消息	215528150 : 蛋糕，我就想问嘟嘟呢？嘟嘟嘟嘟
+2014-11-05 16:36:33 INFO ContentMinaHandler:90 - 接收到弹幕消息	我是逗B : 66666666666666666666
+2014-11-05 16:36:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	cjx0516 : 3P嬲
+2014-11-05 16:36:35 INFO ContentMinaHandler:104 - 接收到礼物消息	凭栏雨歇 赠送给主播100个鱼丸
+2014-11-05 16:36:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	koyo_110 : 蛋糕我以为你是一个长的正气的人
+2014-11-05 16:36:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？
+2014-11-05 16:36:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 黑子1 送的 100 个丸子.
+2014-11-05 16:36:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	反差LXP : 想看蛋糕跟电棍排，到底谁是 第一浪！！！
+2014-11-05 16:36:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	sunshine_SPF : 蛋糕你打得过我冷师傅吗
+2014-11-05 16:36:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	43138883 : KAKAO麼麼噠KISSYOU！！！！！
+2014-11-05 16:36:41 INFO SQLiteUtils:139 - 251
+2014-11-05 16:36:43 INFO ContentMinaHandler:90 - 接收到弹幕消息	请叫我叔大丶 : 不要在意这些细节.~~~
+2014-11-05 16:36:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	kl2207452213 : 不玩偷塔盖伦。差评。
+2014-11-05 16:36:46 INFO ContentMinaHandler:90 - 接收到弹幕消息	VSISE : 蛋糕，大表哥现实也如照片那么帅？？·
+2014-11-05 16:36:46 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 凭栏雨歇 送的 100 个丸子……
+2014-11-05 16:36:47 INFO ContentMinaHandler:90 - 接收到弹幕消息	木有鱼丶丸子 : 野区符号怎么打.....
+2014-11-05 16:36:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	反差LXP : 想看蛋糕跟电棍排，到底谁是 第一浪！！
+2014-11-05 16:36:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	moenopsy : 我要听星球之光
+2014-11-05 16:36:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	突突 : kakao不爱打RANK 他在韩F才zu
+2014-11-05 16:36:51 INFO SQLiteUtils:139 - 251
+2014-11-05 16:36:53 INFO ContentMinaHandler:90 - 接收到弹幕消息	1045475846 : 我菜发现
+2014-11-05 16:36:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	各种爆炸头喷它口 : 你就说你认识七小银不？？？？？？？？？？
+2014-11-05 16:36:55 INFO ContentMinaHandler:90 - 接收到弹幕消息	冯姓o少年 : TT需要飞机杯吗TT需要飞机杯吗TT需要
+2014-11-05 16:36:56 INFO SQLiteUtils:139 - 251
+2014-11-05 16:36:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	mybike : 么么哒KissHe 已经五连跪了！！！
+2014-11-05 16:37:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	张小乐丫 : ↑
+2014-11-05 16:37:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	拖鞋丶 : 你吃过吗
+2014-11-05 16:37:01 INFO SQLiteUtils:139 - 251
+2014-11-05 16:37:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	可爱的五花肉 : 蛋糕嘟嘟在哪蛋糕嘟嘟在哪蛋糕嘟嘟在哪蛋糕
+2014-11-05 16:37:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	ComBo丶 : 对面阵容有点好
+2014-11-05 16:37:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶好听的故事 : 咸味？
+2014-11-05 16:37:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	多多Abcd : 肛过？
+2014-11-05 16:37:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	器太粗怎么办 : 看来是 舔过
+2014-11-05 16:37:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	宇文行 : 比较受
+2014-11-05 16:37:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	xiaotong : 味道？狐臭么
+2014-11-05 16:37:06 INFO SQLiteUtils:139 - 251
+2014-11-05 16:37:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	倚楼听疯语丶 : 挺有味道/....
+2014-11-05 16:37:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	海南周杰伦 : 不演一把退订
+2014-11-05 16:37:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	wangpai丶sz : 董小飒呢
+2014-11-05 16:37:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	Kairigan : 蛋糕 帮我分析下 我吸血鬼没机会开团
+2014-11-05 16:37:08 INFO ContentMinaHandler:90 - 接收到弹幕消息	InvisibleNing : 哪里有味道？
+2014-11-05 16:37:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	laminia : 你吃过???
+2014-11-05 16:37:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	MCShaw : 这么有味道  你尝过？
+2014-11-05 16:37:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	萨达 : 味♂道
+2014-11-05 16:37:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	反差LXP : 想看蛋糕跟电棍排，到底谁是 第一浪！！！
+2014-11-05 16:37:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	重庆市市长 : 香港脚么
+2014-11-05 16:37:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_aBqKUE : 挺有味道
+2014-11-05 16:37:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	lollipop羅曼丹 : 凤姐也很有味道、、、、、、
+2014-11-05 16:37:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	低端黑 : 挺有味道，狐臭吗
+2014-11-05 16:37:11 INFO SQLiteUtils:139 - 251
+2014-11-05 16:37:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	纸鸢syy : 什么味道  狐臭吗
+2014-11-05 16:37:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	ac982349454 : 有你有味道吗？
+2014-11-05 16:37:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	Minee : 那就是丑了
+2014-11-05 16:37:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	文明观贝拉球 : 味道...
+2014-11-05 16:37:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	lh6512702 : 狐臭味吗？
+2014-11-05 16:37:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	富帅呀呀呀 : 肛过
+2014-11-05 16:37:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	951159951 : 什么味
+2014-11-05 16:37:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	桥逗麻袋 : 看下符文啊，蛋糕············
+2014-11-05 16:37:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	TheRainWoo腐肉根 : 什么味道
+2014-11-05 16:37:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	裤子太紧不能自拔 : 有味道
+2014-11-05 16:37:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	kenshin7 : 什么味？
+2014-11-05 16:37:16 INFO SQLiteUtils:139 - 251
+2014-11-05 16:37:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_aBqKUE : 好吃吗
+2014-11-05 16:37:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	可爱的五花肉 : 蛋糕嘟嘟呢蛋糕嘟嘟在哪蛋糕嘟嘟在哪蛋糕嘟
+2014-11-05 16:37:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	JYOldWaN : 受，有味道
+2014-11-05 16:37:18 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq5555555 : 啥味道？厕所味？
+2014-11-05 16:37:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	依然丶潇洒 : 挺有 味 道
+2014-11-05 16:37:20 INFO ContentMinaHandler:90 - 接收到弹幕消息	sneaker擦 : 你试过啊。还真的味道、666
+2014-11-05 16:37:21 INFO SQLiteUtils:139 - 251
+2014-11-05 16:37:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	y3603555 : 蛋糕 七小银哪去了啊啊啊啊啊啊啊啊啊啊啊
+2014-11-05 16:37:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	玻利维亚 : 算的再问我自杀
+2014-11-05 16:37:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	kadikh : 什么味道
+2014-11-05 16:37:24 INFO ContentMinaHandler:90 - 接收到弹幕消息	JYOldWaN : 蛋糕喜欢的类型
+2014-11-05 16:37:25 INFO ContentMinaHandler:90 - 接收到弹幕消息	大大大大大大大大丶王 : 狐臭还是脚气
+2014-11-05 16:37:25 INFO ContentMinaHandler:90 - 接收到弹幕消息	偷井盖 : 馊味
+2014-11-05 16:37:26 INFO SQLiteUtils:139 - 251
+2014-11-05 16:37:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	用永远来安慰你 : 装b的味道
+2014-11-05 16:37:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	姐夫丶 : 味道是指狐臭吗？
+2014-11-05 16:37:27 INFO ContentMinaHandler:104 - 接收到礼物消息	心态决定命运 赠送给主播100个鱼丸
+2014-11-05 16:37:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	BeauGarcon : 好基啊
+2014-11-05 16:37:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	Best逗比CN : [emot:js]
+2014-11-05 16:37:28 INFO ContentMinaHandler:104 - 接收到礼物消息	心态决定命运 赠送给主播100个鱼丸
+2014-11-05 16:37:29 INFO ContentMinaHandler:90 - 接收到弹幕消息	不敢再想你丶 : 音符啊，
+2014-11-05 16:37:31 INFO SQLiteUtils:139 - 320
+2014-11-05 16:37:32 INFO ContentMinaHandler:90 - 接收到弹幕消息	1247714530 : 菊花不都臭嘛
+2014-11-05 16:37:33 INFO ContentMinaHandler:90 - 接收到弹幕消息	Xoracle : 嘟嘟开杀场了
+2014-11-05 16:37:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	小钻峰 : 懂导猥琐
+2014-11-05 16:37:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	可爱的五花肉 : 蛋糕嘟嘟在哪蛋糕嘟嘟在哪蛋糕嘟嘟在哪年还
+2014-11-05 16:37:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	青青子吟悠悠我心 : 兽,有味道
+2014-11-05 16:37:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	大大大大大大大大柚子 : 这首歌叫什么？
+2014-11-05 16:37:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	chuang0415 : 求告知 刚才万圣节抽奖每个人都可以抽么
+2014-11-05 16:37:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	我叫阿赖 : 男的有味道=女的有气质，反正不好看
+2014-11-05 16:37:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 心态决定命运 送的 200 个丸子!
+2014-11-05 16:37:37 INFO ContentMinaHandler:90 - 接收到弹幕消息	魔神赵曰天 : 比蛋糕好吃？
+2014-11-05 16:37:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	请叫我叔大丶 : 估计都 是 脚神.~~
+2014-11-05 16:37:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	BlackMamba_ : 我糕 舔过
+2014-11-05 16:37:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	7号床是个基佬 : 什么味道
+2014-11-05 16:37:40 INFO ContentMinaHandler:90 - 接收到弹幕消息	尽微凉 : 夜刃好看啊
+2014-11-05 16:37:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	951159951 : 大表哥  蛋糕说你有狐臭
+2014-11-05 16:37:41 INFO SQLiteUtils:139 - 320
+2014-11-05 16:37:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	一个人的温暖 : 吸血鬼侧面开团，
+2014-11-05 16:37:44 INFO ContentMinaHandler:104 - 接收到礼物消息	强儿 赠送给主播100个鱼丸
+2014-11-05 16:37:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶技惊四座 : 给了100元车费吗。
+2014-11-05 16:37:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	她笑靨如花 : 蛋糕 今天直播到几点啊
+2014-11-05 16:37:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	桥逗麻袋 : 看下符文啊
+2014-11-05 16:37:46 INFO ContentMinaHandler:90 - 接收到弹幕消息	贰拾分钟教你做人 : 电棍没蛋糕浪，毕竟蛋糕不死不回不做眼
+2014-11-05 16:37:46 INFO SQLiteUtils:139 - 338
+2014-11-05 16:37:47 INFO ContentMinaHandler:90 - 接收到弹幕消息	EDG丶招煮饭阿姨 : 大表哥比较受，有♂味♂道♂
+2014-11-05 16:37:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	y3603555 : 蛋糕七小银哪去了？？？？？？？？？？？？
+2014-11-05 16:37:49 INFO ContentMinaHandler:90 - 接收到弹幕消息	你回味的经典 : 肛过？
+2014-11-05 16:37:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	戴路 : 你为啥不拿安妮呢 ？？？
+2014-11-05 16:37:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	Se7en丶丶丶 : 每个人都能
+2014-11-05 16:37:51 INFO ContentMinaHandler:90 - 接收到弹幕消息	braovi : 我要你的QQ
+2014-11-05 16:37:51 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 强儿 送的 100 个丸子……
+2014-11-05 16:37:52 INFO ContentMinaHandler:90 - 接收到弹幕消息	反差LXP : 想看蛋糕跟电棍排，到底谁是 第一浪！！
+2014-11-05 16:37:53 INFO ContentMinaHandler:90 - 接收到弹幕消息	Kairigan : 蛋糕 帮我分析下 我吸血鬼没机 会开团
+2014-11-05 16:37:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	宇文行 : 冲QB才能抽皮肤
+2014-11-05 16:37:56 INFO SQLiteUtils:139 - 338
+2014-11-05 16:37:56 INFO ContentMinaHandler:90 - 接收到弹幕消息	JustManA : 蛋糕  你平时吃哪家牛肉面？去狙击你啊
+2014-11-05 16:37:58 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:37:58 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:37:58 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:37:59 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:37:59 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:37:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	jlxxt : 55开
+2014-11-05 16:37:59 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:37:59 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:37:59 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:38:00 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:38:00 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:38:00 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:38:00 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:38:00 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:38:00 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:38:01 INFO SQLiteUtils:139 - 368
+2014-11-05 16:38:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	Yuuuuuuu丶 : 五五开
+2014-11-05 16:38:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	xiaotong : 蛋糕你穿那么少，不冷么
+2014-11-05 16:38:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	六道带土 : [emot:dyfn]
+2014-11-05 16:38:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	braovi : 我要你的 QQ号码
+2014-11-05 16:38:04 INFO ContentMinaHandler:104 - 接收到礼物消息	泣翔少 赠送给主播100个鱼丸
+2014-11-05 16:38:04 INFO ContentMinaHandler:104 - 接收到礼物消息	泣翔少 赠送给主播100个鱼丸
+2014-11-05 16:38:04 INFO ContentMinaHandler:104 - 接收到礼物消息	泣翔少 赠送给主播100个鱼丸
+2014-11-05 16:38:05 INFO ContentMinaHandler:104 - 接收到礼物消息	泣翔少 赠送给主播100个鱼丸
+2014-11-05 16:38:05 INFO ContentMinaHandler:104 - 接收到礼物消息	泣翔少 赠送给主播100个鱼丸
+2014-11-05 16:38:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	Ncdy_不带感 : 666666666666
+2014-11-05 16:38:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	一米一光年 : 夜刃好看、、、、、、、、、、、、、
+2014-11-05 16:38:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 ddbb997 送的 1400 个丸子 
+2014-11-05 16:38:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	LvmAx : 55kai
+2014-11-05 16:38:08 INFO ContentMinaHandler:90 - 接收到弹幕消息	竖锯黄 : bgm是什么
+2014-11-05 16:38:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	wakkads : rookie
+2014-11-05 16:38:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	00使者00 : 55
+2014-11-05 16:38:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	六道带土 : 撸客
+2014-11-05 16:38:11 INFO SQLiteUtils:139 - 377
+2014-11-05 16:38:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	a644239087 : 瑞克斯
+2014-11-05 16:38:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	鸿铭羽 : 最近蛋糕怎么老玩刀妹
+2014-11-05 16:38:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	救赎啊啊啊 : 味道
+2014-11-05 16:38:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	我不是老司机 : 666666666666666666666666
+2014-11-05 16:38:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	SecretPanmeLA : 头像是三浦春马
+2014-11-05 16:38:15 INFO ContentMinaHandler:104 - 接收到礼物消息	Kami丶乱云 赠送给主播100个鱼丸
+2014-11-05 16:38:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 泣翔少 送的 500 个丸子
+2014-11-05 16:38:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	我是大烂人 : 大表哥是个受，下面有味道。
+2014-11-05 16:38:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	Robin丶Wxp : 55K
+2014-11-05 16:38:20 INFO ContentMinaHandler:90 - 接收到弹幕消息	Ncdy_不带感 : 对面55开啊
+2014-11-05 16:38:21 INFO SQLiteUtils:139 - 391
+2014-11-05 16:38:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	Yuuuuuuu丶 : 五五开，蛋糕干啊
+2014-11-05 16:38:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	强儿 : 6666666666666666666
+2014-11-05 16:38:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	Purple若冰 : 哈哈
+2014-11-05 16:38:24 INFO ContentMinaHandler:90 - 接收到弹幕消息	kskskkkk : 五五开！
+2014-11-05 16:38:25 INFO ContentMinaHandler:104 - 接收到礼物消息	ddbb997 赠送给主播100个鱼丸
+2014-11-05 16:38:25 INFO ContentMinaHandler:90 - 接收到弹幕消息	取一念 : 你换个头像啊 怎么还这个
+2014-11-05 16:38:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	ccayo5 : 55开
+2014-11-05 16:38:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 Kami丶乱云 送的 100 个丸子+
+2014-11-05 16:38:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	你回味的经典 : 55开
+2014-11-05 16:38:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	小肥羊灬 : 55开
+2014-11-05 16:38:27 INFO ContentMinaHandler:90 - 接收到弹幕消息	小岛南 : 浓郁的屌臭味
+2014-11-05 16:38:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	我现在不想说话 : 袜子是谁
+2014-11-05 16:38:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	laminia : 撸娃子
+2014-11-05 16:38:29 INFO ContentMinaHandler:90 - 接收到弹幕消息	请叫我叔大丶 : 2333333333333333
+2014-11-05 16:38:31 INFO ContentMinaHandler:90 - 接收到弹幕消息	sknagato : 55555555555555555555
+2014-11-05 16:38:31 INFO ContentMinaHandler:90 - 接收到弹幕消息	a13701943535 : 对面柚柚妹。。
+2014-11-05 16:38:31 INFO SQLiteUtils:139 - 400
+2014-11-05 16:38:32 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_8LhAMB : 对面五五开
+2014-11-05 16:38:34 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq5555555 : 碉堡了 对面55开
+2014-11-05 16:38:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	曾6真6 : 鲁ki
+2014-11-05 16:38:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	鬼影大叔 : 55开
+2014-11-05 16:38:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	安静的神 : 海苔的味道  爱的味道
+2014-11-05 16:38:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	志玲与香蕉 : rookie也是说你英语程度
+2014-11-05 16:38:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	炎の烈风 : 55开在对面啊
+2014-11-05 16:38:36 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 ddbb997 送的 100 个丸子.
+2014-11-05 16:38:37 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_yNYC8O : 蛋糕又要掉线了
+2014-11-05 16:38:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	兴宁市吴奇隆 : 五五开
+2014-11-05 16:38:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	chuang0415 : 求告知 刚才万圣节抽奖每个人都可以抽么
+2014-11-05 16:38:41 INFO SQLiteUtils:139 - 400
+2014-11-05 16:38:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	中囗加油 : 55开是谁 是若风吗
+2014-11-05 16:38:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	7号床是个基佬 : 55开
+2014-11-05 16:38:46 INFO SQLiteUtils:139 - 400
+2014-11-05 16:38:47 INFO ContentMinaHandler:90 - 接收到弹幕消息	abiange : 又要演了？
+2014-11-05 16:38:47 INFO ContentMinaHandler:90 - 接收到弹幕消息	InvisibleNing : 55k 要被吊打
+2014-11-05 16:38:50 INFO ContentMinaHandler:104 - 接收到礼物消息	无名的泪55 赠送给主播100个鱼丸
+2014-11-05 16:38:51 INFO SQLiteUtils:139 - 427
+2014-11-05 16:38:51 INFO ContentMinaHandler:90 - 接收到弹幕消息	反差LXP : 寂寞很厉害啊
+2014-11-05 16:38:53 INFO ContentMinaHandler:104 - 接收到礼物消息	外科医生_qq 赠送给主播100个鱼丸
+2014-11-05 16:38:54 INFO ContentMinaHandler:104 - 接收到礼物消息	qq4513116 赠送给主播100个鱼丸
+2014-11-05 16:38:54 INFO ContentMinaHandler:104 - 接收到礼物消息	qq4513116 赠送给主播100个鱼丸
+2014-11-05 16:38:55 INFO ContentMinaHandler:90 - 接收到弹幕消息	死神乄草莓丶 : pe
+2014-11-05 16:38:56 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 无名的泪55 送的 100 个丸子 
+2014-11-05 16:38:58 INFO ContentMinaHandler:90 - 接收到弹幕消息	chaolovexiu : 55开啊
+2014-11-05 16:38:58 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_APiNJl : 55开和寂寞双排哦
+2014-11-05 16:38:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	上官海棠丶 : PE的坑B
+2014-11-05 16:39:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	富帅呀呀呀 : PE 泔水
+2014-11-05 16:39:00 INFO ContentMinaHandler:104 - 接收到礼物消息	醉叁年 赠送给主播100个鱼丸
+2014-11-05 16:39:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	渺慕丶 : 这个人骂萝莉是菜B
+2014-11-05 16:39:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	evilzyc : 吊打捞逼55开
+2014-11-05 16:39:01 INFO SQLiteUtils:139 - 429
+2014-11-05 16:39:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	不吃洋葱 : 55k
+2014-11-05 16:39:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	a632655543 : 3V3？？
+2014-11-05 16:39:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	TTTMo : 1111
+2014-11-05 16:39:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	反差LXP : 寂寞的泽拉斯很强
+2014-11-05 16:39:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	前排逗鱼 : pe 坑比
+2014-11-05 16:39:05 INFO ContentMinaHandler:104 - 接收到礼物消息	qq_C2jCoU 赠送给主播100个鱼丸
+2014-11-05 16:39:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	请叫我叔大丶 : 三V三.
+2014-11-05 16:39:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	狂暴症有所好转 : 强行狡辩
+2014-11-05 16:39:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 醉叁年 送的 100 个丸子*
+2014-11-05 16:39:07 INFO ContentMinaHandler:104 - 接收到礼物消息	机会风暴 赠送给主播100个鱼丸
+2014-11-05 16:39:07 INFO ContentMinaHandler:104 - 接收到礼物消息	爱上女房东 赠送给主播100个鱼丸
+2014-11-05 16:39:07 INFO ContentMinaHandler:90 - 接收到弹幕消息	小学生的逆袭 : 阿妮是富二代吗
+2014-11-05 16:39:07 INFO ContentMinaHandler:104 - 接收到礼物消息	819349409 赠送给主播100个鱼丸
+2014-11-05 16:39:07 INFO ContentMinaHandler:104 - 接收到礼物消息	abiange 赠送给主播100个鱼丸
+2014-11-05 16:39:08 INFO ContentMinaHandler:104 - 接收到礼物消息	想智妍想得手都酸了 赠送给主播100个鱼丸
+2014-11-05 16:39:08 INFO ContentMinaHandler:104 - 接收到礼物消息	abiange 赠送给主播100个鱼丸
+2014-11-05 16:39:08 INFO ContentMinaHandler:90 - 接收到弹幕消息	geyangzhi : 55开个人感觉没什么素质
+2014-11-05 16:39:08 INFO ContentMinaHandler:104 - 接收到礼物消息	abiange 赠送给主播100个鱼丸
+2014-11-05 16:39:08 INFO ContentMinaHandler:104 - 接收到礼物消息	abiange 赠送给主播100个鱼丸
+2014-11-05 16:39:08 INFO ContentMinaHandler:104 - 接收到礼物消息	abiange 赠送给主播100个鱼丸
+2014-11-05 16:39:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	293420554 : White在对面
+2014-11-05 16:39:09 INFO ContentMinaHandler:104 - 接收到礼物消息	丶兮夜 赠送给主播100个鱼丸
+2014-11-05 16:39:09 INFO ContentMinaHandler:104 - 接收到礼物消息	abiange 赠送给主播100个鱼丸
+2014-11-05 16:39:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	渺慕丶 : 这个甘乐骂萝莉菜
+2014-11-05 16:39:10 INFO ContentMinaHandler:104 - 接收到礼物消息	Salutewzw 赠送给主播100个鱼丸
+2014-11-05 16:39:10 INFO ContentMinaHandler:104 - 接收到礼物消息	小小狠淘气 赠送给主播100个鱼丸
+2014-11-05 16:39:10 INFO ContentMinaHandler:104 - 接收到礼物消息	Salutewzw 赠送给主播100个鱼丸
+2014-11-05 16:39:10 INFO ContentMinaHandler:104 - 接收到礼物消息	fengxddy 赠送给主播100个鱼丸
+2014-11-05 16:39:10 INFO ContentMinaHandler:104 - 接收到礼物消息	丶兮夜 赠送给主播100个鱼丸
+2014-11-05 16:39:10 INFO ContentMinaHandler:104 - 接收到礼物消息	阿夫i 赠送给主播100个鱼丸
+2014-11-05 16:39:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	EDG丶招煮饭阿姨 : 感觉55k虐他，，，
+2014-11-05 16:39:11 INFO ContentMinaHandler:104 - 接收到礼物消息	532225991 赠送给主播100个鱼丸
+2014-11-05 16:39:11 INFO ContentMinaHandler:104 - 接收到礼物消息	小小狠淘气 赠送给主播100个鱼丸
+2014-11-05 16:39:11 INFO ContentMinaHandler:104 - 接收到礼物消息	阿夫i 赠送给主播100个鱼丸
+2014-11-05 16:39:12 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 qq4513116 送的 200 个丸子-
+2014-11-05 16:39:12 INFO ContentMinaHandler:104 - 接收到礼物消息	温暖_woU 赠送给主播100个鱼丸
+2014-11-05 16:39:12 INFO ContentMinaHandler:104 - 接收到礼物消息	麻辣戈屯 赠送给主播100个鱼丸
+2014-11-05 16:39:12 INFO ContentMinaHandler:104 - 接收到礼物消息	阿夫i 赠送给主播100个鱼丸
+2014-11-05 16:39:12 INFO ContentMinaHandler:104 - 接收到礼物消息	禁忌板凳 赠送给主播100个鱼丸
+2014-11-05 16:39:12 INFO ContentMinaHandler:104 - 接收到礼物消息	阿夫i 赠送给主播100个鱼丸
+2014-11-05 16:39:13 INFO ContentMinaHandler:104 - 接收到礼物消息	阿夫i 赠送给主播100个鱼丸
+2014-11-05 16:39:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	y4871140 : PE 甘乐是废物。
+2014-11-05 16:39:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	Kairigan : 蛋糕 求 QQ好友
+2014-11-05 16:39:13 INFO ContentMinaHandler:104 - 接收到礼物消息	温暖_woU 赠送给主播100个鱼丸
+2014-11-05 16:39:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	夜雨初停丶 : 55开在哪直播
+2014-11-05 16:39:14 INFO ContentMinaHandler:104 - 接收到礼物消息	youjizz123 赠送给主播100个鱼丸
+2014-11-05 16:39:14 INFO ContentMinaHandler:104 - 接收到礼物消息	温暖_woU 赠送给主播100个鱼丸
+2014-11-05 16:39:14 INFO ContentMinaHandler:104 - 接收到礼物消息	wh545167880 赠送给主播100个鱼丸
+2014-11-05 16:39:14 INFO ContentMinaHandler:104 - 接收到礼物消息	douyu1303242070 赠送给主播100个鱼丸
+2014-11-05 16:39:14 INFO ContentMinaHandler:104 - 接收到礼物消息	youjizz123 赠送给主播100个鱼丸
+2014-11-05 16:39:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_yc2iea : 。。。好自觉=。=
+2014-11-05 16:39:14 INFO ContentMinaHandler:104 - 接收到礼物消息	温暖_woU 赠送给主播100个鱼丸
+2014-11-05 16:39:14 INFO ContentMinaHandler:104 - 接收到礼物消息	只会辅助怪我咯丶 赠送给主播100个鱼丸
+2014-11-05 16:39:15 INFO ContentMinaHandler:104 - 接收到礼物消息	youjizz123 赠送给主播100个鱼丸
+2014-11-05 16:39:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	画长空 : nidoao l;e
+2014-11-05 16:39:16 INFO ContentMinaHandler:104 - 接收到礼物消息	yl101313jshs 赠送给主播100个鱼丸
+2014-11-05 16:39:16 INFO ContentMinaHandler:104 - 接收到礼物消息	youjizz123 赠送给主播100个鱼丸
+2014-11-05 16:39:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 外科医生_qq 送的 100 个丸子'
+2014-11-05 16:39:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_y0EGbB : 蛋糕去抽奖吧  我抽了2个皮肤一个英雄
+2014-11-05 16:39:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	我是萌萌的60E : 你要的太多了 我给不了
+2014-11-05 16:39:19 INFO ContentMinaHandler:90 - 接收到弹幕消息	jlxxt : BGM？
+2014-11-05 16:39:21 INFO SQLiteUtils:139 - 431
+2014-11-05 16:39:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	腋下抚琴 : 3V3.。。
+2014-11-05 16:39:21 INFO ContentMinaHandler:104 - 接收到礼物消息	19158565 赠送给主播100个鱼丸
+2014-11-05 16:39:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	想智妍想得手都酸了 : 蛋糕你卡主了
+2014-11-05 16:39:21 INFO ContentMinaHandler:90 - 接收到弹幕消息	叫你嫖断diao : 撸本萎
+2014-11-05 16:39:22 INFO ContentMinaHandler:104 - 接收到礼物消息	eand001 赠送给主播100个鱼丸
+2014-11-05 16:39:22 INFO ContentMinaHandler:104 - 接收到礼物消息	chenhang358 赠送给主播100个鱼丸
+2014-11-05 16:39:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	geyangzhi : 55开个人感觉什么素质
+2014-11-05 16:39:23 INFO ContentMinaHandler:104 - 接收到礼物消息	machufeng 赠送给主播100个鱼丸
+2014-11-05 16:39:23 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶好听的故事 : 3V3。。
+2014-11-05 16:39:23 INFO ContentMinaHandler:104 - 接收到礼物消息	TankYuws 赠送给主播100个鱼丸
+2014-11-05 16:39:24 INFO ContentMinaHandler:90 - 接收到弹幕消息	那年的大明湖畔 : 鱼丸欺诈者
+2014-11-05 16:39:25 INFO ContentMinaHandler:104 - 接收到礼物消息	红烧牛肉拉面 赠送给主播100个鱼丸
+2014-11-05 16:39:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	橡樹 : 不是你叼了么
+2014-11-05 16:39:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 youjizz123 送的 400 个丸子+
+2014-11-05 16:39:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶南城花神丨 : 55开始真的有问题 有病
+2014-11-05 16:39:28 INFO ContentMinaHandler:104 - 接收到礼物消息	MichiGob 赠送给主播100个鱼丸
+2014-11-05 16:39:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	泪落黄昏 : PE甘乐 就看过他打一场卡牌 坑的不行
+2014-11-05 16:39:28 INFO ContentMinaHandler:104 - 接收到礼物消息	q350236218 赠送给主播100个鱼丸
+2014-11-05 16:39:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	孫害羞兒 : 55开！！！！！
+2014-11-05 16:39:29 INFO ContentMinaHandler:90 - 接收到弹幕消息	四级潘森喝雪碧 : 甘乐不是演员吗
+2014-11-05 16:39:29 INFO ContentMinaHandler:90 - 接收到弹幕消息	叫你嫖断diao : 撸本萎啊
+2014-11-05 16:39:29 INFO ContentMinaHandler:104 - 接收到礼物消息	19158565 赠送给主播100个鱼丸
+2014-11-05 16:39:29 INFO ContentMinaHandler:104 - 接收到礼物消息	MichiGob 赠送给主播100个鱼丸
+2014-11-05 16:39:29 INFO ContentMinaHandler:104 - 接收到礼物消息	zhao452259641 赠送给主播100个鱼丸
+2014-11-05 16:39:30 INFO ContentMinaHandler:90 - 接收到弹幕消息	橙子先生丶 : PE的不是DOPA看到都怕的呢
+2014-11-05 16:39:30 INFO ContentMinaHandler:90 - 接收到弹幕消息	富帅呀呀呀 : 4V3
+2014-11-05 16:39:30 INFO ContentMinaHandler:104 - 接收到礼物消息	树影摇曳1 赠送给主播100个鱼丸
+2014-11-05 16:39:30 INFO ContentMinaHandler:90 - 接收到弹幕消息	红眼腹黑果蝇 : 对面狮子带球撞人啊
+2014-11-05 16:39:31 INFO ContentMinaHandler:90 - 接收到弹幕消息	EDG丶招煮饭阿姨 : 甘乐中路很少优势的感觉
+2014-11-05 16:39:31 INFO ContentMinaHandler:104 - 接收到礼物消息	MichiGob 赠送给主播100个鱼丸
+2014-11-05 16:39:31 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 Salutewzw 送的 200 个丸子 
+2014-11-05 16:39:32 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_APiNJl : 55开和寂寞双排哦...
+2014-11-05 16:39:32 INFO ContentMinaHandler:104 - 接收到礼物消息	hxj156386667 赠送给主播100个鱼丸
+2014-11-05 16:39:32 INFO ContentMinaHandler:104 - 接收到礼物消息	nnjjlk 赠送给主播100个鱼丸
+2014-11-05 16:39:33 INFO ContentMinaHandler:104 - 接收到礼物消息	nnjjlk 赠送给主播100个鱼丸
+2014-11-05 16:39:33 INFO ContentMinaHandler:90 - 接收到弹幕消息	殊十二丶acfun : 瞬间4v3
+2014-11-05 16:39:33 INFO ContentMinaHandler:104 - 接收到礼物消息	nnjjlk 赠送给主播100个鱼丸
+2014-11-05 16:39:33 INFO ContentMinaHandler:104 - 接收到礼物消息	nnjjlk 赠送给主播100个鱼丸
+2014-11-05 16:39:34 INFO ContentMinaHandler:104 - 接收到礼物消息	你也可以使用该账号 赠送给主播100个鱼丸
+2014-11-05 16:39:34 INFO ContentMinaHandler:104 - 接收到礼物消息	nnjjlk 赠送给主播100个鱼丸
+2014-11-05 16:39:35 INFO ContentMinaHandler:90 - 接收到弹幕消息	孫害羞兒 : white
+2014-11-05 16:39:35 INFO ContentMinaHandler:104 - 接收到礼物消息	电信一区王者守门员 赠送给主播100个鱼丸
+2014-11-05 16:39:36 INFO ContentMinaHandler:104 - 接收到礼物消息	Sabways丶 赠送给主播100个鱼丸
+2014-11-05 16:39:37 INFO ContentMinaHandler:104 - 接收到礼物消息	sktt1雪碧 赠送给主播100个鱼丸
+2014-11-05 16:39:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	死神乄草莓丶 : pe只要玩瑞兹就坑
+2014-11-05 16:39:38 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_APiNJl : 55开和寂寞双排哦544
+2014-11-05 16:39:38 INFO ContentMinaHandler:104 - 接收到礼物消息	电信一区王者守门员 赠送给主播100个鱼丸
+2014-11-05 16:39:38 INFO ContentMinaHandler:104 - 接收到礼物消息	luohao7581631 赠送给主播100个鱼丸
+2014-11-05 16:39:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	ccc123123 : 4V3了
+2014-11-05 16:39:39 INFO ContentMinaHandler:90 - 接收到弹幕消息	宇文行 : 4V3
+2014-11-05 16:39:40 INFO ContentMinaHandler:90 - 接收到弹幕消息	亲翔左右酱 : 敢在你面前玩安妮 我也是醉了
+2014-11-05 16:39:40 INFO ContentMinaHandler:104 - 接收到礼物消息	挚爱小艺 赠送给主播100个鱼丸
+2014-11-05 16:39:41 INFO ContentMinaHandler:104 - 接收到礼物消息	电信一区王者守门员 赠送给主播100个鱼丸
+2014-11-05 16:39:41 INFO ContentMinaHandler:104 - 接收到礼物消息	抹茶的冰淇淋 赠送给主播100个鱼丸
+2014-11-05 16:39:41 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 阿夫i 送的 500 个丸子'
+2014-11-05 16:39:42 INFO ContentMinaHandler:90 - 接收到弹幕消息	gogolz : 被演了
+2014-11-05 16:39:42 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq5555555 : 4v3了
+2014-11-05 16:39:43 INFO ContentMinaHandler:90 - 接收到弹幕消息	大大大大大大大大丶王 : 狮子狗和发条
+2014-11-05 16:39:43 INFO ContentMinaHandler:104 - 接收到礼物消息	梦的迹象 赠送给主播100个鱼丸
+2014-11-05 16:39:44 INFO ContentMinaHandler:90 - 接收到弹幕消息	LanceUrong : 70ping会不会卡啊
+2014-11-05 16:39:44 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:39:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	腋下抚琴 : 风的季节 准备战斗
+2014-11-05 16:39:45 INFO ContentMinaHandler:90 - 接收到弹幕消息	蛋蛋上磨菜刀 : fivefiveopen
+2014-11-05 16:39:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	Skeyzp : fengde j j
+2014-11-05 16:39:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	nanaiqi : 又要躺赢的节奏
+2014-11-05 16:39:48 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶好听的故事 : 这局再输了怎么办
+2014-11-05 16:39:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	请叫我叔大丶 : 准备战斗
+2014-11-05 16:39:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	293420554 : 55开和你们的中有矛盾，经常对喷
+2014-11-05 16:39:51 INFO ContentMinaHandler:90 - 接收到弹幕消息	Forever_RT : 求战歌
+2014-11-05 16:39:53 INFO ContentMinaHandler:90 - 接收到弹幕消息	lengai : 主播今年18岁  主播最擅长的英雄是安妮
+2014-11-05 16:39:54 INFO ContentMinaHandler:90 - 接收到弹幕消息	反差LXP : 这场我看过，被吊打了
+2014-11-05 16:39:54 INFO ContentMinaHandler:104 - 接收到礼物消息	别再碍她i 赠送给主播100个鱼丸
+2014-11-05 16:39:55 INFO ContentMinaHandler:90 - 接收到弹幕消息	zx852456 : 见到pe那个你就输了
+2014-11-05 16:39:55 INFO ContentMinaHandler:104 - 接收到礼物消息	cycy87407 赠送给主播100个鱼丸
+2014-11-05 16:39:56 INFO ContentMinaHandler:90 - 接收到弹幕消息	馒mmmmm : 想做兼职的加微信/QQ:275326788。工资日结，多劳多得。在家的宝妈或者坐
+2014-11-05 16:39:56 INFO ContentMinaHandler:104 - 接收到礼物消息	a684881 赠送给主播100个鱼丸
+2014-11-05 16:39:56 INFO ContentMinaHandler:90 - 接收到弹幕消息	平清盛 : 风的JJ
+2014-11-05 16:39:58 INFO ContentMinaHandler:90 - 接收到弹幕消息	温热小说_acfun : 柚柚妹是 white吗
+2014-11-05 16:39:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	jlxxt : 刚那首bgm是什么
+2014-11-05 16:39:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶妖娆 : 风的季节
+2014-11-05 16:39:59 INFO ContentMinaHandler:90 - 接收到弹幕消息	救赎啊啊啊 : 这个甘乐 坑的要死！
+2014-11-05 16:39:59 INFO ContentMinaHandler:104 - 接收到礼物消息	qq_TWrbit 赠送给主播100个鱼丸
+2014-11-05 16:40:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	挖掘机驾驶员 : 风的季节啊
+2014-11-05 16:40:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	我不愿壹丗平 : 4打3稳了
+2014-11-05 16:40:01 INFO ContentMinaHandler:104 - 接收到礼物消息	qq_L2n1s2 赠送给主播100个鱼丸
+2014-11-05 16:40:01 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 想智妍想得手都酸了 送的 100 个丸子 
+2014-11-05 16:40:02 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:02 INFO ContentMinaHandler:90 - 接收到弹幕消息	Clearloveling : 1111
+2014-11-05 16:40:02 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:02 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	qq_aBqKUE : 怎么抽检啊
+2014-11-05 16:40:03 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:03 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:03 INFO ContentMinaHandler:104 - 接收到礼物消息	miss佳 赠送给主播100个鱼丸
+2014-11-05 16:40:03 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:04 INFO ContentMinaHandler:90 - 接收到弹幕消息	你二大爷他大爷 : 蛋糕你用的啥键盘和鼠标
+2014-11-05 16:40:04 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:04 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:04 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:04 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	腋下抚琴 : 风的JJ 战斗开始
+2014-11-05 16:40:05 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:05 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:05 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:05 INFO ContentMinaHandler:104 - 接收到礼物消息	busad 赠送给主播100个鱼丸
+2014-11-05 16:40:05 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	请叫我叔大丶 : 吓劳资一跳
+2014-11-05 16:40:06 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	a395814412 : BBBB  DDDD JJJJJ
+2014-11-05 16:40:06 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:06 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 douyu1303242070 送的 100 个丸子+
+2014-11-05 16:40:06 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:07 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:07 INFO ContentMinaHandler:104 - 接收到礼物消息	文舞钧天 赠送给主播100个鱼丸
+2014-11-05 16:40:08 INFO ContentMinaHandler:90 - 接收到弹幕消息	小肥羊灬 : 敢在蛋糕面前玩安妮也是吊
+2014-11-05 16:40:09 INFO ContentMinaHandler:90 - 接收到弹幕消息	死神乄草莓丶 : pe只要玩瑞兹就坑  ，，，
+2014-11-05 16:40:10 INFO ContentMinaHandler:90 - 接收到弹幕消息	一米一光年 : 对面是我喜欢的柚子妹妹。、。。。。。。。
+2014-11-05 16:40:11 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 禁忌板凳 送的 100 个丸子~
+2014-11-05 16:40:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	小小罗杰 : 多少分段了?
+2014-11-05 16:40:13 INFO ContentMinaHandler:90 - 接收到弹幕消息	aluka丶 : 怎么没弹幕
+2014-11-05 16:40:14 INFO ContentMinaHandler:90 - 接收到弹幕消息	TTTMo : BB  AIAI   DD  BB AAAA  SSSS
+2014-11-05 16:40:15 INFO ContentMinaHandler:90 - 接收到弹幕消息	DukeEdward : 主要是结婚了
+2014-11-05 16:40:16 INFO ContentMinaHandler:90 - 接收到弹幕消息	晴子是我女神丶 : ddddd
+2014-11-05 16:40:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	loook886 : 感觉要被算计
+2014-11-05 16:40:17 INFO ContentMinaHandler:90 - 接收到弹幕消息	丶好听的故事 : AV画质啊
+2014-11-05 16:40:19 INFO ContentMinaHandler:104 - 接收到礼物消息	gonci 赠送给主播100个鱼丸
+2014-11-05 16:40:20 INFO ContentMinaHandler:90 - 接收到弹幕消息	用永远来安慰你 : 55开就一街边泼皮
+2014-11-05 16:40:22 INFO ContentMinaHandler:90 - 接收到弹幕消息	晴子是我女神丶 : 滴滴滴滴滴滴
+2014-11-05 16:40:24 INFO ContentMinaHandler:90 - 接收到弹幕消息	處吻给叻湮丶 : 毕竟小肥羊
+2014-11-05 16:40:25 INFO ContentMinaHandler:104 - 接收到礼物消息	不懂不懂 赠送给主播100个鱼丸
+2014-11-05 16:40:26 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]感谢 爱上女房东 送的 100 个丸子-
+2014-11-05 16:40:28 INFO ContentMinaHandler:90 - 接收到弹幕消息	陽哥123456 : jikou

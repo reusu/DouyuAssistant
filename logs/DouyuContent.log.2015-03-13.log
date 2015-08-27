@@ -1,0 +1,51 @@
+2015-03-13 08:44:03 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.10:8009
+2015-03-13 08:44:05 INFO LoginMinaHandler:69 - LoginServer:type@=loginres/userid@=1301354530/roomgroup@=0/pg@=0/sessionid@=423218164/username@=visitor1084530/nickname@=visitor1084530/is_signined@=0/signin_count@=0/s@=1426207444/live_stat@=0/npv@=0/
+2015-03-13 08:44:09 INFO LoginMinaHandler:69 - LoginServer:type@=msgrepeaterlist/rid@=928/list@=id@AA=72604@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8602@AS@Sid@AA=72602@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12602@AS@Sid@AA=72603@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8601@AS@Sid@AA=70301@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12601@AS@S/
+2015-03-13 08:44:09 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:44:09 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:44:28 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.51:8040
+2015-03-13 08:44:28 INFO LoginMinaHandler:69 - LoginServer:type@=loginres/userid@=1301354572/roomgroup@=0/pg@=0/sessionid@=942311257/username@=visitor1084572/nickname@=visitor1084572/is_signined@=0/signin_count@=0/s@=1426207467/live_stat@=0/npv@=0/
+2015-03-13 08:44:32 INFO LoginMinaHandler:69 - LoginServer:type@=msgrepeaterlist/rid@=928/list@=id@AA=72604@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8602@AS@Sid@AA=72602@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12602@AS@Sid@AA=72603@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8601@AS@Sid@AA=70301@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12601@AS@S/
+2015-03-13 08:44:32 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:44:32 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:44:53 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.10:8009
+2015-03-13 08:44:53 INFO LoginMinaHandler:69 - LoginServer:type@=loginres/userid@=1301354632/roomgroup@=0/pg@=0/sessionid@=423220039/username@=visitor1084632/nickname@=visitor1084632/is_signined@=0/signin_count@=0/s@=1426207493/live_stat@=0/npv@=0/
+2015-03-13 08:44:57 INFO LoginMinaHandler:69 - LoginServer:type@=msgrepeaterlist/rid@=928/list@=id@AA=72604@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8602@AS@Sid@AA=72602@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12602@AS@Sid@AA=72603@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8601@AS@Sid@AA=70301@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12601@AS@S/
+2015-03-13 08:44:57 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:44:57 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:45:39 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:45:44 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.52:8030
+2015-03-13 08:45:45 INFO LoginMinaHandler:69 - LoginServer:type@=loginres/userid@=1301354727/roomgroup@=0/pg@=0/sessionid@=773799418/username@=visitor1084727/nickname@=visitor1084727/is_signined@=0/signin_count@=0/s@=1426207544/live_stat@=0/npv@=0/
+2015-03-13 08:45:49 INFO LoginMinaHandler:69 - LoginServer:type@=msgrepeaterlist/rid@=928/list@=id@AA=72604@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8602@AS@Sid@AA=72602@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12602@AS@Sid@AA=72603@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8601@AS@Sid@AA=70301@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12601@AS@S/
+2015-03-13 08:45:49 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:45:49 INFO LoginMinaHandler:102 - 获取的登录用户名为: visitor1084727
+2015-03-13 08:45:49 INFO LoginMinaHandler:105 - 登陆的病床编号为: 928 床
+2015-03-13 08:45:49 INFO LoginMinaHandler:108 - 加入的讨论群组为: 0 组
+2015-03-13 08:45:49 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2015-03-13 08:45:50 INFO LoginMinaHandler:69 - LoginServer:type@=scl/cd@=0/maxl@=50/
+2015-03-13 08:45:50 INFO LoginMinaHandler:69 - LoginServer:type@=keeplive/tick@=46/uc@=5/
+2015-03-13 08:46:04 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.52:8032
+2015-03-13 08:46:05 INFO LoginMinaHandler:69 - LoginServer:type@=loginres/userid@=1301354773/roomgroup@=0/pg@=0/sessionid@=806347747/username@=visitor1084773/nickname@=visitor1084773/is_signined@=0/signin_count@=0/s@=1426207564/live_stat@=0/npv@=0/
+2015-03-13 08:46:09 INFO LoginMinaHandler:69 - LoginServer:type@=msgrepeaterlist/rid@=928/list@=id@AA=72604@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8602@AS@Sid@AA=72602@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12602@AS@Sid@AA=72603@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8601@AS@Sid@AA=70301@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12601@AS@S/
+2015-03-13 08:46:09 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:46:09 INFO LoginMinaHandler:102 - 获取的登录用户名为: visitor1084773
+2015-03-13 08:46:09 INFO LoginMinaHandler:105 - 登陆的病床编号为: 928 床
+2015-03-13 08:46:09 INFO LoginMinaHandler:108 - 加入的讨论群组为: 0 组
+2015-03-13 08:46:09 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602
+2015-03-13 08:46:10 INFO LoginMinaHandler:69 - LoginServer:type@=scl/cd@=0/maxl@=50/
+2015-03-13 08:46:10 INFO LoginMinaHandler:69 - LoginServer:type@=keeplive/tick@=66/uc@=6/
+2015-03-13 08:46:23 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.52:8036
+2015-03-13 08:46:23 INFO LoginMinaHandler:69 - LoginServer:type@=loginres/userid@=1301354815/roomgroup@=0/pg@=0/sessionid@=877411574/username@=visitor1084815/nickname@=visitor1084815/is_signined@=0/signin_count@=0/s@=1426207582/live_stat@=0/npv@=0/
+2015-03-13 08:46:27 INFO LoginMinaHandler:69 - LoginServer:type@=msgrepeaterlist/rid@=928/list@=id@AA=72604@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8602@AS@Sid@AA=72602@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12602@AS@Sid@AA=72603@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=8601@AS@Sid@AA=70301@ASnr@AA=1@ASml@AA=10000@ASip@AA=danmu.douyutv.com@ASport@AA=12601@AS@S/
+2015-03-13 08:46:27 INFO LoginMinaHandler:69 - LoginServer:type@=setmsggroup/rid@=928/gid@=0/
+2015-03-13 08:46:27 INFO LoginMinaHandler:102 - 获取的登录用户名为: visitor1084815
+2015-03-13 08:46:27 INFO LoginMinaHandler:105 - 登陆的病床编号为: 928 床
+2015-03-13 08:46:27 INFO LoginMinaHandler:108 - 加入的讨论群组为: 0 组
+2015-03-13 08:46:27 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2015-03-13 08:46:28 INFO LoginMinaHandler:69 - LoginServer:type@=scl/cd@=0/maxl@=50/
+2015-03-13 08:46:28 INFO LoginMinaHandler:69 - LoginServer:type@=keeplive/tick@=84/uc@=7/
+2015-03-13 09:10:21 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.18:8057
+2015-03-13 09:10:26 INFO LoginMinaHandler:102 - 获取的登录用户名为: visitor1089144
+2015-03-13 09:10:26 INFO LoginMinaHandler:105 - 登陆的病床编号为: 928 床
+2015-03-13 09:10:26 INFO LoginMinaHandler:108 - 加入的讨论群组为: 0 组
+2015-03-13 09:10:26 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12602

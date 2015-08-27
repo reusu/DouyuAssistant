@@ -1,0 +1,14 @@
+2014-11-10 13:32:22 WARN JSONObject:454 - Tried to assign property use_p2p:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-11-10 13:32:22 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8018
+2014-11-10 13:32:26 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-11-10 13:32:27 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-11-10 13:32:27 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-11-10 13:32:27 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-11-10 13:32:54 WARN JSONObject:454 - Tried to assign property use_p2p:java.lang.String to bean of class name.yumao.douyu.vo.RoomApiDataVo
+2014-11-10 13:32:54 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8021
+2014-11-10 13:32:58 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-11-10 13:32:58 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-11-10 13:32:58 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-11-10 13:32:58 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-11-10 13:33:00 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]一~二~三~四~ 胃必治~ 提摩BOT帅气登场~
+2014-11-10 13:33:03 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : .

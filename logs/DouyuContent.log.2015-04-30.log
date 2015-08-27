@@ -1,0 +1,5 @@
+2015-04-30 10:53:26 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8026
+2015-04-30 10:53:32 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor530601
+2015-04-30 10:53:32 INFO LoginMinaHandler:110 - 登陆的房间编号为: 582 床
+2015-04-30 10:53:32 INFO LoginMinaHandler:113 - 加入的讨论群组为: 0 组
+2015-04-30 10:53:32 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601

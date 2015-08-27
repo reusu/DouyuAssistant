@@ -1,0 +1,7 @@
+2014-11-13 13:26:43 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8032
+2014-11-13 13:26:48 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-11-13 13:26:48 INFO LoginMinaHandler:101 - 登陆的病床编号为: 582 床
+2014-11-13 13:26:48 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-11-13 13:26:48 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2014-11-13 13:26:50 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : [TeemoBot]一~二~三~四~ 胃必治~ 提摩BOT帅气登场~
+2014-11-13 13:27:05 INFO ContentMinaHandler:90 - 接收到弹幕消息	Teemo : 。。3

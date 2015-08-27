@@ -1,0 +1,5 @@
+2014-12-03 14:20:11 INFO LoginMinaThread:46 - 随机选择登陆服务器 182.18.47.10:8012
+2014-12-03 14:20:16 INFO LoginMinaHandler:98 - 获取的登录用户名为: visitor2121632
+2014-12-03 14:20:16 INFO LoginMinaHandler:101 - 登陆的病床编号为: 8 床
+2014-12-03 14:20:16 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-12-03 14:20:17 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601

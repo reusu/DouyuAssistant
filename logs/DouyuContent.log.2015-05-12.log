@@ -1,0 +1,45 @@
+2015-05-12 10:07:54 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8023
+2015-05-12 10:08:00 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor3591788
+2015-05-12 10:08:00 INFO LoginMinaHandler:110 - 登陆的房间编号为: 138293 床
+2015-05-12 10:08:00 INFO LoginMinaHandler:113 - 加入的讨论群组为: 9 组
+2015-05-12 10:08:00 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2015-05-12 10:08:13 INFO ContentMinaHandler:91 - 接收到弹幕消息	學you止境 : 像 胡夏
+2015-05-12 10:08:16 INFO ContentMinaHandler:106 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:08:19 INFO ContentMinaHandler:106 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:08:23 INFO ContentMinaHandler:106 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:08:23 INFO ContentMinaHandler:106 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:08:23 INFO ContentMinaHandler:106 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:08:52 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8044
+2015-05-12 10:08:53 INFO LoginMinaHandler:98 - 服务器返回错误代码:206
+2015-05-12 10:08:53 INFO LoginMinaHandler:98 - 服务器返回错误代码:51
+2015-05-12 10:08:53 INFO LoginMinaHandler:167 - 失去与验证服务器的连接
+2015-05-12 10:08:56 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.18:8058
+2015-05-12 10:09:00 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor3597637
+2015-05-12 10:09:00 INFO LoginMinaHandler:110 - 登陆的房间编号为: 138293 床
+2015-05-12 10:09:00 INFO LoginMinaHandler:113 - 加入的讨论群组为: 12 组
+2015-05-12 10:09:01 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2015-05-12 10:09:09 INFO ContentMinaHandler:91 - 接收到弹幕消息	wanliu12345 : 脸再瘦点 就是胡夏
+2015-05-12 10:09:14 INFO ContentMinaHandler:91 - 接收到弹幕消息	仲孙珑月 : 不明显的钩子是深渊
+2015-05-12 10:09:26 INFO ContentMinaHandler:106 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:09:48 INFO ContentMinaHandler:106 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:11:22 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.23:8034
+2015-05-12 10:11:27 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor3611299
+2015-05-12 10:11:27 INFO LoginMinaHandler:110 - 登陆的房间编号为: 138293 床
+2015-05-12 10:11:27 INFO LoginMinaHandler:113 - 加入的讨论群组为: 7 组
+2015-05-12 10:11:27 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8601
+2015-05-12 10:11:29 INFO ContentMinaHandler:93 - 接收到弹幕消息	北方傲沉 : 我只认识王者小弟
+2015-05-12 10:11:30 INFO ContentMinaHandler:108 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:11:31 INFO ContentMinaHandler:93 - 接收到弹幕消息	6666神 : 厂长没来
+2015-05-12 10:11:36 INFO ContentMinaHandler:93 - 接收到弹幕消息	女主播你脱了吧 : 这个韩版可以啊
+2015-05-12 10:11:42 INFO ContentMinaHandler:108 - 接收到礼物消息	Teemo 赠送给主播100个鱼丸
+2015-05-12 10:11:46 INFO ContentMinaHandler:108 - 接收到礼物消息	Teemo 赠送给主播520个鱼丸
+2015-05-12 10:11:48 INFO ContentMinaHandler:93 - 接收到弹幕消息	Noroc : 厂长开直播了！！！1
+2015-05-12 10:11:50 INFO ContentMinaHandler:93 - 接收到弹幕消息	jay3858977 : 寒冰带攻速符文的？
+2015-05-12 10:11:53 INFO ContentMinaHandler:93 - 接收到弹幕消息	125586609 : 别给厂长招黑
+2015-05-12 10:11:56 INFO ContentMinaHandler:93 - 接收到弹幕消息	友病i : wolf？
+2015-05-12 10:11:59 INFO ContentMinaHandler:93 - 接收到弹幕消息	18645882567 : 老牛是棒子？
+2015-05-12 16:10:11 INFO LoginMinaThread:47 - 随机选择登陆服务器 182.18.47.17:8043
+2015-05-12 16:10:16 INFO LoginMinaHandler:107 - 获取的登录用户名为: visitor6719997
+2015-05-12 16:10:16 INFO LoginMinaHandler:110 - 登陆的房间编号为: 60843 床
+2015-05-12 16:10:16 INFO LoginMinaHandler:113 - 加入的讨论群组为: 66 组
+2015-05-12 16:10:16 INFO ContentMinaThread:41 - 随机选择弹幕服务器 danmu.douyutv.com:8602

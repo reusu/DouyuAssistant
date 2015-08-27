@@ -1,0 +1,19 @@
+2014-10-15 08:38:58 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.19:8027
+2014-10-15 08:39:24 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.19:8026
+2014-10-15 08:39:28 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-15 08:39:28 INFO LoginMinaHandler:101 - 登陆的病床编号为: 928 床
+2014-10-15 08:39:28 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-15 08:39:29 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:12601
+2014-10-15 08:39:31 INFO LoginMinaHandler:158 - 失去与验证服务器的连接
+2014-10-15 08:39:41 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8017
+2014-10-15 08:39:46 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-15 08:39:46 INFO LoginMinaHandler:101 - 登陆的病床编号为: 928 床
+2014-10-15 08:39:46 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-15 08:39:46 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-10-15 08:39:48 INFO ContentMinaHandler:101 - 接收到礼物消息	Teemo 赠送给主播270个鱼丸
+2014-10-15 09:27:19 INFO LoginMinaThread:45 - 随机选择登陆服务器 117.79.132.21:8020
+2014-10-15 09:27:24 INFO LoginMinaHandler:98 - 获取的登录用户名为: Teemo
+2014-10-15 09:27:24 INFO LoginMinaHandler:101 - 登陆的病床编号为: 928 床
+2014-10-15 09:27:24 INFO LoginMinaHandler:104 - 加入的讨论群组为: 0 组
+2014-10-15 09:27:24 INFO ContentMinaThread:40 - 随机选择弹幕服务器 danmu.douyutv.com:8602
+2014-10-15 09:27:26 INFO ContentMinaHandler:101 - 接收到礼物消息	Teemo 赠送给主播10000个鱼丸
